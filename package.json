@@ -1,0 +1,17 @@
+{
+  "name": "tranzit-api",
+  "version": "1.0.0",
+  "description": "API for metro path finder",
+  "main": "server.js",
+  "scripts": {
+    "dev:server": "nodemon server.js"
+  },
+  "author": "Herd Nerd",
+  "license": "MIT License",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.5.1",
+    "nodemon": "^2.0.9"
+  }
+}
