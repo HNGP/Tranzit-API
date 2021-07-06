@@ -11,24 +11,24 @@ app.use('/graphql', expressGraphQl({
     graphiql: true
 }));
 
-app.get('/', (req, res) => {
-    graph.addNode("Dwarka Sec 21") 
-     .addNode("Dwarka Sec 08")
-     .addNode("Dwarka Sec 09")
-     .addNode("Dwarka Sec 10")
+// app.get('/', (req, res) => {
+//     graph.addNode("Dwarka Sec 21") 
+//      .addNode("Dwarka Sec 08")
+//      .addNode("Dwarka Sec 09")
+//      .addNode("Dwarka Sec 10")
 
-    graph.addRoute("Dwarka Sec 21","Dwarka Sec 08", 3)
-    graph.addRoute("Dwarka Sec 08","Dwarka Sec 21", 3)
-    graph.addRoute("Dwarka Sec 08","Dwarka Sec 09", 2)
-    graph.addRoute("Dwarka Sec 09","Dwarka Sec 08", 2)
-    graph.addRoute("Dwarka Sec 09","Dwarka Sec 10", 1)
-    graph.addRoute("Dwarka Sec 10","Dwarka Sec 09", 1)
+//     graph.addRoute("Dwarka Sec 21","Dwarka Sec 08", 3)
+//     graph.addRoute("Dwarka Sec 08","Dwarka Sec 21", 3)
+//     graph.addRoute("Dwarka Sec 08","Dwarka Sec 09", 2)
+//     graph.addRoute("Dwarka Sec 09","Dwarka Sec 08", 2)
+//     graph.addRoute("Dwarka Sec 09","Dwarka Sec 10", 1)
+//     graph.addRoute("Dwarka Sec 10","Dwarka Sec 09", 1)
 
-    result = graph.findMatricesFloydWarshall("Dwarka Sec 21","Dwarka Sec 10");
-
-
-    return res.json(result);
-})
+//     result = graph.findMatricesFloydWarshall();
 
 
-app.listen(4000, () => console.log(`Server is running on port 4000`));
+//     return res.json(result);
+// })
+
+
+app.listen(5000, () => console.log(`Server is running on port 5000`));

@@ -1,3 +1,4 @@
+const axios = require('axios');
 const {
     GraphQLObjectType,
     GraphQLString,
@@ -7,31 +8,6 @@ const {
     GraphQLNotNull,
     GraphQLFloat
 } = require('graphql');
-
-// const map = [
-//     {
-//         "id": 1,
-//         "name": "Adarsh Nagar",
-//         "connected": [2],
-//         "details": {
-//           "line": ["Yellow Line"],
-//           "layout": "Elevated",
-//           "longitude": 77.169385,
-//           "latitude": 28.718104
-//         }
-//     },
-//     {
-//         "id": 2,
-//         "name": "AIIMS", 
-//         "connected": [1],
-//         "details": {
-//           "line": ["Yellow Line"],
-//           "layout": "Underground",
-//           "longitude": 77.20771,
-//           "latitude": 28.56892
-//         }
-//     }
-// ]
 
 //Station Type
 const detailType = new GraphQLObjectType({
@@ -59,23 +35,31 @@ const stationType = new GraphQLObjectType({
 const RootQuery = new GraphQLObjectType({
     name: 'RootQueryType',
     fields: {
-        station: {
+        stationById: {
             type: stationType,
             args: {
                 id: {type: GraphQLInt}
             },
             resolve(parentValue, args){
-                for(let i = 0; i<map.length;i++){
-                    if(map[i].id == args.id){
-                        return map[i];
-                    }
-                }
+                return axios.get("http://localhost:3000/station/" + args.id)
+                    .then(res => res.data);
             }
         },
-        station: {
+        stations: {
             type: new GraphQLList(stationType),
             resolve(parentValue, args) {
-                return map;
+                return axios.get("http://localhost:3000/station/")
+                    .then(res => res.data);
+            }
+        },
+        stationByName: {
+            type: stationType,
+            args: {
+                name: {type: GraphQLString}
+            },
+            resolve(parentValue, args){
+                return axios.get("http://localhost:3000/station?name=" + args.name)
+                    .then(res => res.data);
             }
         }
     }

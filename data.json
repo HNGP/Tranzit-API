@@ -1,0 +1,26 @@
+{
+    "station": [
+        {
+            "id": 1,
+            "name": "Adarsh Nagar",
+            "connected": [2],
+            "details": {
+                "line": ["Yellow Line"],
+                "layout": "Elevated",
+                "longitude": 77.169385,
+                "latitude": 28.718104
+            }
+        },
+        {
+            "id": 2,
+            "name": "AIIMS", 
+            "connected": [1],
+            "details": {
+                "line": ["Yellow Line"],
+                "layout": "Underground",
+                "longitude": 77.20771,
+                "latitude": 28.56892
+            }
+        }
+    ]
+}
