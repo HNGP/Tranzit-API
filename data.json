@@ -2,7 +2,7 @@
     "station": [
         {
             "id": 1,
-            "name": "Adarsh Nagar",
+            "title": "Adarsh Nagar",
             "connected": [2],
             "details": {
                 "line": ["Yellow Line"],
@@ -13,7 +13,7 @@
         },
         {
             "id": 2,
-            "name": "AIIMS", 
+            "title": "AIIMS", 
             "connected": [1],
             "details": {
                 "line": ["Yellow Line"],

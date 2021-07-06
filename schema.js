@@ -24,7 +24,7 @@ const stationType = new GraphQLObjectType({
     name: 'Station',
     fields: () => ({
         id: {type: GraphQLInt},
-        name: {type: GraphQLString},
+        title: {type: GraphQLString},
         connected: {type: GraphQLList(GraphQLInt)},
         details: {type: detailType}
 
@@ -58,7 +58,7 @@ const RootQuery = new GraphQLObjectType({
                 name: {type: GraphQLString}
             },
             resolve(parentValue, args){
-                return axios.get("http://localhost:3000/station?name=" + args.name)
+                return axios.get("http://localhost:3000/station?title=" + args.name)
                     .then(res => res.data);
             }
         }
