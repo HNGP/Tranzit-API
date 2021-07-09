@@ -8,14 +8,15 @@
     "json:server": "json-server --watch data.json"
   },
   "author": "Herd Nerd",
-  "license": "MIT License",
+  "license": "MIT",
   "dependencies": {
     "axios": "^0.21.1",
-    "dijkstra-floydwarshall-graph": "^1.2.2",
     "express": "^4.17.1",
     "express-graphql": "^0.12.0",
     "graphql": "^15.5.1",
-    "json-server": "^0.16.3",
-    "nodemon": "^2.0.9"
+    "json-server": "^0.16.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.10"
   }
 }
