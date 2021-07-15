@@ -3,6 +3,7 @@ const expressGraphQl = require('express-graphql').graphqlHTTP;
 const schema = require('./schema.js');
 const { findShortestPath } = require('./algo/algo');
 const { map } = require('./stations/delhi');
+const data = require('./stations/delhi-data.json');
 
 const app = express();
 
@@ -12,10 +13,10 @@ app.use('/graphql', expressGraphQl({
 }));
 app.get('/',(req ,res)=>{
     // const ans = getDistance(28.565307,77.122413,28.45437,77.07268);
-    var source = "Adarsh Nagar";
-    var destination = "AIIMS";
+    var source = "1";
+    var destination = "2";
   
-    let result = findShortestPath(map, source, destination);
+    let result = findShortestPath(data.station, source, destination);
 
     return res.json(result);
 });

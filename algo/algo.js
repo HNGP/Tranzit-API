@@ -1,5 +1,4 @@
 const { getDistance } = require("../distance/distance");
-const { map } = require('../stations/delhi'); 
 
 let shortestDistanceNode = (distances, visited) => {
     let shortest = null;
@@ -17,30 +16,32 @@ let shortestDistanceNode = (distances, visited) => {
     let distances = {};
     distances[endNode] = "Infinity";
     let a = {};
-    for(i in problem[startNode]["connected"])
-    {
-        a[i] = getDistance(problem[startNode]["details"]["latitude"], problem[startNode]["details"]["longitude"], problem[i]["details"]["latitude"], problem[i]["details"]["longitude"]);
-    }
+    
+    (problem[parseInt(startNode)-1]["connected"]).forEach(element => {
+      a[element] = getDistance(problem[parseInt(startNode)-1]["details"]["latitude"], problem[parseInt(startNode)-1]["details"]["longitude"], problem[parseInt(element)-1]["details"]["latitude"], problem[parseInt(element)-1]["details"]["longitude"]);
+    });
     
     distances = Object.assign(distances, a);
     
-    let parents = { endNode: null };
-    for (let child in problem[startNode]["connected"]) {
+    let parents = {};
+    parents[endNode] = null;
+
+    (problem[parseInt(startNode)-1]["connected"]).forEach(child => {
       parents[child] = startNode;
-    }
+    });
    
-      let visited = [];
+    let visited = [];
   
     let node = shortestDistanceNode(distances, visited);
-    
     
     while (node) {
       let distance = distances[node];
       b = {};
-      for(i in problem[node]["connected"])
-      {
-          b[i] = getDistance(problem[node]["details"]["latitude"], problem[node]["details"]["longitude"], problem[i]["details"]["latitude"], problem[i]["details"]["longitude"]);
-      }
+
+      (problem[parseInt(node)-1]["connected"]).forEach(i => {
+          b[i] = getDistance(problem[parseInt(node)-1]["details"]["latitude"], problem[parseInt(node)-1]["details"]["longitude"], problem[parseInt(i)-1]["details"]["latitude"], problem[parseInt(i)-1]["details"]["longitude"]);
+      });
+
       let children = b;
           
     // for each of those child nodes:
@@ -70,10 +71,13 @@ let shortestDistanceNode = (distances, visited) => {
     
     let line = [];
 
-    for(var i in shortestPath){
-      line.push(map[shortestPath[i]]["details"]["line"])
-    }    
-    
+    (shortestPath).forEach(i => {
+      line.push(problem[parseInt(i)-1]["details"]["line"])
+    });
+
+    (shortestPath).forEach((element,i) => {
+      shortestPath[i] = problem[i]["title"];
+    });
       
     let results = {
       distance: distances[endNode],
@@ -82,6 +86,6 @@ let shortestDistanceNode = (distances, visited) => {
     };
       
       return results;
-  };
+  }
 
   module.exports.findShortestPath = findShortestPath;

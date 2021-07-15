@@ -1,9 +1,9 @@
 {
     "station": [
         {
-            "id": 1,
+            "id": "1",
             "title": "Adarsh Nagar",
-            "connected": [2],
+            "connected": ["2"],
             "details": {
                 "line": ["Yellow Line"],
                 "layout": "Elevated",
@@ -12,9 +12,9 @@
             }
         },
         {
-            "id": 2,
+            "id": "2",
             "title": "AIIMS", 
-            "connected": [1],
+            "connected": ["1"],
             "details": {
                 "line": ["Yellow Line"],
                 "layout": "Underground",
