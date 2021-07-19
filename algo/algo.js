@@ -86,7 +86,7 @@ let findShortestPath = (problem, startNode, endNode) => {
   });
 
   shortestPath.forEach((element, i) => {
-    shortestPath[i] = problem[i]["title"];
+    shortestPath[i] = problem[parseInt(element)-1]["title"];
   });
 
   let time = (distances[endNode] / 30) * 60;
@@ -134,8 +134,7 @@ let findShortestPath = (problem, startNode, endNode) => {
     time,
     fare,
   };
-  console.log(line);
-  console.log(shortestPath);
+  
   return results;
 };
 

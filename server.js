@@ -12,17 +12,17 @@ app.use(
   "/graphql",
   expressGraphQl({
     schema: schema,
-    graphiql: true,
-  })
-);
-app.get("/", (req, res) => {
-  // const ans = getDistance(28.565307,77.122413,28.45437,77.07268);
-  var source = "1";
-  var destination = "2";
+    graphiql: true
+}));
 
-  let result = findShortestPath(data.station, source, destination);
+app.get('/',(req ,res)=>{
+    // const ans = getDistance(28.565307,77.122413,28.45437,77.07268);
+    var source = "30";
+    var destination = "16";
+  
+    let result = findShortestPath(data.station, source, destination);
 
-  return res.json(result);
+    return res.json(result);
 });
 
 app.get("/geo", (req, res) => {
