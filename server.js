@@ -13,8 +13,8 @@ app.use('/graphql', expressGraphQl({
 }));
 app.get('/',(req ,res)=>{
     // const ans = getDistance(28.565307,77.122413,28.45437,77.07268);
-    var source = "1";
-    var destination = "2";
+    var source = "30";
+    var destination = "16";
   
     let result = findShortestPath(data.station, source, destination);
 
