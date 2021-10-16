@@ -1,4 +1,9 @@
-const { getDistance } = require("../distance/distance");
+const {
+  getDistance,
+  calcTime,
+  calcFare,
+  convertToObj,
+} = require("../utils/util");
 
 let shortestDistanceNode = (distances, visited) => {
   let shortest = null;
@@ -86,55 +91,23 @@ let findShortestPath = (problem, startNode, endNode) => {
   });
 
   shortestPath.forEach((element, i) => {
-    shortestPath[i] = problem[parseInt(element)-1]["title"];
+    shortestPath[i] = problem[parseInt(element) - 1]["title"];
   });
 
-  let time = (distances[endNode] / 30) * 60;
+  let time = calcTime(distances[endNode]);
+  let fare = calcFare(distances[endNode]);
 
-  let fare = 0;
-  if (distances[endNode] >= 0 && distances[endNode] < 2) {
-    fare = 10;
-  }
-  if (distances[endNode] >= 2 && distances[endNode] < 5) {
-    fare = 20;
-  }
-  if (distances[endNode] >= 5 && distances[endNode] < 12) {
-    fare = 30;
-  }
-  if (distances[endNode] >= 12 && distances[endNode] < 21) {
-    fare = 40;
-  }
-  if (distances[endNode] >= 21 && distances[endNode] < 32) {
-    fare = 50;
-  }
-  if (distances[endNode] >= 32) {
-    fare = 60;
-  }
+  console.log(line);
 
-  function convertToObj(a, b) {
-    if (a.length != b.length || a.length == 0 || b[0].length == 0) {
-      return null;
-    }
-    let obj = {};
-
-    a.forEach((k, i) => {
-      obj[k] = b[i];
-    });
-    return obj;
-  }
   let stationsList = convertToObj(shortestPath, line);
 
   let results = {
     distance: distances[endNode],
-    // stations: {
-    //   path: shortestPath,
-    //   line,
-    // },
     stationsList,
     time,
     fare,
   };
-  
+
   return results;
 };
 

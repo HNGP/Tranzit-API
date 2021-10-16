@@ -1,4 +1,4 @@
-const { getDistance } = require("../distance/distance");
+const { getDistance } = require("../utils/util");
 const data = require("../stations/delhi-data.json");
 
 let findNearestStation = (user_latitude, user_longitude) => {

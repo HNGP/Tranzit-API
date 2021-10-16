@@ -2,7 +2,6 @@ const express = require("express");
 const expressGraphQl = require("express-graphql").graphqlHTTP;
 const schema = require("./schema.js");
 const { findShortestPath } = require("./calculations/algo");
-const { findNearestStation } = require("./calculations/geolocation");
 const data = require("./stations/delhi-data.json");
 
 const app = express();
