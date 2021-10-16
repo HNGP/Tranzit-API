@@ -2,6 +2,7 @@ const express = require("express");
 const expressGraphQl = require("express-graphql").graphqlHTTP;
 const schema = require("./schema.js");
 const { findShortestPath } = require("./algo/algo");
+const { findNearestStation } = require("./algo/geolocation");
 const { map } = require("./stations/delhi");
 const data = require("./stations/delhi-data.json");
 const { getDistance } = require("./distance/distance");
@@ -29,25 +30,8 @@ app.get("/", (req, res) => {
 app.get("/geo", (req, res) => {
   let latitude_user = req.query.lat;
   let longitude_user = req.query.lon;
-  let lat2, lon2, dist;
-  let distanceList = [];
 
-  for (let i = 0; i < data.stations.length; i++) {
-    lat2 = data.stations[i].details.latitude;
-    lon2 = data.stations[i].details.longitude;
-    dist = getDistance(latitude_user, longitude_user, lat2, lon2);
-    distanceList.push(dist);
-  }
-
-  let leastDistance = Math.min(...distanceList);
-  i = distanceList.indexOf(leastDistance);
-
-  const geoResult = {
-    nearestStation: data.stations[i].title,
-    distance: leastDistance,
-  };
-
-  return res.json(geoResult);
+  return res.json(findNearestStation(latitude_user, longitude_user));
 
   //http://localhost:5000/geo?lat=28.6409424&lon=77.3836369 TEST URL
 });
