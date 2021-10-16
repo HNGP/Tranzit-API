@@ -4,6 +4,7 @@ const {
   calcFare,
   convertToObj,
 } = require("../utils/util");
+const problem = require("../stations/delhi-data.json").stations;
 
 let shortestDistanceNode = (distances, visited) => {
   let shortest = null;
@@ -18,7 +19,7 @@ let shortestDistanceNode = (distances, visited) => {
   return shortest;
 };
 
-let findShortestPath = (problem, startNode, endNode) => {
+let findShortestPath = (startNode, endNode) => {
   let distances = {};
   distances[endNode] = "Infinity";
   let a = {};

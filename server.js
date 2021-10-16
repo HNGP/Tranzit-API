@@ -19,7 +19,7 @@ app.get("/", (req, res) => {
   var source = "30";
   var destination = "16";
 
-  let result = findShortestPath(data.stations, source, destination);
+  let result = findShortestPath(source, destination);
 
   return res.json(result);
 });
