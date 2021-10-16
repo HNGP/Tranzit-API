@@ -12,17 +12,18 @@ app.use(
   "/graphql",
   expressGraphQl({
     schema: schema,
-    graphiql: true
-}));
+    graphiql: true,
+  })
+);
 
-app.get('/',(req ,res)=>{
-    // const ans = getDistance(28.565307,77.122413,28.45437,77.07268);
-    var source = "30";
-    var destination = "16";
-  
-    let result = findShortestPath(data.station, source, destination);
+app.get("/", (req, res) => {
+  // const ans = getDistance(28.565307,77.122413,28.45437,77.07268);
+  var source = "30";
+  var destination = "16";
 
-    return res.json(result);
+  let result = findShortestPath(data.stations, source, destination);
+
+  return res.json(result);
 });
 
 app.get("/geo", (req, res) => {
@@ -30,20 +31,19 @@ app.get("/geo", (req, res) => {
   let longitude_user = req.query.lon;
   let lat2, lon2, dist;
   let distanceList = [];
-  let nearestObj = [];
-  let nearestStation;
-  for (var i in map) {
-    lat2 = map[i].details.latitude;
-    lon2 = map[i].details.longitude;
+
+  for (let i = 0; i < data.stations.length; i++) {
+    lat2 = data.stations[i].details.latitude;
+    lon2 = data.stations[i].details.longitude;
     dist = getDistance(latitude_user, longitude_user, lat2, lon2);
     distanceList.push(dist);
-    nearestObj.push(i);
   }
+
   let leastDistance = Math.min(...distanceList);
   i = distanceList.indexOf(leastDistance);
 
   const geoResult = {
-    nearestStation: nearestObj[i],
+    nearestStation: data.stations[i].title,
     distance: leastDistance,
   };
 
