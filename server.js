@@ -4,7 +4,6 @@ const schema = require("./schema.js");
 const { findShortestPath } = require("./calculations/algo");
 const { findNearestStation } = require("./calculations/geolocation");
 const data = require("./stations/delhi-data.json");
-const { getDistance } = require("./distance/distance");
 
 const app = express();
 
@@ -24,15 +23,6 @@ app.get("/", (req, res) => {
   let result = findShortestPath(data.stations, source, destination);
 
   return res.json(result);
-});
-
-app.get("/geo", (req, res) => {
-  let latitude_user = req.query.lat;
-  let longitude_user = req.query.lon;
-
-  return res.json(findNearestStation(latitude_user, longitude_user));
-
-  //http://localhost:5000/geo?lat=28.6409424&lon=77.3836369 TEST URL
 });
 
 app.listen(5000, () => console.log(`Server is running on port 5000`));

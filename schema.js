@@ -8,6 +8,7 @@ const {
   GraphQLNotNull,
   GraphQLFloat,
 } = require("graphql");
+const { findNearestStation } = require("./calculations/geolocation");
 const delhi = require("./stations/delhi-data.json");
 
 //Station Type
@@ -29,6 +30,13 @@ const stationType = new GraphQLObjectType({
     details: { type: detailType },
   }),
 });
+const nearestStationType = new GraphQLObjectType({
+  name: "nearestStation",
+  fields: () => ({
+    nearestStation: { type: GraphQLString },
+    distance: { type: GraphQLFloat },
+  }),
+});
 
 //Root Query
 const RootQuery = new GraphQLObjectType({
@@ -45,6 +53,16 @@ const RootQuery = new GraphQLObjectType({
     //       .then((res) => res.data);
     //   },
     // },
+    nearestStation: {
+      type: nearestStationType,
+      args: {
+        latitude: { type: GraphQLFloat },
+        longitude: { type: GraphQLFloat },
+      },
+      resolve(parentValue, args) {
+        return findNearestStation(args.latitude, args.longitude);
+      },
+    },
     stations: {
       type: new GraphQLList(stationType),
       resolve(parentValue, args) {
