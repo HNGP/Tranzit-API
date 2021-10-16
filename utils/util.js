@@ -55,10 +55,13 @@ function convertToObj(a, b) {
   if (a.length != b.length || a.length == 0 || b[0].length == 0) {
     return null;
   }
-  let obj = {};
+  let obj = [];
 
   a.forEach((k, i) => {
-    obj[k] = b[i];
+    obj[i] = {
+      station: k,
+      lines: b[i],
+    };
   });
   return obj;
 }

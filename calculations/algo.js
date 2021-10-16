@@ -97,8 +97,6 @@ let findShortestPath = (problem, startNode, endNode) => {
   let time = calcTime(distances[endNode]);
   let fare = calcFare(distances[endNode]);
 
-  console.log(line);
-
   let stationsList = convertToObj(shortestPath, line);
 
   let results = {
