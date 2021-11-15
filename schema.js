@@ -83,7 +83,7 @@ const RootQuery = new GraphQLObjectType({
     stations: {
       type: new GraphQLList(stationType),
       resolve(parentValue, args) {
-        return delhi.stations.map((station) => station);
+        return delhi.stations;
       },
     },
     route: {
