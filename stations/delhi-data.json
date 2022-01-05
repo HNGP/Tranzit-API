@@ -225,7 +225,7 @@
       "title": "Kashmere Gate",
       "connected": ["9", "6"],
       "details": {
-        "line": ["Red Line", "Yellow Line", "Violet Line"],
+        "line": ["Yellow Line"],
         "layout": "Elevated(RL), Underground(YL), Underground(VL)",
         "longitude": 77.22817,
         "latitude": 28.6675
@@ -269,7 +269,7 @@
       "title": "New Delhi",
       "connected": ["27", "7"],
       "details": {
-        "line": ["Yellow Line", "Airport Express"],
+        "line": ["Yellow Line"],
         "layout": "Underground",
         "longitude": 77.22144,
         "latitude": 28.64307
@@ -291,7 +291,7 @@
       "title": "Rajiv Chowk",
       "connected": ["25", "26"],
       "details": {
-        "line": ["Yellow Line", "Blue Line"],
+        "line": ["Yellow Line"],
         "layout": "Underground",
         "longitude": 77.21826,
         "latitude": 28.63282
@@ -412,7 +412,7 @@
       "title": "Janakpuri West",
       "connected": ["41"],
       "details": {
-        "line": ["Blue Line", "Magenta Line"],
+        "line": ["Magenta Line"],
         "layout": "Elevated",
         "longitude": 77.07767,
         "latitude": 28.62943
@@ -423,7 +423,7 @@
       "title": "Kalkaji Mandir",
       "connected": ["42", "15"],
       "details": {
-        "line": ["Violet Line", "Magenta Line"],
+        "line": ["Magenta Line"],
         "layout": "Elevated",
         "longitude": 77.25835,
         "latitude": 28.55007
@@ -456,7 +456,7 @@
       "title": "Botanical Garden",
       "connected": ["39"],
       "details": {
-        "line": ["Blue Line", "Magenta Line"],
+        "line": ["Magenta Line"],
         "layout": "Elevated",
         "longitude": 77.3342,
         "latitude": 28.56409
