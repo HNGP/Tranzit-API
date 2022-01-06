@@ -989,6 +989,15 @@
 		"id": "110 ",
 		"weight": "[109:1] [111:4] "
 	},
+	"111": {
+		"title": "Sarai Kale Khan Nizamuddin",
+		"line": "Pink Line",
+		"structure": "Underground",
+		"longitude": "28.589309",
+		"latitude": "77.256274",
+		"id": "111 ",
+		"weight": "[110:4] [52:5] "
+	},
 	"112": {
 		"title": "Mayur Vihar Pocket 1",
 		"line": "Blue Line",
