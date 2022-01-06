@@ -1,2009 +1,2054 @@
 {
-    "1": {
-        "title": "Samaypur Badli",
-        "line": "Yellow Line",
-        "structure": "Elevated",
-        "longitude": "28.7446341",
-        "latitude": "77.137893",
-        "id": "001 ",
-        "weight": "[2:3] "
-    },
-    "2": {
-        "title": "Rohini Sector 18 19",
-        "line": "Yellow Line",
-        "structure": "Elevated",
-        "longitude": "28.7383223",
-        "latitude": "77.138780",
-        "id": "002",
-        "weight": "[1:3] [3:4] "
-    },
-    "3": {
-        "title": "Haiderpur Badli Mor",
-        "line": "Yellow Line",
-        "structure": "Elevated",
-        "longitude": "28.7299222",
-        "latitude": "77.146941",
-        "id": "003 ",
-        "weight": "[2:4] [4:3] "
-    },
-    "4": {
-        "title": "Jahangirpuri",
-        "line": "Yellow Line",
-        "structure": "Elevated",
-        "longitude": "28.725828",
-        "latitude": "77.16278",
-        "id": "004 ",
-        "weight": "[3:3] [5:1] "
-    },
-    "5": {
-        "title": "Adarsh Nagar",
-        "line": "Yellow Line",
-        "structure": "Elevated",
-        "longitude": "28.718104",
-        "latitude": "77.16938",
-        "id": "005 ",
-        "weight": "[4:1] [6:4] "
-    },
-    "6": {
-        "title": "Azadpur",
-        "line": "Pink Line",
-        "structure": "Elevated",
-        "longitude": "28.707273",
-        "latitude": "77.17997",
-        "id": "006 ",
-        "weight": "[94:2] [95:5] [5:4] [7:2] "
-    },
-    "7": {
-        "title": "Model Town",
-        "line": "Yellow Line",
-        "structure": "Elevated",
-        "longitude": "28.702822",
-        "latitude": "77.19386",
-        "id": "007 ",
-        "weight": "[6:2] [8:2] "
-    },
-    "8": {
-        "title": "GTB Nagar",
-        "line": "Yellow Line",
-        "structure": "Underground",
-        "longitude": "28.698206",
-        "latitude": "77.20701",
-        "id": "008 ",
-        "weight": "[7:2] [9:2] "
-    },
-    "9": {
-        "title": "Viswavidyalaya",
-        "line": "Yellow Line",
-        "structure": "Underground",
-        "longitude": "28.694813",
-        "latitude": "77.21459",
-        "id": "009",
-        "weight": "[8:2] [10:2] "
-    },
-    "10": {
-        "title": "Vidhan Sabha",
-        "line": "Yellow Line",
-        "structure": "Underground",
-        "longitude": "28.687858",
-        "latitude": "77.22177",
-        "id": "010 ",
-        "weight": "[9:2] [11:3] "
-    },
-    "11": {
-        "title": "Civil Lines",
-        "line": "Yellow Line",
-        "structure": "Underground",
-        "longitude": "28.676921",
-        "latitude": "77.22499",
-        "id": "011 ",
-        "weight": "[10:3] [12:2] "
-    },
-    "12": {
-        "title": "Kashmere Gate",
-        "line": "Yellow Line",
-        "structure": "Elevated",
-        "longitude": "28.667489",
-        "latitude": "77.22804",
-        "id": "012 ",
-        "weight": "[139:4] [140:1] [174:3] [11:2] [13:4] "
-    },
-    "13": {
-        "title": "Chandhni Chowk",
-        "line": "Yellow Line",
-        "structure": "Underground",
-        "longitude": "28.657838",
-        "latitude": "77.23016",
-        "id": "013",
-        "weight": "[12:4] [14:1] "
-    },
-    "14": {
-        "title": "Chawri Bazar",
-        "line": "Yellow Line",
-        "structure": "Underground",
-        "longitude": "28.649564",
-        "latitude": "77.22622",
-        "id": "014 ",
-        "weight": "[144:3] [13:1] [15:2] "
-    },
-    "15": {
-        "title": "New Delhi",
-        "line": "Orange Line",
-        "structure": "Underground",
-        "longitude": "28.642229",
-        "latitude": "77.22153",
-        "id": "015 ",
-        "weight": "[224:2] [14:2] [16:3] "
-    },
-    "16": {
-        "title": "Rajiv Chowk",
-        "line": "Blue Line",
-        "structure": "Underground",
-        "longitude": "28.632846",
-        "latitude": "77.21963",
-        "id": "016 ",
-        "weight": "[58:2] [59:2] [15:3] [17:3] "
-    },
-    "17": {
-        "title": "Patel Chowk",
-        "line": "Yellow Line",
-        "structure": "Underground",
-        "longitude": "28.623235",
-        "latitude": "77.21178",
-        "id": "017 ",
-        "weight": "[16:3] [18:2] "
-    },
-    "18": {
-        "title": "Central Secretariat",
-        "line": "Violet Line",
-        "structure": "Underground",
-        "longitude": "28.615042",
-        "latitude": "77.21178",
-        "id": "018 ",
-        "weight": "[178:1] [179:3] [17:2] [19:2] "
-    },
-    "19": {
-        "title": "Udyog Bhawan",
-        "line": "Yellow Line",
-        "structure": "Underground",
-        "longitude": "28.6110187",
-        "latitude": "77.211149",
-        "id": "019 ",
-        "weight": "[18:2] [20:3] "
-    },
-    "20": {
-        "title": "Lok Kalyan Marg",
-        "line": "Yellow Line",
-        "structure": "Underground",
-        "longitude": "28.5976354",
-        "latitude": "77.209992",
-        "id": "020",
-        "weight": "[19:3] [21:3] "
-    },
-    "21": {
-        "title": "Jorbagh",
-        "line": "Yellow Line",
-        "structure": "Underground",
-        "longitude": "28.5860802",
-        "latitude": "77.212036",
-        "id": "021 ",
-        "weight": "[20:3] [22:2] "
-    },
-    "22": {
-        "title": "INA",
-        "line": "Pink Line",
-        "structure": "Underground",
-        "longitude": "28.5752244",
-        "latitude": "77.207311",
-        "id": "022 ",
-        "weight": "[106:2] [107:2] [21:2] [23:3] "
-    },
-    "23": {
-        "title": "AIIMS",
-        "line": "Yellow Line",
-        "structure": "Underground",
-        "longitude": "28.56667",
-        "latitude": "77.20808",
-        "id": "023 ",
-        "weight": "[22:3] [24:2] "
-    },
-    "24": {
-        "title": "Green Park",
-        "line": "Yellow Line",
-        "structure": "Underground",
-        "longitude": "28.559533",
-        "latitude": "77.206386",
-        "id": "024 ",
-        "weight": "[23:2] [25:2] "
-    },
-    "25": {
-        "title": "Hauz Khas",
-        "line": "Magenta Line",
-        "structure": "Underground",
-        "longitude": "28.543596",
-        "latitude": "77.2041863",
-        "id": "025",
-        "weight": "[161:3] [162:2] [24:2] [26:3] "
-    },
-    "26": {
-        "title": "Malvia Nagar",
-        "line": "Yellow Line",
-        "structure": "Underground",
-        "longitude": "28.5286861",
-        "latitude": "77.203291",
-        "id": "026",
-        "weight": "[25:3] [27:3] "
-    },
-    "27": {
-        "title": "Saket",
-        "line": "Yellow Line",
-        "structure": "Underground",
-        "longitude": "28.5205465",
-        "latitude": "77.200364",
-        "id": "027 ",
-        "weight": "[26:3] [28:3] "
-    },
-    "28": {
-        "title": "Qutab Minar",
-        "line": "Yellow Line",
-        "structure": "Elevated",
-        "longitude": "28.5129",
-        "latitude": "77.186",
-        "id": "028 ",
-        "weight": "[27:3] [29:3] "
-    },
-    "29": {
-        "title": "Chhattarpur",
-        "line": "Yellow Line",
-        "structure": "Elevated",
-        "longitude": "28.506552",
-        "latitude": "77.17492",
-        "id": "029",
-        "weight": "[28:3] [30:2] "
-    },
-    "30": {
-        "title": "Sultanpur",
-        "line": "Yellow Line",
-        "structure": "Elevated",
-        "longitude": "28.499260",
-        "latitude": "77.16136",
-        "id": "030 ",
-        "weight": "[29:2] [31:2] "
-    },
-    "31": {
-        "title": "Ghitorni",
-        "line": "Yellow Line",
-        "structure": "Elevated",
-        "longitude": "28.493785",
-        "latitude": "77.14915",
-        "id": "031 ",
-        "weight": "[30:2] [32:4] "
-    },
-    "32": {
-        "title": "Arjan Garh",
-        "line": "Yellow Line",
-        "structure": "Elevated",
-        "longitude": "28.480796",
-        "latitude": "77.12577",
-        "id": "032 ",
-        "weight": "[31:4] [33:4] "
-    },
-    "33": {
-        "title": "Guru Dronacharya",
-        "line": "Yellow Line",
-        "structure": "Elevated",
-        "longitude": "28.482093",
-        "latitude": "77.10214",
-        "id": "033 ",
-        "weight": "[32:4] [34:2] "
-    },
-    "34": {
-        "title": "Sikandarpur",
-        "line": "Yellow Line",
-        "structure": "Elevated",
-        "longitude": "28.48139",
-        "latitude": "77.0930",
-        "id": "034 ",
-        "weight": "[33:2] [35:3] "
-    },
-    "35": {
-        "title": "MG Road",
-        "line": "Yellow Line",
-        "structure": "Elevated",
-        "longitude": "28.479600",
-        "latitude": "77.07987",
-        "id": "035 ",
-        "weight": "[34:3] [36:3] "
-    },
-    "36": {
-        "title": "IFFCO Chowk",
-        "line": "Yellow Line",
-        "structure": "Elevated",
-        "longitude": "28.472113",
-        "latitude": "77.07240",
-        "id": "036",
-        "weight": "[35:3] [37:2] "
-    },
-    "37": {
-        "title": "HUDA City Centre",
-        "line": "Yellow Line",
-        "structure": "Elevated",
-        "longitude": "28.459278",
-        "latitude": "77.07241",
-        "id": "037 ",
-        "weight": "[36:2] "
-    },
-    "38": {
-        "title": "Noida Electronic City",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.630863",
-        "latitude": "77.37547",
-        "id": "038 ",
-        "weight": "[39:4] "
-    },
-    "39": {
-        "title": "Noida Sector 62",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.617049",
-        "latitude": "77.37361",
-        "id": "039 ",
-        "weight": "[38:4] [40:7] "
-    },
-    "40": {
-        "title": "Noida Sector 59",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.606364",
-        "latitude": "77.37280",
-        "id": "040 ",
-        "weight": "[39:7] [41:4] "
-    },
-    "41": {
-        "title": "Noida Sector 61",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.597470",
-        "latitude": "77.37227",
-        "id": "041 ",
-        "weight": "[40:4] [42:2] "
-    },
-    "42": {
-        "title": "Noida Sector 52",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.586762",
-        "latitude": "77.37290",
-        "id": "042 ",
-        "weight": "[41:2] [43:2] "
-    },
-    "43": {
-        "title": "Noida Sector 34",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.580120",
-        "latitude": "77.36340",
-        "id": "043 ",
-        "weight": "[42:2] [44:4] "
-    },
-    "44": {
-        "title": "Noida City Centre",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.5747",
-        "latitude": "77.356",
-        "id": "044 ",
-        "weight": "[43:4] [45:3] "
-    },
-    "45": {
-        "title": "Golf Course",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.566940",
-        "latitude": "77.34546",
-        "id": "045 ",
-        "weight": "[44:3] [46:2] "
-    },
-    "46": {
-        "title": "Botanical Garden",
-        "line": "Magnet Line",
-        "structure": "Elevated",
-        "longitude": "28.564208",
-        "latitude": "77.33478",
-        "id": "046 ",
-        "weight": "[45:2] [47:2] [173:2] "
-    },
-    "47": {
-        "title": "Noida Sector 18",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.570813",
-        "latitude": "77.32611",
-        "id": "047 ",
-        "weight": "[46:2] [48:2] "
-    },
-    "48": {
-        "title": "Noida Sector 16",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.578549",
-        "latitude": "77.31745",
-        "id": "048 ",
-        "weight": "[47:2] [49:2] "
-    },
-    "49": {
-        "title": "Noida Sector 15",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.584936",
-        "latitude": "77.31175",
-        "id": "049 ",
-        "weight": "[48:2] [50:2] "
-    },
-    "50": {
-        "title": "New Ashok Nagar",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.589119",
-        "latitude": "77.30151",
-        "id": "050 ",
-        "weight": "[49:2] [51:2] "
-    },
-    "51": {
-        "title": "Mayur Vihar Extension",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.594197",
-        "latitude": "77.29449",
-        "id": "051 ",
-        "weight": "[50:2] [52:4] "
-    },
-    "52": {
-        "title": "Mayur Vihar-I",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.604743",
-        "latitude": "77.28932",
-        "id": "052 ",
-        "weight": "[51:4] [53:2] [111:5] [112:1] "
-    },
-    "53": {
-        "title": "Akshardham",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.618216",
-        "latitude": "77.27924",
-        "id": "053 ",
-        "weight": "[52:2] [54:8] "
-    },
-    "54": {
-        "title": "Yamuna Bank",
-        "line": "Blue Line Branch",
-        "structure": "At-Grad",
-        "longitude": "28.620999",
-        "latitude": "77.26011",
-        "id": "054 ",
-        "weight": "[53:8] [55:2] [87:1] "
-    },
-    "55": {
-        "title": "Indraprastha",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.620504",
-        "latitude": "77.24999",
-        "id": "055 ",
-        "weight": "[54:2] [56:1] "
-    },
-    "56": {
-        "title": "Supreme Court",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.623490",
-        "latitude": "77.24252",
-        "id": "056 ",
-        "weight": "[55:1] [57:2] "
-    },
-    "57": {
-        "title": "Mandi House",
-        "line": "Violet Line",
-        "structure": "Underground",
-        "longitude": "28.625816",
-        "latitude": "77.23472",
-        "id": "057 ",
-        "weight": "[56:2] [58:3] [177:1] [178:3] "
-    },
-    "58": {
-        "title": "Barakhamba Road",
-        "line": "Blue Line",
-        "structure": "Underground",
-        "longitude": "28.630689",
-        "latitude": "77.22358",
-        "id": "058",
-        "weight": "[57:3] [16:2] "
-    },
-    "59": {
-        "title": "RK Ashram Marg",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.639268",
-        "latitude": "77.20850",
-        "id": "059 ",
-        "weight": "[16:2] [60:2] "
-    },
-    "60": {
-        "title": "Jhandewalan",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.644399",
-        "latitude": "77.19981",
-        "id": "060 ",
-        "weight": "[59:2] [61:2] "
-    },
-    "61": {
-        "title": "Karol Bagh",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.643877",
-        "latitude": "77.18854",
-        "id": "061 ",
-        "weight": "[60:2] [62:2] "
-    },
-    "62": {
-        "title": "Rajendra Place",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.642241",
-        "latitude": "77.17826",
-        "id": "062 ",
-        "weight": "[61:2] [63:2] "
-    },
-    "63": {
-        "title": "Patel Nagar",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.645049",
-        "latitude": "77.16925",
-        "id": "063 ",
-        "weight": "[62:2] [64:2] "
-    },
-    "64": {
-        "title": "Shadipur",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.651955",
-        "latitude": "77.15762",
-        "id": "064 ",
-        "weight": "[63:2] [65:2] "
-    },
-    "65": {
-        "title": "Kirti Nagar",
-        "line": "Green Line Branch",
-        "structure": "Elevated",
-        "longitude": "28.655100",
-        "latitude": "77.15147",
-        "id": "065 ",
-        "weight": "[64:2] [66:2] [223:2] "
-    },
-    "66": {
-        "title": "Moti Nagar",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.658131",
-        "latitude": "77.14256",
-        "id": "066 ",
-        "weight": "[65:2] [67:2] "
-    },
-    "67": {
-        "title": "Ramesh Nagar",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.652972",
-        "latitude": "77.13150",
-        "id": "067 ",
-        "weight": "[66:2] [68:2] "
-    },
-    "68": {
-        "title": "Rajouri Garden",
-        "line": "Pink Line",
-        "structure": "Elevated",
-        "longitude": "28.649004",
-        "latitude": "77.12263",
-        "id": "068 ",
-        "weight": "[67:2] [69:2] [99:2] [100:2] "
-    },
-    "69": {
-        "title": "Tagore Garden",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.643688",
-        "latitude": "77.11291",
-        "id": "069 ",
-        "weight": "[68:2] [70:2] "
-    },
-    "70": {
-        "title": "Subhash Nagar",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.640431",
-        "latitude": "77.10490",
-        "id": "070 ",
-        "weight": "[69:2] [71:2] "
-    },
-    "71": {
-        "title": "Tilak Nagar",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.636645",
-        "latitude": "77.09636",
-        "id": "071 ",
-        "weight": "[70:2] [72:2] "
-    },
-    "72": {
-        "title": "Janakpuri East",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.632869",
-        "latitude": "77.08624",
-        "id": "072 ",
-        "weight": "[71:2] [73:2] "
-    },
-    "73": {
-        "title": "Janakpuri West",
-        "line": "Magenta Line",
-        "structure": "Elevated",
-        "longitude": "28.629540",
-        "latitude": "77.07824",
-        "id": "073 ",
-        "weight": "[72:2] [74:2] [152:2] "
-    },
-    "74": {
-        "title": "Uttam Nagar East",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.624424",
-        "latitude": "77.06505",
-        "id": "074 ",
-        "weight": "[73:2] [75:2] "
-    },
-    "75": {
-        "title": "Uttam Nagar West",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.621856",
-        "latitude": "77.05626",
-        "id": "075 ",
-        "weight": "[74:2] [76:2] "
-    },
-    "76": {
-        "title": "Nawada",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.620222",
-        "latitude": "77.04508",
-        "id": "076 ",
-        "weight": "[75:2] [77:2] "
-    },
-    "77": {
-        "title": "Dwarka Mor",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.619299",
-        "latitude": "77.03344",
-        "id": "077 ",
-        "weight": "[76:2] [78:3] "
-    },
-    "78": {
-        "title": "Dwarka",
-        "line": "Grey Line",
-        "structure": "Elevated",
-        "longitude": "28.614966",
-        "latitude": "77.02280",
-        "id": "078 ",
-        "weight": "[77:3] [79:3] [228:2] "
-    },
-    "79": {
-        "title": "Dwarka Sector 14",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.602260",
-        "latitude": "77.02595",
-        "id": "079 ",
-        "weight": "[78:3] [80:2] "
-    },
-    "80": {
-        "title": "Dwarka Sector 13",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.597861",
-        "latitude": "77.03248",
-        "id": "080 ",
-        "weight": "[79:2] [81:2] "
-    },
-    "81": {
-        "title": "Dwarka Sector 12",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.592303",
-        "latitude": "77.04068",
-        "id": "081 ",
-        "weight": "[80:2] [82:2] "
-    },
-    "82": {
-        "title": "Dwarka Sector 11",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.586500",
-        "latitude": "77.04942",
-        "id": "082 ",
-        "weight": "[81:2] [83:2] "
-    },
-    "83": {
-        "title": "Dwarka Sector 10",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.581413",
-        "latitude": "77.05700",
-        "id": "083 ",
-        "weight": "[82:2] [84:2] "
-    },
-    "84": {
-        "title": "Dwarka Sector 9",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.574311",
-        "latitude": "77.06524",
-        "id": "084 ",
-        "weight": "[83:2] [85:2] "
-    },
-    "85": {
-        "title": "Dwarka Sector 8",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.565622",
-        "latitude": "77.06701",
-        "id": "085 ",
-        "weight": "[84:2] [86:2] "
-    },
-    "86": {
-        "title": "Dwarka Sector 21",
-        "line": "Orange Line",
-        "structure": "Underground",
-        "longitude": "28.552125",
-        "latitude": "77.05801",
-        "id": "086 ",
-        "weight": "[85:2] [227:5] "
-    },
-    "87": {
-        "title": "Laxmi Nagar",
-        "line": "Blue Line Branch",
-        "structure": "Elevated",
-        "longitude": "28.629248",
-        "latitude": "77.27527",
-        "id": "087 ",
-        "weight": "[54:1] [88:3] "
-    },
-    "88": {
-        "title": "Nirman Vihar",
-        "line": "Blue Line Branch",
-        "structure": "Elevated",
-        "longitude": "28.637700",
-        "latitude": "77.28894",
-        "id": "088 ",
-        "weight": "[87:3] [89:2] "
-    },
-    "89": {
-        "title": "Preet Vihar",
-        "line": "Blue Line Branch",
-        "structure": "Elevated",
-        "longitude": "28.641466",
-        "latitude": "77.29514",
-        "id": "089 ",
-        "weight": "[88:2] [90:3] "
-    },
-    "90": {
-        "title": "Karkarduma",
-        "line": "Blue Line Branch",
-        "structure": "Elevated",
-        "longitude": "28.6483685",
-        "latitude": "77.30458",
-        "id": "090 ",
-        "weight": "[89:3] [91:2] [117:4] "
-    },
-    "91": {
-        "title": "Anand Vihar",
-        "line": "Pink Line Branch",
-        "structure": "Elevated",
-        "longitude": "28.647328",
-        "latitude": "77.31609",
-        "id": "091 ",
-        "weight": "[90:2] [92:4] [116:2] "
-    },
-    "92": {
-        "title": "Kaushambi",
-        "line": "Blue Line Branch",
-        "structure": "Elevated",
-        "longitude": "28.645448",
-        "latitude": "77.32437",
-        "id": "092 ",
-        "weight": "[91:4] [93:3] "
-    },
-    "93": {
-        "title": "Vaishali",
-        "line": "Blue Line Branch",
-        "structure": "Elevated",
-        "longitude": "28.6496868",
-        "latitude": "77.338424",
-        "id": "093 ",
-        "weight": "[92:3] "
-    },
-    "94": {
-        "title": "Majlis Park",
-        "line": "Pink Line",
-        "structure": "Elevated",
-        "longitude": "28.7237083",
-        "latitude": "77.177561",
-        "id": "094 ",
-        "weight": "[6:2] "
-    },
-    "95": {
-        "title": "Shalimar Bagh",
-        "line": "Pink Line",
-        "structure": "Underground",
-        "longitude": "28.7019762",
-        "latitude": "77.164095",
-        "id": "095 ",
-        "weight": "[6:5] [96:2] "
-    },
-    "96": {
-        "title": "Netaji Subhash Place",
-        "line": "Pink Line",
-        "structure": "Elevated",
-        "longitude": "28.695886",
-        "latitude": "77.15245",
-        "id": "096 ",
-        "weight": "[95:2] [97:1] [146:3] [147:2] "
-    },
-    "97": {
-        "title": "Shakurpur",
-        "line": "Pink Line",
-        "structure": "Elevated",
-        "longitude": "28.6859557",
-        "latitude": "77.148769",
-        "id": "097 ",
-        "weight": "[96:1] [98:3] "
-    },
-    "98": {
-        "title": "Punjabi Bagh West",
-        "line": "Pink Line",
-        "structure": "Elevated",
-        "longitude": "28.6730178",
-        "latitude": "77.137363",
-        "id": "098 ",
-        "weight": "[97:3] [99:4] "
-    },
-    "102": {
-        "title": "Delhi Cantonment",
-        "line": "Pink Line",
-        "structure": "Elevated",
-        "longitude": "28.6092434",
-        "latitude": "77.139913",
-        "id": "102 ",
-        "weight": "[101:3] [103:4] "
-    },
-    "104": {
-        "title": "Sir Vishweshwaraiah Moti Bagh",
-        "line": "Pink Line",
-        "structure": "Elevated",
-        "longitude": "28.578352",
-        "latitude": "77.17493",
-        "id": "104 ",
-        "weight": "[103:2] [105:3] "
-    },
-    "105": {
-        "title": "Bhikaji Cama Place",
-        "line": "Pink Line",
-        "structure": "Underground",
-        "longitude": "28.5702753",
-        "latitude": "77.18677",
-        "id": "105 ",
-        "weight": "[104:3] [106:3] "
-    },
-    "106": {
-        "title": "Sarojini Nagar",
-        "line": "Pink Line",
-        "structure": "Underground",
-        "longitude": "28.5759184",
-        "latitude": "77.197650",
-        "id": "106 ",
-        "weight": "[105:3] [22:2] "
-    },
-    "107": {
-        "title": "South Extension",
-        "line": "Pink Line",
-        "structure": "Underground",
-        "longitude": "28.5686954",
-        "latitude": "77.219611",
-        "id": "107 ",
-        "weight": "[22:2] [108:2] "
-    },
-    "108": {
-        "title": "Lajpat Nagar",
-        "line": "Pink Line",
-        "structure": "Elevated",
-        "longitude": "28.570607",
-        "latitude": "77.23647",
-        "id": "108 ",
-        "weight": "[107:2] [109:2] [181:3] [182:2] "
-    },
-    "109": {
-        "title": "Vinobapuri",
-        "line": "Pink Line",
-        "structure": "Underground",
-        "longitude": "28.5659703",
-        "latitude": "77.248454",
-        "id": "109 ",
-        "weight": "[108:2] [110:1] "
-    },
-    "110": {
-        "title": "Ashram",
-        "line": "Pink Line",
-        "structure": "Underground",
-        "longitude": "28.5723975",
-        "latitude": "77.258436",
-        "id": "110 ",
-        "weight": "[109:1] [111:4] "
-    },
-    "112": {
-        "title": "Mayur Vihar Pocket 1",
-        "line": "Blue Line",
-        "structure": "Elevated",
-        "longitude": "28.605822",
-        "latitude": "77.29876",
-        "id": "112 ",
-        "weight": "[52:1] [113:1] "
-    },
-    "113": {
-        "title": "Trilok Puri Sanjay Lake",
-        "line": "Pink Line",
-        "structure": "Elevated",
-        "longitude": "28.6136059",
-        "latitude": "77.308279",
-        "id": "113",
-        "weight": "[112:1] [114:3] "
-    },
-    "114": {
-        "title": "Vinod Nagar East",
-        "line": "Pink Line",
-        "structure": "Elevated",
-        "longitude": "28.620057",
-        "latitude": "77.3052",
-        "id": "114",
-        "weight": "[113:3] [115:3] "
-    },
-    "115": {
-        "title": "Mandawali",
-        "line": "Pink Line",
-        "structure": "Elevated",
-        "longitude": "28.624906",
-        "latitude": "77.30441",
-        "id": "115",
-        "weight": "[114:3] [116:2] "
-    },
-    "116": {
-        "title": "IP Extension",
-        "line": "Pink Line",
-        "structure": "Elevated",
-        "longitude": "28.6318781",
-        "latitude": "77.309945",
-        "id": "116 ",
-        "weight": "[115:2] [91:2] "
-    },
-    "117": {
-        "title": "Karkarduma Court",
-        "line": "Pink Line",
-        "structure": "Elevated",
-        "longitude": "28.6536829",
-        "latitude": "77.295738",
-        "id": "117 ",
-        "weight": "[90:4] [118:4] "
-    },
-    "118": {
-        "title": "Krishna Nagar",
-        "line": "Pink Line",
-        "structure": "Elevated",
-        "longitude": "26.794386",
-        "latitude": "80.89172",
-        "id": "118 ",
-        "weight": "[117:4] [119:3] "
-    },
-    "119": {
-        "title": "East Azad Nagar",
-        "line": "Pink Line",
-        "structure": "Elevated",
-        "longitude": "28.6646649",
-        "latitude": "77.284907",
-        "id": "119 ",
-        "weight": "[118:3] [120:2] "
-    },
-    "120": {
-        "title": "Welcome",
-        "line": "Pink Line",
-        "structure": "At Grade",
-        "longitude": "28.672050",
-        "latitude": "77.27793",
-        "id": "120 ",
-        "weight": "[119:2] [121:3] [137:2] [138:3] "
-    },
-    "121": {
-        "title": "Jaffrabad",
-        "line": "Pink Line",
-        "structure": "Elevated",
-        "longitude": "28.6827381",
-        "latitude": "77.274752",
-        "id": "121 ",
-        "weight": "[120:3] [122:3] "
-    },
-    "122": {
-        "title": "Maujpur",
-        "line": "Pink Line",
-        "structure": "Elevated",
-        "longitude": "28.6921147",
-        "latitude": "77.279685",
-        "id": "122",
-        "weight": "[121:3] [123:3] "
-    },
-    "123": {
-        "title": "Gokul Puri",
-        "line": "Pink Line",
-        "structure": "Elevated",
-        "longitude": "28.7024268",
-        "latitude": "77.285985",
-        "id": "123",
-        "weight": "[122:3] [124:2] "
-    },
-    "124": {
-        "title": "Johri Enclave",
-        "line": "Pink Line",
-        "structure": "Elevated",
-        "longitude": "28.7129849",
-        "latitude": "77.290148",
-        "id": "124 ",
-        "weight": "[123:2] [125:2] "
-    },
-    "125": {
-        "title": "Shiv Vihar",
-        "line": "Pink Line",
-        "structure": "Elevated",
-        "longitude": "28.7214626",
-        "latitude": "77.289397",
-        "id": "125 ",
-        "weight": "[124:2] "
-    },
-    "126": {
-        "title": "Shaheed Sthal",
-        "line": "Red Line",
-        "structure": "Elevated",
-        "longitude": "28.6706",
-        "latitude": "77.415",
-        "id": "126",
-        "weight": "[127:2] "
-    },
-    "127": {
-        "title": "Hindon River",
-        "line": "Red Line",
-        "structure": "Elevated",
-        "longitude": "28.673344",
-        "latitude": "77.40640",
-        "id": "127 ",
-        "weight": "[126:2] [128:2] "
-    },
-    "128": {
-        "title": "Arthala",
-        "line": "Red Line",
-        "structure": "Elevated",
-        "longitude": "28.6729",
-        "latitude": "77.391",
-        "id": "128 ",
-        "weight": "[127:2] [129:2] "
-    },
-    "129": {
-        "title": "Mohan Nagar",
-        "line": "Red Line",
-        "structure": "Elevated",
-        "longitude": "28.67848",
-        "latitude": "77.38393",
-        "id": "129 ",
-        "weight": "[128:2] [130:3] "
-    },
-    "130": {
-        "title": "Shyam park",
-        "line": "Red Line",
-        "structure": "Elevated",
-        "longitude": "28.678232",
-        "latitude": "77.37090",
-        "id": "130",
-        "weight": "[129:3] [131:2] "
-    },
-    "131": {
-        "title": "Rajendra Nagar",
-        "line": "Red Line",
-        "structure": "Elevated",
-        "longitude": "28.677631",
-        "latitude": "77.35826",
-        "id": "131",
-        "weight": "[130:2] [132:3] "
-    },
-    "132": {
-        "title": "Raj Bagh",
-        "line": "Red Line",
-        "structure": "Elevated",
-        "longitude": "28.677031",
-        "latitude": "77.34657",
-        "id": "132 ",
-        "weight": "[131:3] [133:2] "
-    },
-    "133": {
-        "title": "Shaheed Nagar",
-        "line": "Red Line",
-        "structure": "Elevated",
-        "longitude": "28.676632",
-        "latitude": "77.33375",
-        "id": "133 ",
-        "weight": "[132:2] [134:3] "
-    },
-    "134": {
-        "title": "Dilshad Garden",
-        "line": "Red Line",
-        "structure": "Elevated",
-        "longitude": "28.675556",
-        "latitude": "77.32027",
-        "id": "134 ",
-        "weight": "[133:3] [135:1] "
-    },
-    "135": {
-        "title": "Jhilmil",
-        "line": "Red Line",
-        "structure": "Elevated",
-        "longitude": "28.675663",
-        "latitude": "77.31248",
-        "id": "135 ",
-        "weight": "[134:1] [136:3] "
-    },
-    "136": {
-        "title": "Mansarovar Park",
-        "line": "Red Line",
-        "structure": "Elevated",
-        "longitude": "28.675406",
-        "latitude": "77.30155",
-        "id": "136 ",
-        "weight": "[135:3] [137:3] "
-    },
-    "137": {
-        "title": "Shahdara",
-        "line": "Red Line",
-        "structure": "At Grade",
-        "longitude": "28.673476",
-        "latitude": "77.28992",
-        "id": "137 ",
-        "weight": "[136:3] [120:2] "
-    },
-    "138": {
-        "title": "Seelampur",
-        "line": "Red Line",
-        "structure": "At Grade",
-        "longitude": "28.669824",
-        "latitude": "77.26673",
-        "id": "138 ",
-        "weight": "[120:3] [139:3] "
-    },
-    "139": {
-        "title": "Shastri Park",
-        "line": "Red Line",
-        "structure": "At Grade",
-        "longitude": "28.668204",
-        "latitude": "77.25009",
-        "id": "139 ",
-        "weight": "[138:3] [12:4] "
-    },
-    "140": {
-        "title": "Tis Hazari",
-        "line": "Red Line",
-        "structure": "Elevated",
-        "longitude": "28.667216",
-        "latitude": "77.21651",
-        "id": "140 ",
-        "weight": "[12:1] [141:3] "
-    },
-    "141": {
-        "title": "Pul Bangash",
-        "line": "Red Line",
-        "structure": "Elevated",
-        "longitude": "28.666251",
-        "latitude": "77.20698",
-        "id": "141 ",
-        "weight": "[140:3] [142:2] "
-    },
-    "142": {
-        "title": "Pratap Nagar",
-        "line": "Red Line",
-        "structure": "Elevated",
-        "longitude": "28.666698",
-        "latitude": "77.19884",
-        "id": "142 ",
-        "weight": "[141:2] [143:3] "
-    },
-    "143": {
-        "title": "Shastri Nagar",
-        "line": "Red Line",
-        "structure": "Elevated",
-        "longitude": "28.670134",
-        "latitude": "77.18178",
-        "id": "143 ",
-        "weight": "[142:3] "
-    },
-    "144": {
-        "title": "Inderlok",
-        "line": "Green Line",
-        "structure": "Elevated",
-        "longitude": "28.673445",
-        "latitude": "77.17033",
-        "id": "144 ",
-        "weight": "[203:4] [14:3] [145:3] "
-    },
-    "145": {
-        "title": "Kanhiya Nagar",
-        "line": "Red Line",
-        "structure": "Elevated",
-        "longitude": "28.682437",
-        "latitude": "77.16476",
-        "id": "145",
-        "weight": "[144:3] [146:2] "
-    },
-    "146": {
-        "title": "Keshav Puram",
-        "line": "Red Line",
-        "structure": "Elevated",
-        "longitude": "28.688903",
-        "latitude": "77.16178",
-        "id": "146 ",
-        "weight": "[145:2] [96:3] "
-    },
-    "147": {
-        "title": "Kohat Enclave",
-        "line": "Red Line",
-        "structure": "Elevated",
-        "longitude": "28.698004",
-        "latitude": "77.14083",
-        "id": "147 ",
-        "weight": "[96:2] [148:2] "
-    },
-    "148": {
-        "title": "Pitam Pura",
-        "line": "Red Line",
-        "structure": "Elevated",
-        "longitude": "28.703151",
-        "latitude": "77.13239",
-        "id": "148 ",
-        "weight": "[147:2] [149:3] "
-    },
-    "149": {
-        "title": "Rohini East",
-        "line": "Red Line",
-        "structure": "Elevated",
-        "longitude": "28.707659",
-        "latitude": "77.12590",
-        "id": "149 ",
-        "weight": "[148:3] [150:3] "
-    },
-    "150": {
-        "title": "Rohini West",
-        "line": "Red Line",
-        "structure": "Elevated",
-        "longitude": "28.714980",
-        "latitude": "77.11538",
-        "id": "150 ",
-        "weight": "[149:3] [151:2] "
-    },
-    "151": {
-        "title": "Rithala",
-        "line": "Red Line",
-        "structure": "Elevated",
-        "longitude": "28.720879",
-        "latitude": "77.10702",
-        "id": "151 ",
-        "weight": "[150:2] "
-    },
-    "152": {
-        "title": "Dabri Mor",
-        "line": "Magenta Line",
-        "structure": "Underground",
-        "longitude": "28.6156417",
-        "latitude": "77.084644",
-        "id": "152",
-        "weight": "[73:2] [153:2] "
-    },
-    "153": {
-        "title": "Dashrath Puri",
-        "line": "Magenta Line",
-        "structure": "Underground",
-        "longitude": "28.601559",
-        "latitude": "77.082003",
-        "id": "153 ",
-        "weight": "[152:2] [154:3] "
-    },
-    "154": {
-        "title": "Palam",
-        "line": "Magenta Line",
-        "structure": "Underground",
-        "longitude": "28.5915",
-        "latitude": "77.081",
-        "id": "154 ",
-        "weight": "[153:3] [155:4] "
-    },
-    "155": {
-        "title": "Sadar Bazaar Cantonment",
-        "line": "Magenta Line",
-        "structure": "Elevated",
-        "longitude": "28.577082",
-        "latitude": "77.110119",
-        "id": "155 ",
-        "weight": "[154:4] [156:4] "
-    },
-    "156": {
-        "title": "Terminal 1-IGI Airport",
-        "line": "Magenta Line",
-        "structure": "Underground",
-        "longitude": "28.5653",
-        "latitude": "77.12238",
-        "id": "156 ",
-        "weight": "[155:4] [157:2] "
-    },
-    "157": {
-        "title": "Shankar Vihar",
-        "line": "Magenta Line",
-        "structure": "Elevated",
-        "longitude": "28.560649",
-        "latitude": "77.13979",
-        "id": "157 ",
-        "weight": "[156:2] [158:4] "
-    },
-    "158": {
-        "title": "Vasant Vihar",
-        "line": "Magenta Line",
-        "structure": "Underground",
-        "longitude": "28.557829",
-        "latitude": "77.161152",
-        "id": "158 ",
-        "weight": "[157:4] [159:2] "
-    },
-    "159": {
-        "title": "Munirka",
-        "line": "Magenta Line",
-        "structure": "Underground",
-        "longitude": "28.5578421",
-        "latitude": "77.173513",
-        "id": "159 ",
-        "weight": "[158:2] [160:3] "
-    },
-    "160": {
-        "title": "RK Puram",
-        "line": "Magenta Line",
-        "structure": "Underground",
-        "longitude": "28.5502447",
-        "latitude": "77.183453",
-        "id": "160 ",
-        "weight": "[159:3] [161:2] "
-    },
-    "161": {
-        "title": "IIT Delhi",
-        "line": "Magenta Line",
-        "structure": "Underground",
-        "longitude": "28.5470166",
-        "latitude": "77.192325",
-        "id": "161 ",
-        "weight": "[160:2] [25:3] "
-    },
-    "162": {
-        "title": "Panchsheel Park",
-        "line": "Magenta Line",
-        "structure": "Underground",
-        "longitude": "28.5423663",
-        "latitude": "77.220115",
-        "id": "162 ",
-        "weight": "[25:2] [163:1] "
-    },
-    "163": {
-        "title": "Chirag Delhi",
-        "line": "Magenta Line",
-        "structure": "Underground",
-        "longitude": "28.541183",
-        "latitude": "77.23122",
-        "id": "163 ",
-        "weight": "[162:1] [164:2] "
-    },
-    "164": {
-        "title": "Greater Kailash",
-        "line": "Magenta Line",
-        "structure": "Underground",
-        "longitude": "28.5416669",
-        "latitude": "77.237680",
-        "id": "164 ",
-        "weight": "[163:2] [165:4] "
-    },
-    "165": {
-        "title": "Nehru Enclave",
-        "line": "Magenta Line",
-        "structure": "Underground",
-        "longitude": "28.5457201",
-        "latitude": "77.250352",
-        "id": "165 ",
-        "weight": "[164:4] [166:1] "
-    },
-    "166": {
-        "title": "Kalkaji Mandir",
-        "line": "Magenta Line",
-        "structure": "Underground",
-        "longitude": "28.54921",
-        "latitude": "77.25904",
-        "id": "166",
-        "weight": "[165:1] [167:2] [184:1] [185:3] "
-    },
-    "167": {
-        "title": "Okhla NSIC",
-        "line": "Magenta Line",
-        "structure": "Elevated",
-        "longitude": "28.554931",
-        "latitude": "77.26319",
-        "id": "167 ",
-        "weight": "[166:2] [168:1] "
-    },
-    "168": {
-        "title": "Sukhdev Vihar",
-        "line": "Magenta Line",
-        "structure": "Elevated",
-        "longitude": "28.559758",
-        "latitude": "77.27470",
-        "id": "168 ",
-        "weight": "[167:1] [169:4] "
-    },
-    "169": {
-        "title": "Jamia Millia Islamia",
-        "line": "Magenta Line",
-        "structure": "Elevated",
-        "longitude": "28.561031",
-        "latitude": "77.28445",
-        "id": "169 ",
-        "weight": "[168:4] [170:3] "
-    },
-    "170": {
-        "title": "Okhla Vihar",
-        "line": "Magenta Line",
-        "structure": "Elevated",
-        "longitude": "28.561183",
-        "latitude": "77.29189",
-        "id": "170 ",
-        "weight": "[169:3] [171:4] "
-    },
-    "171": {
-        "title": "Jasola Vihar Shaheen Bagh",
-        "line": "Magenta Line",
-        "structure": "Elevated",
-        "longitude": "28.5460715",
-        "latitude": "77.29663",
-        "id": "171 ",
-        "weight": "[170:4] [172:2] "
-    },
-    "172": {
-        "title": "Kalindi Kunj",
-        "line": "Magenta Line",
-        "structure": "Elevated",
-        "longitude": "28.543089",
-        "latitude": "77.32156",
-        "id": "172 ",
-        "weight": "[171:2] [173:3] "
-    },
-    "173": {
-        "title": "Okhla Bird Sanctuary",
-        "line": "Magenta Line",
-        "structure": "Elevated",
-        "longitude": "28.552824",
-        "latitude": "77.32156",
-        "id": "173 ",
-        "weight": "[172:3] [46:2] "
-    },
-    "174": {
-        "title": "Lal Qila",
-        "line": "Violet Line",
-        "structure": "Underground",
-        "longitude": "28.656682",
-        "latitude": "77.23661",
-        "id": "174 ",
-        "weight": "[12:3] [175:2] "
-    },
-    "175": {
-        "title": "Jama Masjid",
-        "line": "Violet Line",
-        "structure": "Underground",
-        "longitude": "28.650157",
-        "latitude": "77.23757",
-        "id": "175 ",
-        "weight": "[174:2] [176:3] "
-    },
-    "176": {
-        "title": "Delhi Gate",
-        "line": "Violet Line",
-        "structure": "Underground",
-        "longitude": "28.639731",
-        "latitude": "77.24013",
-        "id": "176 ",
-        "weight": "[175:3] [177:3] "
-    },
-    "177": {
-        "title": "ITO",
-        "line": "Violet Line",
-        "structure": "Underground",
-        "longitude": "28.628395",
-        "latitude": "77.24114",
-        "id": "177 ",
-        "weight": "[176:3] [57:1] "
-    },
-    "178": {
-        "title": "Janpath",
-        "line": "Violet Line",
-        "structure": "Underground",
-        "longitude": "28.6232809",
-        "latitude": "77.214477",
-        "id": "178 ",
-        "weight": "[57:3] [18:1] "
-    },
-    "179": {
-        "title": "Khan Market",
-        "line": "Violet Line",
-        "structure": "Underground",
-        "longitude": "28.602460",
-        "latitude": "77.22788",
-        "id": "179 ",
-        "weight": "[18:3] [180:2] "
-    },
-    "180": {
-        "title": "JLN Stadium",
-        "line": "Violet Line",
-        "structure": "Underground",
-        "longitude": "28.590381",
-        "latitude": "77.23304",
-        "id": "180",
-        "weight": "[179:2] [181:2] "
-    },
-    "181": {
-        "title": "Jangpura",
-        "line": "Violet Line",
-        "structure": "Underground",
-        "longitude": "28.583287",
-        "latitude": "77.23960",
-        "id": "181 ",
-        "weight": "[180:2] [108:3] "
-    },
-    "182": {
-        "title": "Moolchand",
-        "line": "Violet Line",
-        "structure": "Elevated",
-        "longitude": "28.564000",
-        "latitude": "77.23409",
-        "id": "182 ",
-        "weight": "[108:2] [183:3] "
-    },
-    "183": {
-        "title": "Kailash Colony",
-        "line": "Violet Line",
-        "structure": "Elevated",
-        "longitude": "28.555312",
-        "latitude": "77.24199",
-        "id": "183 ",
-        "weight": "[182:3] [184:2] "
-    },
-    "184": {
-        "title": "Nehru Place",
-        "line": "Violet Line",
-        "structure": "Elevated",
-        "longitude": "28.551411",
-        "latitude": "77.25176",
-        "id": "184 ",
-        "weight": "[183:2] [166:1] "
-    },
-    "185": {
-        "title": "Govind Puri",
-        "line": "Violet Line",
-        "structure": "Elevated",
-        "longitude": "28.544606",
-        "latitude": "77.26428",
-        "id": "185",
-        "weight": "[166:3] [186:2] "
-    },
-    "186": {
-        "title": "Harkesh Nagar",
-        "line": "Violet Line",
-        "structure": "Elevated",
-        "longitude": "28.5428944",
-        "latitude": "77.274738",
-        "id": "186",
-        "weight": "[185:2] [187:3] "
-    },
-    "187": {
-        "title": "Jasola Apollo",
-        "line": "Violet Line",
-        "structure": "Elevated",
-        "longitude": "28.538284",
-        "latitude": "77.283255",
-        "id": "187 ",
-        "weight": "[186:3] [188:2] "
-    },
-    "188": {
-        "title": "Sarita Vihar",
-        "line": "Violet Line",
-        "structure": "Elevated",
-        "longitude": "28.5291048",
-        "latitude": "77.287643",
-        "id": "188 ",
-        "weight": "[187:2] [189:2] "
-    },
-    "189": {
-        "title": "Mohan Estate",
-        "line": "Violet Line",
-        "structure": "Elevated",
-        "longitude": "28.5196268",
-        "latitude": "77.293645",
-        "id": "189 ",
-        "weight": "[188:2] [190:3] "
-    },
-    "190": {
-        "title": "Tughlakabad",
-        "line": "Violet Line",
-        "structure": "Elevated",
-        "longitude": "28.5025526",
-        "latitude": "77.298933",
-        "id": "190",
-        "weight": "[189:3] [191:2] "
-    },
-    "191": {
-        "title": "Badarpur",
-        "line": "Violet Line",
-        "structure": "Elevated",
-        "longitude": "28.493241",
-        "latitude": "77.30249",
-        "id": "191",
-        "weight": "[190:2] [192:3] "
-    },
-    "192": {
-        "title": "Sarai",
-        "line": "Violet Line",
-        "structure": "Elevated",
-        "longitude": "28.478064",
-        "latitude": "77.30485",
-        "id": "192 ",
-        "weight": "[191:3] [193:5] "
-    },
-    "193": {
-        "title": "NHPC Chowk",
-        "line": "Violet Line",
-        "structure": "Elevated",
-        "longitude": "28.457660000",
-        "latitude": "77.30742200",
-        "id": "193 ",
-        "weight": "[192:5] [194:2] "
-    },
-    "194": {
-        "title": "Mewla Maharajpur",
-        "line": "Violet Line",
-        "structure": "Elevated",
-        "longitude": "28.448495000",
-        "latitude": "77.30813000",
-        "id": "194 ",
-        "weight": "[193:2] [195:2] "
-    },
-    "195": {
-        "title": "Sector 28",
-        "line": "Violet Line",
-        "structure": "Elevated",
-        "longitude": "28.438325000",
-        "latitude": "77.30909600",
-        "id": "195 ",
-        "weight": "[194:2] [196:3] "
-    },
-    "196": {
-        "title": "Badkhal Mor",
-        "line": "Violet Line",
-        "structure": "Elevated",
-        "longitude": "28.422753",
-        "latitude": "77.31035",
-        "id": "196 ",
-        "weight": "[195:3] [197:2] "
-    },
-    "197": {
-        "title": "Old Faridabad",
-        "line": "Violet Line",
-        "structure": "Elevated",
-        "longitude": "28.41083",
-        "latitude": "77.3113",
-        "id": "197",
-        "weight": "[196:2] [198:2] "
-    },
-    "198": {
-        "title": "Neelam Chowk Ajronda",
-        "line": "Violet Line",
-        "structure": "Elevated",
-        "longitude": "28.3978",
-        "latitude": "77.312",
-        "id": "198 ",
-        "weight": "[197:2] [199:3] "
-    },
-    "199": {
-        "title": "Bata Chowk",
-        "line": "Violet Line",
-        "structure": "Elevated",
-        "longitude": "28.386052028",
-        "latitude": "77.31344100",
-        "id": "199 ",
-        "weight": "[198:3] [200:3] "
-    },
-    "200": {
-        "title": "Escorts Mujesar",
-        "line": "Violet Line",
-        "structure": "Elevated",
-        "longitude": "28.370081000",
-        "latitude": "77.31495400",
-        "id": "200 ",
-        "weight": "[199:3] [201:3] "
-    },
-    "201": {
-        "title": "Sant Surdas",
-        "line": "Violet Line",
-        "structure": "Elevated",
-        "longitude": "28.3546852",
-        "latitude": "77.316162",
-        "id": "201",
-        "weight": "[200:3] [202:4] "
-    },
-    "202": {
-        "title": "Raja Nahar Singh",
-        "line": "Violet Line",
-        "structure": "Elevated",
-        "longitude": "28.3394733",
-        "latitude": "77.316052",
-        "id": "202 ",
-        "weight": "[201:4] "
-    },
-    "203": {
-        "title": "Ashok Park Main",
-        "line": "Green Line",
-        "structure": "Elevated",
-        "longitude": "28.671603",
-        "latitude": "77.15501",
-        "id": "203 ",
-        "weight": "[144:4] [204:1] [223:3] "
-    },
-    "204": {
-        "title": "Punjabi Bagh",
-        "line": "Green Line",
-        "structure": "Elevated",
-        "longitude": "28.672936",
-        "latitude": "77.14597",
-        "id": "204 ",
-        "weight": "[203:1] [205:3] "
-    },
-    "205": {
-        "title": "Shivaji Park",
-        "line": "Green Line",
-        "structure": "Elevated",
-        "longitude": "28.674944",
-        "latitude": "77.13034",
-        "id": "205 ",
-        "weight": "[204:3] [206:3] "
-    },
-    "206": {
-        "title": "Madipur",
-        "line": "Green Line",
-        "structure": "Elevated",
-        "longitude": "28.676361",
-        "latitude": "77.11956",
-        "id": "206 ",
-        "weight": "[205:3] [207:2] "
-    },
-    "207": {
-        "title": "Paschim Vihar East",
-        "line": "Green Line",
-        "structure": "Elevated",
-        "longitude": "28.677294",
-        "latitude": "77.11227",
-        "id": "207 ",
-        "weight": "[206:2] [208:2] "
-    },
-    "208": {
-        "title": "Paschim Vihar West",
-        "line": "Green Line",
-        "structure": "Elevated",
-        "longitude": "28.678589",
-        "latitude": "77.10210",
-        "id": "208 ",
-        "weight": "[207:2] [209:1] "
-    },
-    "209": {
-        "title": "Peera Garhi",
-        "line": "Green Line",
-        "structure": "Elevated",
-        "longitude": "28.679703",
-        "latitude": "77.0925",
-        "id": "209 ",
-        "weight": "[208:1] [210:3] "
-    },
-    "210": {
-        "title": "Udyog Nagar",
-        "line": "Green Line",
-        "structure": "Elevated",
-        "longitude": "28.680994",
-        "latitude": "77.08077",
-        "id": "210 ",
-        "weight": "[209:3] [211:2] "
-    },
-    "211": {
-        "title": "Maharaja Surajmal Stadium",
-        "line": "Green Line",
-        "structure": "Elevated",
-        "longitude": "28.681792",
-        "latitude": "77.07395",
-        "id": "211 ",
-        "weight": "[210:2] [212:3] "
-    },
-    "212": {
-        "title": "Nangloi",
-        "line": "Green Line",
-        "structure": "Elevated",
-        "longitude": "28.682356",
-        "latitude": "77.06467",
-        "id": "212 ",
-        "weight": "[211:3] [213:2] "
-    },
-    "213": {
-        "title": "Nangloi Railway Station",
-        "line": "Green Line",
-        "structure": "Elevated",
-        "longitude": "28.682106",
-        "latitude": "77.05608",
-        "id": "213 ",
-        "weight": "[212:2] [214:3] "
-    },
-    "214": {
-        "title": "Rajdhani Park",
-        "line": "Green Line",
-        "structure": "Elevated",
-        "longitude": "28.6822",
-        "latitude": "77.04384",
-        "id": "214 ",
-        "weight": "[213:3] [215:2] "
-    },
-    "215": {
-        "title": "Mundka",
-        "line": "Green Line",
-        "structure": "Elevated",
-        "longitude": "28.682442",
-        "latitude": "77.03021",
-        "id": "215 ",
-        "weight": "[214:2] [216:2] "
-    },
-    "216": {
-        "title": "Mundka Industrial Area",
-        "line": "Green Line",
-        "structure": "Elevated",
-        "longitude": "28.683525",
-        "latitude": "77.01715",
-        "id": "216 ",
-        "weight": "[215:2] [217:5] "
-    },
-    "217": {
-        "title": "Ghevra",
-        "line": "Green Line",
-        "structure": "Elevated",
-        "longitude": "28.685245",
-        "latitude": "76.99616",
-        "id": "217 ",
-        "weight": "[216:5] [218:2] "
-    },
-    "218": {
-        "title": "Tikri Kalan",
-        "line": "Green Line",
-        "structure": "Elevated",
-        "longitude": "28.686902",
-        "latitude": "76.97739",
-        "id": "218 ",
-        "weight": "[217:2] [219:3] "
-    },
-    "219": {
-        "title": "Tikri Border",
-        "line": "Green Line",
-        "structure": "Elevated",
-        "longitude": "28.687978",
-        "latitude": "76.96416",
-        "id": "219 ",
-        "weight": "[218:3] [220:3] "
-    },
-    "220": {
-        "title": "Pandit Shree Ram Sharma",
-        "line": "Green Line",
-        "structure": "Elevated",
-        "longitude": "28.689279",
-        "latitude": "76.95102",
-        "id": "220 ",
-        "weight": "[219:3] [221:3] "
-    },
-    "221": {
-        "title": "Bahadurgarh City",
-        "line": "Green Line",
-        "structure": "Elevated",
-        "longitude": "28.690777",
-        "latitude": "76.93527",
-        "id": "221 ",
-        "weight": "[220:3] [222:4] "
-    },
-    "222": {
-        "title": "Brigadier Hoshiyar Singh",
-        "line": "Green Line",
-        "structure": "Elevated",
-        "longitude": "28.697357",
-        "latitude": "76.91938",
-        "id": "222",
-        "weight": "[221:4] "
-    },
-    "223": {
-        "title": "Satguru Ram Singh Marg",
-        "line": "Green Line Branch",
-        "structure": "Elevated",
-        "longitude": "28.661920",
-        "latitude": "77.15745",
-        "id": "223",
-        "weight": "[203:3] [65:2] "
-    },
-    "224": {
-        "title": "Shivaji Stadium",
-        "line": "Orange Line",
-        "structure": "Underground",
-        "longitude": "28.628788",
-        "latitude": "77.21140",
-        "id": "224 ",
-        "weight": "[15:2] [225:7] "
-    },
-    "225": {
-        "title": "Dhaula Kuan",
-        "line": "Orange Line",
-        "structure": "Elevated",
-        "longitude": "28.591853",
-        "latitude": "77.16169",
-        "id": "225",
-        "weight": "[224:7] [226:9] [103:0] "
-    },
-    "226": {
-        "title": "Delhi Aerocity",
-        "line": "Orange Line",
-        "structure": "Underground",
-        "longitude": "28.5491",
-        "latitude": "77.1208",
-        "id": "226",
-        "weight": "[225:9] [227:7] "
-    },
-    "228": {
-        "title": "Nangli",
-        "line": "Grey Line",
-        "structure": "Elevated",
-        "longitude": "28.617264",
-        "latitude": "77.01051",
-        "id": "228 ",
-        "weight": "[78:2] [229:3] "
-    },
-    "229": {
-        "title": "Najafgarh",
-        "line": "Grey Line",
-        "structure": "Underground",
-        "longitude": "28.612555",
-        "latitude": "76.98629",
-        "id": "229",
-        "weight": "[228:3] [230:4] "
-    }
+	"1": {
+		"title": "Samaypur Badli",
+		"line": "Yellow Line",
+		"structure": "Elevated",
+		"longitude": "28.7446341",
+		"latitude": "77.137893",
+		"id": "001 ",
+		"weight": "[2:3] "
+	},
+	"2": {
+		"title": "Rohini Sector 18 19",
+		"line": "Yellow Line",
+		"structure": "Elevated",
+		"longitude": "28.7383223",
+		"latitude": "77.138780",
+		"id": "002",
+		"weight": "[1:3] [3:4] "
+	},
+	"3": {
+		"title": "Haiderpur Badli Mor",
+		"line": "Yellow Line",
+		"structure": "Elevated",
+		"longitude": "28.7299222",
+		"latitude": "77.146941",
+		"id": "003 ",
+		"weight": "[2:4] [4:3] "
+	},
+	"4": {
+		"title": "Jahangirpuri",
+		"line": "Yellow Line",
+		"structure": "Elevated",
+		"longitude": "28.725828",
+		"latitude": "77.16278",
+		"id": "004 ",
+		"weight": "[3:3] [5:1] "
+	},
+	"5": {
+		"title": "Adarsh Nagar",
+		"line": "Yellow Line",
+		"structure": "Elevated",
+		"longitude": "28.718104",
+		"latitude": "77.16938",
+		"id": "005 ",
+		"weight": "[4:1] [6:4] "
+	},
+	"6": {
+		"title": "Azadpur",
+		"line": "Pink Line",
+		"structure": "Elevated",
+		"longitude": "28.707273",
+		"latitude": "77.17997",
+		"id": "006 ",
+		"weight": "[94:2] [95:5] [5:4] [7:2] "
+	},
+	"7": {
+		"title": "Model Town",
+		"line": "Yellow Line",
+		"structure": "Elevated",
+		"longitude": "28.702822",
+		"latitude": "77.19386",
+		"id": "007 ",
+		"weight": "[6:2] [8:2] "
+	},
+	"8": {
+		"title": "GTB Nagar",
+		"line": "Yellow Line",
+		"structure": "Underground",
+		"longitude": "28.698206",
+		"latitude": "77.20701",
+		"id": "008 ",
+		"weight": "[7:2] [9:2] "
+	},
+	"9": {
+		"title": "Viswavidyalaya",
+		"line": "Yellow Line",
+		"structure": "Underground",
+		"longitude": "28.694813",
+		"latitude": "77.21459",
+		"id": "009",
+		"weight": "[8:2] [10:2] "
+	},
+	"10": {
+		"title": "Vidhan Sabha",
+		"line": "Yellow Line",
+		"structure": "Underground",
+		"longitude": "28.687858",
+		"latitude": "77.22177",
+		"id": "010 ",
+		"weight": "[9:2] [11:3] "
+	},
+	"11": {
+		"title": "Civil Lines",
+		"line": "Yellow Line",
+		"structure": "Underground",
+		"longitude": "28.676921",
+		"latitude": "77.22499",
+		"id": "011 ",
+		"weight": "[10:3] [12:2] "
+	},
+	"12": {
+		"title": "Kashmere Gate",
+		"line": "Yellow Line",
+		"structure": "Elevated",
+		"longitude": "28.667489",
+		"latitude": "77.22804",
+		"id": "012 ",
+		"weight": "[139:4] [140:1] [174:3] [11:2] [13:4] "
+	},
+	"13": {
+		"title": "Chandhni Chowk",
+		"line": "Yellow Line",
+		"structure": "Underground",
+		"longitude": "28.657838",
+		"latitude": "77.23016",
+		"id": "013",
+		"weight": "[12:4] [14:1] "
+	},
+	"14": {
+		"title": "Chawri Bazar",
+		"line": "Yellow Line",
+		"structure": "Underground",
+		"longitude": "28.649564",
+		"latitude": "77.22622",
+		"id": "014 ",
+		"weight": "[144:3] [13:1] [15:2] "
+	},
+	"15": {
+		"title": "New Delhi",
+		"line": "Orange Line",
+		"structure": "Underground",
+		"longitude": "28.642229",
+		"latitude": "77.22153",
+		"id": "015 ",
+		"weight": "[224:2] [14:2] [16:3] "
+	},
+	"16": {
+		"title": "Rajiv Chowk",
+		"line": "Blue Line",
+		"structure": "Underground",
+		"longitude": "28.632846",
+		"latitude": "77.21963",
+		"id": "016 ",
+		"weight": "[58:2] [59:2] [15:3] [17:3] "
+	},
+	"17": {
+		"title": "Patel Chowk",
+		"line": "Yellow Line",
+		"structure": "Underground",
+		"longitude": "28.623235",
+		"latitude": "77.21178",
+		"id": "017 ",
+		"weight": "[16:3] [18:2] "
+	},
+	"18": {
+		"title": "Central Secretariat",
+		"line": "Violet Line",
+		"structure": "Underground",
+		"longitude": "28.615042",
+		"latitude": "77.21178",
+		"id": "018 ",
+		"weight": "[178:1] [179:3] [17:2] [19:2] "
+	},
+	"19": {
+		"title": "Udyog Bhawan",
+		"line": "Yellow Line",
+		"structure": "Underground",
+		"longitude": "28.6110187",
+		"latitude": "77.211149",
+		"id": "019 ",
+		"weight": "[18:2] [20:3] "
+	},
+	"20": {
+		"title": "Lok Kalyan Marg",
+		"line": "Yellow Line",
+		"structure": "Underground",
+		"longitude": "28.5976354",
+		"latitude": "77.209992",
+		"id": "020",
+		"weight": "[19:3] [21:3] "
+	},
+	"21": {
+		"title": "Jorbagh",
+		"line": "Yellow Line",
+		"structure": "Underground",
+		"longitude": "28.5860802",
+		"latitude": "77.212036",
+		"id": "021 ",
+		"weight": "[20:3] [22:2] "
+	},
+	"22": {
+		"title": "INA",
+		"line": "Pink Line",
+		"structure": "Underground",
+		"longitude": "28.5752244",
+		"latitude": "77.207311",
+		"id": "022 ",
+		"weight": "[106:2] [107:2] [21:2] [23:3] "
+	},
+	"23": {
+		"title": "AIIMS",
+		"line": "Yellow Line",
+		"structure": "Underground",
+		"longitude": "28.56667",
+		"latitude": "77.20808",
+		"id": "023 ",
+		"weight": "[22:3] [24:2] "
+	},
+	"24": {
+		"title": "Green Park",
+		"line": "Yellow Line",
+		"structure": "Underground",
+		"longitude": "28.559533",
+		"latitude": "77.206386",
+		"id": "024 ",
+		"weight": "[23:2] [25:2] "
+	},
+	"25": {
+		"title": "Hauz Khas",
+		"line": "Magenta Line",
+		"structure": "Underground",
+		"longitude": "28.543596",
+		"latitude": "77.2041863",
+		"id": "025",
+		"weight": "[161:3] [162:2] [24:2] [26:3] "
+	},
+	"26": {
+		"title": "Malvia Nagar",
+		"line": "Yellow Line",
+		"structure": "Underground",
+		"longitude": "28.5286861",
+		"latitude": "77.203291",
+		"id": "026",
+		"weight": "[25:3] [27:3] "
+	},
+	"27": {
+		"title": "Saket",
+		"line": "Yellow Line",
+		"structure": "Underground",
+		"longitude": "28.5205465",
+		"latitude": "77.200364",
+		"id": "027 ",
+		"weight": "[26:3] [28:3] "
+	},
+	"28": {
+		"title": "Qutab Minar",
+		"line": "Yellow Line",
+		"structure": "Elevated",
+		"longitude": "28.5129",
+		"latitude": "77.186",
+		"id": "028 ",
+		"weight": "[27:3] [29:3] "
+	},
+	"29": {
+		"title": "Chhattarpur",
+		"line": "Yellow Line",
+		"structure": "Elevated",
+		"longitude": "28.506552",
+		"latitude": "77.17492",
+		"id": "029",
+		"weight": "[28:3] [30:2] "
+	},
+	"30": {
+		"title": "Sultanpur",
+		"line": "Yellow Line",
+		"structure": "Elevated",
+		"longitude": "28.499260",
+		"latitude": "77.16136",
+		"id": "030 ",
+		"weight": "[29:2] [31:2] "
+	},
+	"31": {
+		"title": "Ghitorni",
+		"line": "Yellow Line",
+		"structure": "Elevated",
+		"longitude": "28.493785",
+		"latitude": "77.14915",
+		"id": "031 ",
+		"weight": "[30:2] [32:4] "
+	},
+	"32": {
+		"title": "Arjan Garh",
+		"line": "Yellow Line",
+		"structure": "Elevated",
+		"longitude": "28.480796",
+		"latitude": "77.12577",
+		"id": "032 ",
+		"weight": "[31:4] [33:4] "
+	},
+	"33": {
+		"title": "Guru Dronacharya",
+		"line": "Yellow Line",
+		"structure": "Elevated",
+		"longitude": "28.482093",
+		"latitude": "77.10214",
+		"id": "033 ",
+		"weight": "[32:4] [34:2] "
+	},
+	"34": {
+		"title": "Sikandarpur",
+		"line": "Yellow Line",
+		"structure": "Elevated",
+		"longitude": "28.48139",
+		"latitude": "77.0930",
+		"id": "034 ",
+		"weight": "[33:2] [35:3] "
+	},
+	"35": {
+		"title": "MG Road",
+		"line": "Yellow Line",
+		"structure": "Elevated",
+		"longitude": "28.479600",
+		"latitude": "77.07987",
+		"id": "035 ",
+		"weight": "[34:3] [36:3] "
+	},
+	"36": {
+		"title": "IFFCO Chowk",
+		"line": "Yellow Line",
+		"structure": "Elevated",
+		"longitude": "28.472113",
+		"latitude": "77.07240",
+		"id": "036",
+		"weight": "[35:3] [37:2] "
+	},
+	"37": {
+		"title": "HUDA City Centre",
+		"line": "Yellow Line",
+		"structure": "Elevated",
+		"longitude": "28.459278",
+		"latitude": "77.07241",
+		"id": "037 ",
+		"weight": "[36:2] "
+	},
+	"38": {
+		"title": "Noida Electronic City",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.630863",
+		"latitude": "77.37547",
+		"id": "038 ",
+		"weight": "[39:4] "
+	},
+	"39": {
+		"title": "Noida Sector 62",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.617049",
+		"latitude": "77.37361",
+		"id": "039 ",
+		"weight": "[38:4] [40:7] "
+	},
+	"40": {
+		"title": "Noida Sector 59",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.606364",
+		"latitude": "77.37280",
+		"id": "040 ",
+		"weight": "[39:7] [41:4] "
+	},
+	"41": {
+		"title": "Noida Sector 61",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.597470",
+		"latitude": "77.37227",
+		"id": "041 ",
+		"weight": "[40:4] [42:2] "
+	},
+	"42": {
+		"title": "Noida Sector 52",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.586762",
+		"latitude": "77.37290",
+		"id": "042 ",
+		"weight": "[41:2] [43:2] "
+	},
+	"43": {
+		"title": "Noida Sector 34",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.580120",
+		"latitude": "77.36340",
+		"id": "043 ",
+		"weight": "[42:2] [44:4] "
+	},
+	"44": {
+		"title": "Noida City Centre",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.5747",
+		"latitude": "77.356",
+		"id": "044 ",
+		"weight": "[43:4] [45:3] "
+	},
+	"45": {
+		"title": "Golf Course",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.566940",
+		"latitude": "77.34546",
+		"id": "045 ",
+		"weight": "[44:3] [46:2] "
+	},
+	"46": {
+		"title": "Botanical Garden",
+		"line": "Magnet Line",
+		"structure": "Elevated",
+		"longitude": "28.564208",
+		"latitude": "77.33478",
+		"id": "046 ",
+		"weight": "[45:2] [47:2] [173:2] "
+	},
+	"47": {
+		"title": "Noida Sector 18",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.570813",
+		"latitude": "77.32611",
+		"id": "047 ",
+		"weight": "[46:2] [48:2] "
+	},
+	"48": {
+		"title": "Noida Sector 16",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.578549",
+		"latitude": "77.31745",
+		"id": "048 ",
+		"weight": "[47:2] [49:2] "
+	},
+	"49": {
+		"title": "Noida Sector 15",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.584936",
+		"latitude": "77.31175",
+		"id": "049 ",
+		"weight": "[48:2] [50:2] "
+	},
+	"50": {
+		"title": "New Ashok Nagar",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.589119",
+		"latitude": "77.30151",
+		"id": "050 ",
+		"weight": "[49:2] [51:2] "
+	},
+	"51": {
+		"title": "Mayur Vihar Extension",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.594197",
+		"latitude": "77.29449",
+		"id": "051 ",
+		"weight": "[50:2] [52:4] "
+	},
+	"52": {
+		"title": "Mayur Vihar-I",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.604743",
+		"latitude": "77.28932",
+		"id": "052 ",
+		"weight": "[51:4] [53:2] [111:5] [112:1] "
+	},
+	"53": {
+		"title": "Akshardham",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.618216",
+		"latitude": "77.27924",
+		"id": "053 ",
+		"weight": "[52:2] [54:8] "
+	},
+	"54": {
+		"title": "Yamuna Bank",
+		"line": "Blue Line Branch",
+		"structure": "At-Grad",
+		"longitude": "28.620999",
+		"latitude": "77.26011",
+		"id": "054 ",
+		"weight": "[53:8] [55:2] [87:1] "
+	},
+	"55": {
+		"title": "Indraprastha",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.620504",
+		"latitude": "77.24999",
+		"id": "055 ",
+		"weight": "[54:2] [56:1] "
+	},
+	"56": {
+		"title": "Supreme Court",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.623490",
+		"latitude": "77.24252",
+		"id": "056 ",
+		"weight": "[55:1] [57:2] "
+	},
+	"57": {
+		"title": "Mandi House",
+		"line": "Violet Line",
+		"structure": "Underground",
+		"longitude": "28.625816",
+		"latitude": "77.23472",
+		"id": "057 ",
+		"weight": "[56:2] [58:3] [177:1] [178:3] "
+	},
+	"58": {
+		"title": "Barakhamba Road",
+		"line": "Blue Line",
+		"structure": "Underground",
+		"longitude": "28.630689",
+		"latitude": "77.22358",
+		"id": "058",
+		"weight": "[57:3] [16:2] "
+	},
+	"59": {
+		"title": "RK Ashram Marg",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.639268",
+		"latitude": "77.20850",
+		"id": "059 ",
+		"weight": "[16:2] [60:2] "
+	},
+	"60": {
+		"title": "Jhandewalan",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.644399",
+		"latitude": "77.19981",
+		"id": "060 ",
+		"weight": "[59:2] [61:2] "
+	},
+	"61": {
+		"title": "Karol Bagh",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.643877",
+		"latitude": "77.18854",
+		"id": "061 ",
+		"weight": "[60:2] [62:2] "
+	},
+	"62": {
+		"title": "Rajendra Place",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.642241",
+		"latitude": "77.17826",
+		"id": "062 ",
+		"weight": "[61:2] [63:2] "
+	},
+	"63": {
+		"title": "Patel Nagar",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.645049",
+		"latitude": "77.16925",
+		"id": "063 ",
+		"weight": "[62:2] [64:2] "
+	},
+	"64": {
+		"title": "Shadipur",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.651955",
+		"latitude": "77.15762",
+		"id": "064 ",
+		"weight": "[63:2] [65:2] "
+	},
+	"65": {
+		"title": "Kirti Nagar",
+		"line": "Green Line Branch",
+		"structure": "Elevated",
+		"longitude": "28.655100",
+		"latitude": "77.15147",
+		"id": "065 ",
+		"weight": "[64:2] [66:2] [223:2] "
+	},
+	"66": {
+		"title": "Moti Nagar",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.658131",
+		"latitude": "77.14256",
+		"id": "066 ",
+		"weight": "[65:2] [67:2] "
+	},
+	"67": {
+		"title": "Ramesh Nagar",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.652972",
+		"latitude": "77.13150",
+		"id": "067 ",
+		"weight": "[66:2] [68:2] "
+	},
+	"68": {
+		"title": "Rajouri Garden",
+		"line": "Pink Line",
+		"structure": "Elevated",
+		"longitude": "28.649004",
+		"latitude": "77.12263",
+		"id": "068 ",
+		"weight": "[67:2] [69:2] [99:2] [100:2] "
+	},
+	"69": {
+		"title": "Tagore Garden",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.643688",
+		"latitude": "77.11291",
+		"id": "069 ",
+		"weight": "[68:2] [70:2] "
+	},
+	"70": {
+		"title": "Subhash Nagar",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.640431",
+		"latitude": "77.10490",
+		"id": "070 ",
+		"weight": "[69:2] [71:2] "
+	},
+	"71": {
+		"title": "Tilak Nagar",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.636645",
+		"latitude": "77.09636",
+		"id": "071 ",
+		"weight": "[70:2] [72:2] "
+	},
+	"72": {
+		"title": "Janakpuri East",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.632869",
+		"latitude": "77.08624",
+		"id": "072 ",
+		"weight": "[71:2] [73:2] "
+	},
+	"73": {
+		"title": "Janakpuri West",
+		"line": "Magenta Line",
+		"structure": "Elevated",
+		"longitude": "28.629540",
+		"latitude": "77.07824",
+		"id": "073 ",
+		"weight": "[72:2] [74:2] [152:2] "
+	},
+	"74": {
+		"title": "Uttam Nagar East",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.624424",
+		"latitude": "77.06505",
+		"id": "074 ",
+		"weight": "[73:2] [75:2] "
+	},
+	"75": {
+		"title": "Uttam Nagar West",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.621856",
+		"latitude": "77.05626",
+		"id": "075 ",
+		"weight": "[74:2] [76:2] "
+	},
+	"76": {
+		"title": "Nawada",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.620222",
+		"latitude": "77.04508",
+		"id": "076 ",
+		"weight": "[75:2] [77:2] "
+	},
+	"77": {
+		"title": "Dwarka Mor",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.619299",
+		"latitude": "77.03344",
+		"id": "077 ",
+		"weight": "[76:2] [78:3] "
+	},
+	"78": {
+		"title": "Dwarka",
+		"line": "Grey Line",
+		"structure": "Elevated",
+		"longitude": "28.614966",
+		"latitude": "77.02280",
+		"id": "078 ",
+		"weight": "[77:3] [79:3] [228:2] "
+	},
+	"79": {
+		"title": "Dwarka Sector 14",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.602260",
+		"latitude": "77.02595",
+		"id": "079 ",
+		"weight": "[78:3] [80:2] "
+	},
+	"80": {
+		"title": "Dwarka Sector 13",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.597861",
+		"latitude": "77.03248",
+		"id": "080 ",
+		"weight": "[79:2] [81:2] "
+	},
+	"81": {
+		"title": "Dwarka Sector 12",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.592303",
+		"latitude": "77.04068",
+		"id": "081 ",
+		"weight": "[80:2] [82:2] "
+	},
+	"82": {
+		"title": "Dwarka Sector 11",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.586500",
+		"latitude": "77.04942",
+		"id": "082 ",
+		"weight": "[81:2] [83:2] "
+	},
+	"83": {
+		"title": "Dwarka Sector 10",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.581413",
+		"latitude": "77.05700",
+		"id": "083 ",
+		"weight": "[82:2] [84:2] "
+	},
+	"84": {
+		"title": "Dwarka Sector 9",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.574311",
+		"latitude": "77.06524",
+		"id": "084 ",
+		"weight": "[83:2] [85:2] "
+	},
+	"85": {
+		"title": "Dwarka Sector 8",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.565622",
+		"latitude": "77.06701",
+		"id": "085 ",
+		"weight": "[84:2] [86:2] "
+	},
+	"86": {
+		"title": "Dwarka Sector 21",
+		"line": "Orange Line",
+		"structure": "Underground",
+		"longitude": "28.552125",
+		"latitude": "77.05801",
+		"id": "086 ",
+		"weight": "[85:2] [227:5] "
+	},
+	"87": {
+		"title": "Laxmi Nagar",
+		"line": "Blue Line Branch",
+		"structure": "Elevated",
+		"longitude": "28.629248",
+		"latitude": "77.27527",
+		"id": "087 ",
+		"weight": "[54:1] [88:3] "
+	},
+	"88": {
+		"title": "Nirman Vihar",
+		"line": "Blue Line Branch",
+		"structure": "Elevated",
+		"longitude": "28.637700",
+		"latitude": "77.28894",
+		"id": "088 ",
+		"weight": "[87:3] [89:2] "
+	},
+	"89": {
+		"title": "Preet Vihar",
+		"line": "Blue Line Branch",
+		"structure": "Elevated",
+		"longitude": "28.641466",
+		"latitude": "77.29514",
+		"id": "089 ",
+		"weight": "[88:2] [90:3] "
+	},
+	"90": {
+		"title": "Karkarduma",
+		"line": "Blue Line Branch",
+		"structure": "Elevated",
+		"longitude": "28.6483685",
+		"latitude": "77.30458",
+		"id": "090 ",
+		"weight": "[89:3] [91:2] [117:4] "
+	},
+	"91": {
+		"title": "Anand Vihar",
+		"line": "Pink Line Branch",
+		"structure": "Elevated",
+		"longitude": "28.647328",
+		"latitude": "77.31609",
+		"id": "091 ",
+		"weight": "[90:2] [92:4] [116:2] "
+	},
+	"92": {
+		"title": "Kaushambi",
+		"line": "Blue Line Branch",
+		"structure": "Elevated",
+		"longitude": "28.645448",
+		"latitude": "77.32437",
+		"id": "092 ",
+		"weight": "[91:4] [93:3] "
+	},
+	"93": {
+		"title": "Vaishali",
+		"line": "Blue Line Branch",
+		"structure": "Elevated",
+		"longitude": "28.6496868",
+		"latitude": "77.338424",
+		"id": "093 ",
+		"weight": "[92:3] "
+	},
+	"94": {
+		"title": "Majlis Park",
+		"line": "Pink Line",
+		"structure": "Elevated",
+		"longitude": "28.7237083",
+		"latitude": "77.177561",
+		"id": "094 ",
+		"weight": "[6:2] "
+	},
+	"95": {
+		"title": "Shalimar Bagh",
+		"line": "Pink Line",
+		"structure": "Underground",
+		"longitude": "28.7019762",
+		"latitude": "77.164095",
+		"id": "095 ",
+		"weight": "[6:5] [96:2] "
+	},
+	"96": {
+		"title": "Netaji Subhash Place",
+		"line": "Pink Line",
+		"structure": "Elevated",
+		"longitude": "28.695886",
+		"latitude": "77.15245",
+		"id": "096 ",
+		"weight": "[95:2] [97:1] [146:3] [147:2] "
+	},
+	"97": {
+		"title": "Shakurpur",
+		"line": "Pink Line",
+		"structure": "Elevated",
+		"longitude": "28.6859557",
+		"latitude": "77.148769",
+		"id": "097 ",
+		"weight": "[96:1] [98:3] "
+	},
+	"98": {
+		"title": "Punjabi Bagh West",
+		"line": "Pink Line",
+		"structure": "Elevated",
+		"longitude": "28.6730178",
+		"latitude": "77.137363",
+		"id": "098 ",
+		"weight": "[97:3] [99:4] "
+	},
+	"99": {
+		"title": "ESI Hospital",
+		"line": "Pink Line",
+		"structure": "Elevated",
+		"longitude": "28.657987",
+		"latitude": "77.126311",
+		"id": "99 ",
+		"weight": "[98:4] [68:2] "
+	},
+	"100": {
+		"title": "Maya Puri",
+		"line": "Pink Line",
+		"structure": "Elevated",
+		"longitude": "28.63717",
+		"latitude": "77.129731",
+		"id": "100 ",
+		"weight": "[101:2] [68:2] "
+	},
+	"101": {
+		"title": "Nariana Vihar",
+		"line": "Pink Line",
+		"structure": "Underground",
+		"longitude": "28.624125",
+		"latitude": "77.136488",
+		"id": "101 ",
+		"weight": "[100:2] [102:3] "
+	},
+	"102": {
+		"title": "Delhi Cantonment",
+		"line": "Pink Line",
+		"structure": "Elevated",
+		"longitude": "28.6092434",
+		"latitude": "77.139913",
+		"id": "102 ",
+		"weight": "[101:3] [103:4] "
+	},
+	"103": {
+		"title": "Durgabai Deshmukh South Campus",
+		"line": "Pink Line",
+		"structure": "Elevated",
+		"longitude": "28.589441",
+		"latitude": "77.169475",
+		"id": "103 ",
+		"weight": "[225:0] [104:2] [102:4] "
+	},
+	"104": {
+		"title": "Sir Vishweshwaraiah Moti Bagh",
+		"line": "Pink Line",
+		"structure": "Elevated",
+		"longitude": "28.578352",
+		"latitude": "77.17493",
+		"id": "104 ",
+		"weight": "[103:2] [105:3] "
+	},
+	"105": {
+		"title": "Bhikaji Cama Place",
+		"line": "Pink Line",
+		"structure": "Underground",
+		"longitude": "28.5702753",
+		"latitude": "77.18677",
+		"id": "105 ",
+		"weight": "[104:3] [106:3] "
+	},
+	"106": {
+		"title": "Sarojini Nagar",
+		"line": "Pink Line",
+		"structure": "Underground",
+		"longitude": "28.5759184",
+		"latitude": "77.197650",
+		"id": "106 ",
+		"weight": "[105:3] [22:2] "
+	},
+	"107": {
+		"title": "South Extension",
+		"line": "Pink Line",
+		"structure": "Underground",
+		"longitude": "28.5686954",
+		"latitude": "77.219611",
+		"id": "107 ",
+		"weight": "[22:2] [108:2] "
+	},
+	"108": {
+		"title": "Lajpat Nagar",
+		"line": "Pink Line",
+		"structure": "Elevated",
+		"longitude": "28.570607",
+		"latitude": "77.23647",
+		"id": "108 ",
+		"weight": "[107:2] [109:2] [181:3] [182:2] "
+	},
+	"109": {
+		"title": "Vinobapuri",
+		"line": "Pink Line",
+		"structure": "Underground",
+		"longitude": "28.5659703",
+		"latitude": "77.248454",
+		"id": "109 ",
+		"weight": "[108:2] [110:1] "
+	},
+	"110": {
+		"title": "Ashram",
+		"line": "Pink Line",
+		"structure": "Underground",
+		"longitude": "28.5723975",
+		"latitude": "77.258436",
+		"id": "110 ",
+		"weight": "[109:1] [111:4] "
+	},
+	"112": {
+		"title": "Mayur Vihar Pocket 1",
+		"line": "Blue Line",
+		"structure": "Elevated",
+		"longitude": "28.605822",
+		"latitude": "77.29876",
+		"id": "112 ",
+		"weight": "[52:1] [113:1] "
+	},
+	"113": {
+		"title": "Trilok Puri Sanjay Lake",
+		"line": "Pink Line",
+		"structure": "Elevated",
+		"longitude": "28.6136059",
+		"latitude": "77.308279",
+		"id": "113",
+		"weight": "[112:1] [114:3] "
+	},
+	"114": {
+		"title": "Vinod Nagar East",
+		"line": "Pink Line",
+		"structure": "Elevated",
+		"longitude": "28.620057",
+		"latitude": "77.3052",
+		"id": "114",
+		"weight": "[113:3] [115:3] "
+	},
+	"115": {
+		"title": "Mandawali",
+		"line": "Pink Line",
+		"structure": "Elevated",
+		"longitude": "28.624906",
+		"latitude": "77.30441",
+		"id": "115",
+		"weight": "[114:3] [116:2] "
+	},
+	"116": {
+		"title": "IP Extension",
+		"line": "Pink Line",
+		"structure": "Elevated",
+		"longitude": "28.6318781",
+		"latitude": "77.309945",
+		"id": "116 ",
+		"weight": "[115:2] [91:2] "
+	},
+	"117": {
+		"title": "Karkarduma Court",
+		"line": "Pink Line",
+		"structure": "Elevated",
+		"longitude": "28.6536829",
+		"latitude": "77.295738",
+		"id": "117 ",
+		"weight": "[90:4] [118:4] "
+	},
+	"118": {
+		"title": "Krishna Nagar",
+		"line": "Pink Line",
+		"structure": "Elevated",
+		"longitude": "26.794386",
+		"latitude": "80.89172",
+		"id": "118 ",
+		"weight": "[117:4] [119:3] "
+	},
+	"119": {
+		"title": "East Azad Nagar",
+		"line": "Pink Line",
+		"structure": "Elevated",
+		"longitude": "28.6646649",
+		"latitude": "77.284907",
+		"id": "119 ",
+		"weight": "[118:3] [120:2] "
+	},
+	"120": {
+		"title": "Welcome",
+		"line": "Pink Line",
+		"structure": "At Grade",
+		"longitude": "28.672050",
+		"latitude": "77.27793",
+		"id": "120 ",
+		"weight": "[119:2] [121:3] [137:2] [138:3] "
+	},
+	"121": {
+		"title": "Jaffrabad",
+		"line": "Pink Line",
+		"structure": "Elevated",
+		"longitude": "28.6827381",
+		"latitude": "77.274752",
+		"id": "121 ",
+		"weight": "[120:3] [122:3] "
+	},
+	"122": {
+		"title": "Maujpur",
+		"line": "Pink Line",
+		"structure": "Elevated",
+		"longitude": "28.6921147",
+		"latitude": "77.279685",
+		"id": "122",
+		"weight": "[121:3] [123:3] "
+	},
+	"123": {
+		"title": "Gokul Puri",
+		"line": "Pink Line",
+		"structure": "Elevated",
+		"longitude": "28.7024268",
+		"latitude": "77.285985",
+		"id": "123",
+		"weight": "[122:3] [124:2] "
+	},
+	"124": {
+		"title": "Johri Enclave",
+		"line": "Pink Line",
+		"structure": "Elevated",
+		"longitude": "28.7129849",
+		"latitude": "77.290148",
+		"id": "124 ",
+		"weight": "[123:2] [125:2] "
+	},
+	"125": {
+		"title": "Shiv Vihar",
+		"line": "Pink Line",
+		"structure": "Elevated",
+		"longitude": "28.7214626",
+		"latitude": "77.289397",
+		"id": "125 ",
+		"weight": "[124:2] "
+	},
+	"126": {
+		"title": "Shaheed Sthal",
+		"line": "Red Line",
+		"structure": "Elevated",
+		"longitude": "28.6706",
+		"latitude": "77.415",
+		"id": "126",
+		"weight": "[127:2] "
+	},
+	"127": {
+		"title": "Hindon River",
+		"line": "Red Line",
+		"structure": "Elevated",
+		"longitude": "28.673344",
+		"latitude": "77.40640",
+		"id": "127 ",
+		"weight": "[126:2] [128:2] "
+	},
+	"128": {
+		"title": "Arthala",
+		"line": "Red Line",
+		"structure": "Elevated",
+		"longitude": "28.6729",
+		"latitude": "77.391",
+		"id": "128 ",
+		"weight": "[127:2] [129:2] "
+	},
+	"129": {
+		"title": "Mohan Nagar",
+		"line": "Red Line",
+		"structure": "Elevated",
+		"longitude": "28.67848",
+		"latitude": "77.38393",
+		"id": "129 ",
+		"weight": "[128:2] [130:3] "
+	},
+	"130": {
+		"title": "Shyam park",
+		"line": "Red Line",
+		"structure": "Elevated",
+		"longitude": "28.678232",
+		"latitude": "77.37090",
+		"id": "130",
+		"weight": "[129:3] [131:2] "
+	},
+	"131": {
+		"title": "Rajendra Nagar",
+		"line": "Red Line",
+		"structure": "Elevated",
+		"longitude": "28.677631",
+		"latitude": "77.35826",
+		"id": "131",
+		"weight": "[130:2] [132:3] "
+	},
+	"132": {
+		"title": "Raj Bagh",
+		"line": "Red Line",
+		"structure": "Elevated",
+		"longitude": "28.677031",
+		"latitude": "77.34657",
+		"id": "132 ",
+		"weight": "[131:3] [133:2] "
+	},
+	"133": {
+		"title": "Shaheed Nagar",
+		"line": "Red Line",
+		"structure": "Elevated",
+		"longitude": "28.676632",
+		"latitude": "77.33375",
+		"id": "133 ",
+		"weight": "[132:2] [134:3] "
+	},
+	"134": {
+		"title": "Dilshad Garden",
+		"line": "Red Line",
+		"structure": "Elevated",
+		"longitude": "28.675556",
+		"latitude": "77.32027",
+		"id": "134 ",
+		"weight": "[133:3] [135:1] "
+	},
+	"135": {
+		"title": "Jhilmil",
+		"line": "Red Line",
+		"structure": "Elevated",
+		"longitude": "28.675663",
+		"latitude": "77.31248",
+		"id": "135 ",
+		"weight": "[134:1] [136:3] "
+	},
+	"136": {
+		"title": "Mansarovar Park",
+		"line": "Red Line",
+		"structure": "Elevated",
+		"longitude": "28.675406",
+		"latitude": "77.30155",
+		"id": "136 ",
+		"weight": "[135:3] [137:3] "
+	},
+	"137": {
+		"title": "Shahdara",
+		"line": "Red Line",
+		"structure": "At Grade",
+		"longitude": "28.673476",
+		"latitude": "77.28992",
+		"id": "137 ",
+		"weight": "[136:3] [120:2] "
+	},
+	"138": {
+		"title": "Seelampur",
+		"line": "Red Line",
+		"structure": "At Grade",
+		"longitude": "28.669824",
+		"latitude": "77.26673",
+		"id": "138 ",
+		"weight": "[120:3] [139:3] "
+	},
+	"139": {
+		"title": "Shastri Park",
+		"line": "Red Line",
+		"structure": "At Grade",
+		"longitude": "28.668204",
+		"latitude": "77.25009",
+		"id": "139 ",
+		"weight": "[138:3] [12:4] "
+	},
+	"140": {
+		"title": "Tis Hazari",
+		"line": "Red Line",
+		"structure": "Elevated",
+		"longitude": "28.667216",
+		"latitude": "77.21651",
+		"id": "140 ",
+		"weight": "[12:1] [141:3] "
+	},
+	"141": {
+		"title": "Pul Bangash",
+		"line": "Red Line",
+		"structure": "Elevated",
+		"longitude": "28.666251",
+		"latitude": "77.20698",
+		"id": "141 ",
+		"weight": "[140:3] [142:2] "
+	},
+	"142": {
+		"title": "Pratap Nagar",
+		"line": "Red Line",
+		"structure": "Elevated",
+		"longitude": "28.666698",
+		"latitude": "77.19884",
+		"id": "142 ",
+		"weight": "[141:2] [143:3] "
+	},
+	"143": {
+		"title": "Shastri Nagar",
+		"line": "Red Line",
+		"structure": "Elevated",
+		"longitude": "28.670134",
+		"latitude": "77.18178",
+		"id": "143 ",
+		"weight": "[142:3] "
+	},
+	"144": {
+		"title": "Inderlok",
+		"line": "Green Line",
+		"structure": "Elevated",
+		"longitude": "28.673445",
+		"latitude": "77.17033",
+		"id": "144 ",
+		"weight": "[203:4] [14:3] [145:3] "
+	},
+	"145": {
+		"title": "Kanhiya Nagar",
+		"line": "Red Line",
+		"structure": "Elevated",
+		"longitude": "28.682437",
+		"latitude": "77.16476",
+		"id": "145",
+		"weight": "[144:3] [146:2] "
+	},
+	"146": {
+		"title": "Keshav Puram",
+		"line": "Red Line",
+		"structure": "Elevated",
+		"longitude": "28.688903",
+		"latitude": "77.16178",
+		"id": "146 ",
+		"weight": "[145:2] [96:3] "
+	},
+	"147": {
+		"title": "Kohat Enclave",
+		"line": "Red Line",
+		"structure": "Elevated",
+		"longitude": "28.698004",
+		"latitude": "77.14083",
+		"id": "147 ",
+		"weight": "[96:2] [148:2] "
+	},
+	"148": {
+		"title": "Pitam Pura",
+		"line": "Red Line",
+		"structure": "Elevated",
+		"longitude": "28.703151",
+		"latitude": "77.13239",
+		"id": "148 ",
+		"weight": "[147:2] [149:3] "
+	},
+	"149": {
+		"title": "Rohini East",
+		"line": "Red Line",
+		"structure": "Elevated",
+		"longitude": "28.707659",
+		"latitude": "77.12590",
+		"id": "149 ",
+		"weight": "[148:3] [150:3] "
+	},
+	"150": {
+		"title": "Rohini West",
+		"line": "Red Line",
+		"structure": "Elevated",
+		"longitude": "28.714980",
+		"latitude": "77.11538",
+		"id": "150 ",
+		"weight": "[149:3] [151:2] "
+	},
+	"151": {
+		"title": "Rithala",
+		"line": "Red Line",
+		"structure": "Elevated",
+		"longitude": "28.720879",
+		"latitude": "77.10702",
+		"id": "151 ",
+		"weight": "[150:2] "
+	},
+	"152": {
+		"title": "Dabri Mor",
+		"line": "Magenta Line",
+		"structure": "Underground",
+		"longitude": "28.6156417",
+		"latitude": "77.084644",
+		"id": "152",
+		"weight": "[73:2] [153:2] "
+	},
+	"153": {
+		"title": "Dashrath Puri",
+		"line": "Magenta Line",
+		"structure": "Underground",
+		"longitude": "28.601559",
+		"latitude": "77.082003",
+		"id": "153 ",
+		"weight": "[152:2] [154:3] "
+	},
+	"154": {
+		"title": "Palam",
+		"line": "Magenta Line",
+		"structure": "Underground",
+		"longitude": "28.5915",
+		"latitude": "77.081",
+		"id": "154 ",
+		"weight": "[153:3] [155:4] "
+	},
+	"155": {
+		"title": "Sadar Bazaar Cantonment",
+		"line": "Magenta Line",
+		"structure": "Elevated",
+		"longitude": "28.577082",
+		"latitude": "77.110119",
+		"id": "155 ",
+		"weight": "[154:4] [156:4] "
+	},
+	"156": {
+		"title": "Terminal 1-IGI Airport",
+		"line": "Magenta Line",
+		"structure": "Underground",
+		"longitude": "28.5653",
+		"latitude": "77.12238",
+		"id": "156 ",
+		"weight": "[155:4] [157:2] "
+	},
+	"157": {
+		"title": "Shankar Vihar",
+		"line": "Magenta Line",
+		"structure": "Elevated",
+		"longitude": "28.560649",
+		"latitude": "77.13979",
+		"id": "157 ",
+		"weight": "[156:2] [158:4] "
+	},
+	"158": {
+		"title": "Vasant Vihar",
+		"line": "Magenta Line",
+		"structure": "Underground",
+		"longitude": "28.557829",
+		"latitude": "77.161152",
+		"id": "158 ",
+		"weight": "[157:4] [159:2] "
+	},
+	"159": {
+		"title": "Munirka",
+		"line": "Magenta Line",
+		"structure": "Underground",
+		"longitude": "28.5578421",
+		"latitude": "77.173513",
+		"id": "159 ",
+		"weight": "[158:2] [160:3] "
+	},
+	"160": {
+		"title": "RK Puram",
+		"line": "Magenta Line",
+		"structure": "Underground",
+		"longitude": "28.5502447",
+		"latitude": "77.183453",
+		"id": "160 ",
+		"weight": "[159:3] [161:2] "
+	},
+	"161": {
+		"title": "IIT Delhi",
+		"line": "Magenta Line",
+		"structure": "Underground",
+		"longitude": "28.5470166",
+		"latitude": "77.192325",
+		"id": "161 ",
+		"weight": "[160:2] [25:3] "
+	},
+	"162": {
+		"title": "Panchsheel Park",
+		"line": "Magenta Line",
+		"structure": "Underground",
+		"longitude": "28.5423663",
+		"latitude": "77.220115",
+		"id": "162 ",
+		"weight": "[25:2] [163:1] "
+	},
+	"163": {
+		"title": "Chirag Delhi",
+		"line": "Magenta Line",
+		"structure": "Underground",
+		"longitude": "28.541183",
+		"latitude": "77.23122",
+		"id": "163 ",
+		"weight": "[162:1] [164:2] "
+	},
+	"164": {
+		"title": "Greater Kailash",
+		"line": "Magenta Line",
+		"structure": "Underground",
+		"longitude": "28.5416669",
+		"latitude": "77.237680",
+		"id": "164 ",
+		"weight": "[163:2] [165:4] "
+	},
+	"165": {
+		"title": "Nehru Enclave",
+		"line": "Magenta Line",
+		"structure": "Underground",
+		"longitude": "28.5457201",
+		"latitude": "77.250352",
+		"id": "165 ",
+		"weight": "[164:4] [166:1] "
+	},
+	"166": {
+		"title": "Kalkaji Mandir",
+		"line": "Magenta Line",
+		"structure": "Underground",
+		"longitude": "28.54921",
+		"latitude": "77.25904",
+		"id": "166",
+		"weight": "[165:1] [167:2] [184:1] [185:3] "
+	},
+	"167": {
+		"title": "Okhla NSIC",
+		"line": "Magenta Line",
+		"structure": "Elevated",
+		"longitude": "28.554931",
+		"latitude": "77.26319",
+		"id": "167 ",
+		"weight": "[166:2] [168:1] "
+	},
+	"168": {
+		"title": "Sukhdev Vihar",
+		"line": "Magenta Line",
+		"structure": "Elevated",
+		"longitude": "28.559758",
+		"latitude": "77.27470",
+		"id": "168 ",
+		"weight": "[167:1] [169:4] "
+	},
+	"169": {
+		"title": "Jamia Millia Islamia",
+		"line": "Magenta Line",
+		"structure": "Elevated",
+		"longitude": "28.561031",
+		"latitude": "77.28445",
+		"id": "169 ",
+		"weight": "[168:4] [170:3] "
+	},
+	"170": {
+		"title": "Okhla Vihar",
+		"line": "Magenta Line",
+		"structure": "Elevated",
+		"longitude": "28.561183",
+		"latitude": "77.29189",
+		"id": "170 ",
+		"weight": "[169:3] [171:4] "
+	},
+	"171": {
+		"title": "Jasola Vihar Shaheen Bagh",
+		"line": "Magenta Line",
+		"structure": "Elevated",
+		"longitude": "28.5460715",
+		"latitude": "77.29663",
+		"id": "171 ",
+		"weight": "[170:4] [172:2] "
+	},
+	"172": {
+		"title": "Kalindi Kunj",
+		"line": "Magenta Line",
+		"structure": "Elevated",
+		"longitude": "28.543089",
+		"latitude": "77.32156",
+		"id": "172 ",
+		"weight": "[171:2] [173:3] "
+	},
+	"173": {
+		"title": "Okhla Bird Sanctuary",
+		"line": "Magenta Line",
+		"structure": "Elevated",
+		"longitude": "28.552824",
+		"latitude": "77.32156",
+		"id": "173 ",
+		"weight": "[172:3] [46:2] "
+	},
+	"174": {
+		"title": "Lal Qila",
+		"line": "Violet Line",
+		"structure": "Underground",
+		"longitude": "28.656682",
+		"latitude": "77.23661",
+		"id": "174 ",
+		"weight": "[12:3] [175:2] "
+	},
+	"175": {
+		"title": "Jama Masjid",
+		"line": "Violet Line",
+		"structure": "Underground",
+		"longitude": "28.650157",
+		"latitude": "77.23757",
+		"id": "175 ",
+		"weight": "[174:2] [176:3] "
+	},
+	"176": {
+		"title": "Delhi Gate",
+		"line": "Violet Line",
+		"structure": "Underground",
+		"longitude": "28.639731",
+		"latitude": "77.24013",
+		"id": "176 ",
+		"weight": "[175:3] [177:3] "
+	},
+	"177": {
+		"title": "ITO",
+		"line": "Violet Line",
+		"structure": "Underground",
+		"longitude": "28.628395",
+		"latitude": "77.24114",
+		"id": "177 ",
+		"weight": "[176:3] [57:1] "
+	},
+	"178": {
+		"title": "Janpath",
+		"line": "Violet Line",
+		"structure": "Underground",
+		"longitude": "28.6232809",
+		"latitude": "77.214477",
+		"id": "178 ",
+		"weight": "[57:3] [18:1] "
+	},
+	"179": {
+		"title": "Khan Market",
+		"line": "Violet Line",
+		"structure": "Underground",
+		"longitude": "28.602460",
+		"latitude": "77.22788",
+		"id": "179 ",
+		"weight": "[18:3] [180:2] "
+	},
+	"180": {
+		"title": "JLN Stadium",
+		"line": "Violet Line",
+		"structure": "Underground",
+		"longitude": "28.590381",
+		"latitude": "77.23304",
+		"id": "180",
+		"weight": "[179:2] [181:2] "
+	},
+	"181": {
+		"title": "Jangpura",
+		"line": "Violet Line",
+		"structure": "Underground",
+		"longitude": "28.583287",
+		"latitude": "77.23960",
+		"id": "181 ",
+		"weight": "[180:2] [108:3] "
+	},
+	"182": {
+		"title": "Moolchand",
+		"line": "Violet Line",
+		"structure": "Elevated",
+		"longitude": "28.564000",
+		"latitude": "77.23409",
+		"id": "182 ",
+		"weight": "[108:2] [183:3] "
+	},
+	"183": {
+		"title": "Kailash Colony",
+		"line": "Violet Line",
+		"structure": "Elevated",
+		"longitude": "28.555312",
+		"latitude": "77.24199",
+		"id": "183 ",
+		"weight": "[182:3] [184:2] "
+	},
+	"184": {
+		"title": "Nehru Place",
+		"line": "Violet Line",
+		"structure": "Elevated",
+		"longitude": "28.551411",
+		"latitude": "77.25176",
+		"id": "184 ",
+		"weight": "[183:2] [166:1] "
+	},
+	"185": {
+		"title": "Govind Puri",
+		"line": "Violet Line",
+		"structure": "Elevated",
+		"longitude": "28.544606",
+		"latitude": "77.26428",
+		"id": "185",
+		"weight": "[166:3] [186:2] "
+	},
+	"186": {
+		"title": "Harkesh Nagar",
+		"line": "Violet Line",
+		"structure": "Elevated",
+		"longitude": "28.5428944",
+		"latitude": "77.274738",
+		"id": "186",
+		"weight": "[185:2] [187:3] "
+	},
+	"187": {
+		"title": "Jasola Apollo",
+		"line": "Violet Line",
+		"structure": "Elevated",
+		"longitude": "28.538284",
+		"latitude": "77.283255",
+		"id": "187 ",
+		"weight": "[186:3] [188:2] "
+	},
+	"188": {
+		"title": "Sarita Vihar",
+		"line": "Violet Line",
+		"structure": "Elevated",
+		"longitude": "28.5291048",
+		"latitude": "77.287643",
+		"id": "188 ",
+		"weight": "[187:2] [189:2] "
+	},
+	"189": {
+		"title": "Mohan Estate",
+		"line": "Violet Line",
+		"structure": "Elevated",
+		"longitude": "28.5196268",
+		"latitude": "77.293645",
+		"id": "189 ",
+		"weight": "[188:2] [190:3] "
+	},
+	"190": {
+		"title": "Tughlakabad",
+		"line": "Violet Line",
+		"structure": "Elevated",
+		"longitude": "28.5025526",
+		"latitude": "77.298933",
+		"id": "190",
+		"weight": "[189:3] [191:2] "
+	},
+	"191": {
+		"title": "Badarpur",
+		"line": "Violet Line",
+		"structure": "Elevated",
+		"longitude": "28.493241",
+		"latitude": "77.30249",
+		"id": "191",
+		"weight": "[190:2] [192:3] "
+	},
+	"192": {
+		"title": "Sarai",
+		"line": "Violet Line",
+		"structure": "Elevated",
+		"longitude": "28.478064",
+		"latitude": "77.30485",
+		"id": "192 ",
+		"weight": "[191:3] [193:5] "
+	},
+	"193": {
+		"title": "NHPC Chowk",
+		"line": "Violet Line",
+		"structure": "Elevated",
+		"longitude": "28.457660000",
+		"latitude": "77.30742200",
+		"id": "193 ",
+		"weight": "[192:5] [194:2] "
+	},
+	"194": {
+		"title": "Mewla Maharajpur",
+		"line": "Violet Line",
+		"structure": "Elevated",
+		"longitude": "28.448495000",
+		"latitude": "77.30813000",
+		"id": "194 ",
+		"weight": "[193:2] [195:2] "
+	},
+	"195": {
+		"title": "Sector 28",
+		"line": "Violet Line",
+		"structure": "Elevated",
+		"longitude": "28.438325000",
+		"latitude": "77.30909600",
+		"id": "195 ",
+		"weight": "[194:2] [196:3] "
+	},
+	"196": {
+		"title": "Badkhal Mor",
+		"line": "Violet Line",
+		"structure": "Elevated",
+		"longitude": "28.422753",
+		"latitude": "77.31035",
+		"id": "196 ",
+		"weight": "[195:3] [197:2] "
+	},
+	"197": {
+		"title": "Old Faridabad",
+		"line": "Violet Line",
+		"structure": "Elevated",
+		"longitude": "28.41083",
+		"latitude": "77.3113",
+		"id": "197",
+		"weight": "[196:2] [198:2] "
+	},
+	"198": {
+		"title": "Neelam Chowk Ajronda",
+		"line": "Violet Line",
+		"structure": "Elevated",
+		"longitude": "28.3978",
+		"latitude": "77.312",
+		"id": "198 ",
+		"weight": "[197:2] [199:3] "
+	},
+	"199": {
+		"title": "Bata Chowk",
+		"line": "Violet Line",
+		"structure": "Elevated",
+		"longitude": "28.386052028",
+		"latitude": "77.31344100",
+		"id": "199 ",
+		"weight": "[198:3] [200:3] "
+	},
+	"200": {
+		"title": "Escorts Mujesar",
+		"line": "Violet Line",
+		"structure": "Elevated",
+		"longitude": "28.370081000",
+		"latitude": "77.31495400",
+		"id": "200 ",
+		"weight": "[199:3] [201:3] "
+	},
+	"201": {
+		"title": "Sant Surdas",
+		"line": "Violet Line",
+		"structure": "Elevated",
+		"longitude": "28.3546852",
+		"latitude": "77.316162",
+		"id": "201",
+		"weight": "[200:3] [202:4] "
+	},
+	"202": {
+		"title": "Raja Nahar Singh",
+		"line": "Violet Line",
+		"structure": "Elevated",
+		"longitude": "28.3394733",
+		"latitude": "77.316052",
+		"id": "202 ",
+		"weight": "[201:4] "
+	},
+	"203": {
+		"title": "Ashok Park Main",
+		"line": "Green Line",
+		"structure": "Elevated",
+		"longitude": "28.671603",
+		"latitude": "77.15501",
+		"id": "203 ",
+		"weight": "[144:4] [204:1] [223:3] "
+	},
+	"204": {
+		"title": "Punjabi Bagh",
+		"line": "Green Line",
+		"structure": "Elevated",
+		"longitude": "28.672936",
+		"latitude": "77.14597",
+		"id": "204 ",
+		"weight": "[203:1] [205:3] "
+	},
+	"205": {
+		"title": "Shivaji Park",
+		"line": "Green Line",
+		"structure": "Elevated",
+		"longitude": "28.674944",
+		"latitude": "77.13034",
+		"id": "205 ",
+		"weight": "[204:3] [206:3] "
+	},
+	"206": {
+		"title": "Madipur",
+		"line": "Green Line",
+		"structure": "Elevated",
+		"longitude": "28.676361",
+		"latitude": "77.11956",
+		"id": "206 ",
+		"weight": "[205:3] [207:2] "
+	},
+	"207": {
+		"title": "Paschim Vihar East",
+		"line": "Green Line",
+		"structure": "Elevated",
+		"longitude": "28.677294",
+		"latitude": "77.11227",
+		"id": "207 ",
+		"weight": "[206:2] [208:2] "
+	},
+	"208": {
+		"title": "Paschim Vihar West",
+		"line": "Green Line",
+		"structure": "Elevated",
+		"longitude": "28.678589",
+		"latitude": "77.10210",
+		"id": "208 ",
+		"weight": "[207:2] [209:1] "
+	},
+	"209": {
+		"title": "Peera Garhi",
+		"line": "Green Line",
+		"structure": "Elevated",
+		"longitude": "28.679703",
+		"latitude": "77.0925",
+		"id": "209 ",
+		"weight": "[208:1] [210:3] "
+	},
+	"210": {
+		"title": "Udyog Nagar",
+		"line": "Green Line",
+		"structure": "Elevated",
+		"longitude": "28.680994",
+		"latitude": "77.08077",
+		"id": "210 ",
+		"weight": "[209:3] [211:2] "
+	},
+	"211": {
+		"title": "Maharaja Surajmal Stadium",
+		"line": "Green Line",
+		"structure": "Elevated",
+		"longitude": "28.681792",
+		"latitude": "77.07395",
+		"id": "211 ",
+		"weight": "[210:2] [212:3] "
+	},
+	"212": {
+		"title": "Nangloi",
+		"line": "Green Line",
+		"structure": "Elevated",
+		"longitude": "28.682356",
+		"latitude": "77.06467",
+		"id": "212 ",
+		"weight": "[211:3] [213:2] "
+	},
+	"213": {
+		"title": "Nangloi Railway Station",
+		"line": "Green Line",
+		"structure": "Elevated",
+		"longitude": "28.682106",
+		"latitude": "77.05608",
+		"id": "213 ",
+		"weight": "[212:2] [214:3] "
+	},
+	"214": {
+		"title": "Rajdhani Park",
+		"line": "Green Line",
+		"structure": "Elevated",
+		"longitude": "28.6822",
+		"latitude": "77.04384",
+		"id": "214 ",
+		"weight": "[213:3] [215:2] "
+	},
+	"215": {
+		"title": "Mundka",
+		"line": "Green Line",
+		"structure": "Elevated",
+		"longitude": "28.682442",
+		"latitude": "77.03021",
+		"id": "215 ",
+		"weight": "[214:2] [216:2] "
+	},
+	"216": {
+		"title": "Mundka Industrial Area",
+		"line": "Green Line",
+		"structure": "Elevated",
+		"longitude": "28.683525",
+		"latitude": "77.01715",
+		"id": "216 ",
+		"weight": "[215:2] [217:5] "
+	},
+	"217": {
+		"title": "Ghevra",
+		"line": "Green Line",
+		"structure": "Elevated",
+		"longitude": "28.685245",
+		"latitude": "76.99616",
+		"id": "217 ",
+		"weight": "[216:5] [218:2] "
+	},
+	"218": {
+		"title": "Tikri Kalan",
+		"line": "Green Line",
+		"structure": "Elevated",
+		"longitude": "28.686902",
+		"latitude": "76.97739",
+		"id": "218 ",
+		"weight": "[217:2] [219:3] "
+	},
+	"219": {
+		"title": "Tikri Border",
+		"line": "Green Line",
+		"structure": "Elevated",
+		"longitude": "28.687978",
+		"latitude": "76.96416",
+		"id": "219 ",
+		"weight": "[218:3] [220:3] "
+	},
+	"220": {
+		"title": "Pandit Shree Ram Sharma",
+		"line": "Green Line",
+		"structure": "Elevated",
+		"longitude": "28.689279",
+		"latitude": "76.95102",
+		"id": "220 ",
+		"weight": "[219:3] [221:3] "
+	},
+	"221": {
+		"title": "Bahadurgarh City",
+		"line": "Green Line",
+		"structure": "Elevated",
+		"longitude": "28.690777",
+		"latitude": "76.93527",
+		"id": "221 ",
+		"weight": "[220:3] [222:4] "
+	},
+	"222": {
+		"title": "Brigadier Hoshiyar Singh",
+		"line": "Green Line",
+		"structure": "Elevated",
+		"longitude": "28.697357",
+		"latitude": "76.91938",
+		"id": "222",
+		"weight": "[221:4] "
+	},
+	"223": {
+		"title": "Satguru Ram Singh Marg",
+		"line": "Green Line Branch",
+		"structure": "Elevated",
+		"longitude": "28.661920",
+		"latitude": "77.15745",
+		"id": "223",
+		"weight": "[203:3] [65:2] "
+	},
+	"224": {
+		"title": "Shivaji Stadium",
+		"line": "Orange Line",
+		"structure": "Underground",
+		"longitude": "28.628788",
+		"latitude": "77.21140",
+		"id": "224 ",
+		"weight": "[15:2] [225:7] "
+	},
+	"225": {
+		"title": "Dhaula Kuan",
+		"line": "Orange Line",
+		"structure": "Elevated",
+		"longitude": "28.591853",
+		"latitude": "77.16169",
+		"id": "225",
+		"weight": "[224:7] [226:9] [103:0] "
+	},
+	"226": {
+		"title": "Delhi Aerocity",
+		"line": "Orange Line",
+		"structure": "Underground",
+		"longitude": "28.5491",
+		"latitude": "77.1208",
+		"id": "226",
+		"weight": "[225:9] [227:7] "
+	},
+	"228": {
+		"title": "Nangli",
+		"line": "Grey Line",
+		"structure": "Elevated",
+		"longitude": "28.617264",
+		"latitude": "77.01051",
+		"id": "228 ",
+		"weight": "[78:2] [229:3] "
+	},
+	"229": {
+		"title": "Najafgarh",
+		"line": "Grey Line",
+		"structure": "Underground",
+		"longitude": "28.612555",
+		"latitude": "76.98629",
+		"id": "229",
+		"weight": "[228:3] [230:4] "
+	},
+	"230": {
+		"title": "Dhansa Bus Stand",
+		"line": "Grey Line",
+		"structure": "Underground",
+		"longitude": "28.6119",
+		"latitude": "76.9758113",
+		"id": "230",
+		"weight": "[229:4] "
+	}
 }
