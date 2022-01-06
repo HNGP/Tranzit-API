@@ -1,0 +1,246 @@
+name,line,layout,longitude,latitude,id
+Samaypur Badli,Yellow Line,Elevated,28.7446341,77.137893,001 
+Rohini Sector 18 19,Yellow Line,Elevated,28.7383223,77.138780,002
+Haiderpur Badli Mor,Yellow Line,Elevated,28.7299222,77.146941,003 
+Jahangirpuri,Yellow Line,Elevated,28.725828,77.16278,004 
+Adarsh Nagar,Yellow Line,Elevated,28.718104,77.16938,005 
+Azadpur,Yellow Line,Elevated,28.707273,77.17997,006 
+Azadpur,Pink Line,Elevated,28.707273,77.17997,006 
+Model Town,Yellow Line,Elevated,28.702822,77.19386,007 
+GTB Nagar,Yellow Line,Underground,28.698206,77.20701,008 
+Viswavidyalaya,Yellow Line,Underground,28.694813,77.21459,009
+Vidhan Sabha,Yellow Line,Underground,28.687858,77.22177,010 
+Civil Lines,Yellow Line,Underground,28.676921,77.22499,011 
+Kashmere Gate,Red Line,Elevated,28.667489,77.22804,012 
+Kashmere Gate,Voilet Line,Elevated,28.667489,77.22804,012 
+Kashmere Gate,Yellow Line,Elevated,28.667489,77.22804,012 
+Chandhni Chowk,Yellow Line,Underground,28.657838,77.23016,013
+Chawri Bazar,Yellow Line,Underground,28.649564,77.22622,014 
+New Delhi,Yellow Line,Underground,28.642229,77.22153,015 
+New Delhi,Orange Line,Underground,28.642229,77.22153,015 
+Rajiv Chowk,Yellow Line,Underground,28.632846,77.21963,016 
+Rajiv Chowk,Blue Line,Underground,28.632846,77.21963,016 
+Patel Chowk,Yellow Line,Underground,28.623235,77.21178,017 
+Central Secretariat,Yellow Line,Underground,28.615042,77.21178,018 
+Central Secretariat,Violet Line,Underground,28.615042,77.21178,018 
+Udyog Bhawan,Yellow Line,Underground,28.6110187,77.211149,019 
+Lok Kalyan Marg,Yellow Line,Underground,28.5976354,77.209992,020
+Jorbagh,Yellow Line,Underground,28.5860802,77.212036,021 
+INA,Yellow Line,Underground,28.5752244,77.207311,022 
+INA,Pink Line,Underground,28.5752244,77.207311,022 
+AIIMS,Yellow Line,Underground,28.56667,77.20808,023 
+Green Park,Yellow Line,Underground,28.559533,77.206386,024 
+Hauz Khas,Yellow Line,Underground,28.543596,77.2041863,025
+Hauz Khas,Magenta Line,Underground,28.543596,77.2041863,025
+Malvia Nagar,Yellow Line,Underground,28.5286861,77.203291,026
+Saket,Yellow Line,Underground,28.5205465,77.200364,027 
+Qutab Minar,Yellow Line,Elevated,28.5129,77.186,028 
+Chhattarpur,Yellow Line,Elevated,28.506552,77.17492,029
+Sultanpur,Yellow Line,Elevated,28.499260,77.16136,030 
+Ghitorni,Yellow Line,Elevated,28.493785,77.14915,031 
+Arjan Garh,Yellow Line,Elevated,28.480796,77.12577,032 
+Guru Dronacharya,Yellow Line,Elevated,28.482093,77.10214,033 
+Sikandarpur,Yellow Line,Elevated,28.48139,77.0930,034 
+MG Road,Yellow Line,Elevated,28.479600,77.07987,035 
+IFFCO Chowk,Yellow Line,Elevated,28.472113,77.07240,036
+HUDA City Centre,Yellow Line,Elevated,28.459278,77.07241,037 
+Noida Electronic City,Blue Line,Elevated,28.630863,77.37547,038 
+Noida Sector 62,Blue Line,Elevated,28.617049,77.37361,039 
+Noida Sector 59,Blue Line,Elevated,28.606364,77.37280,040 
+Noida Sector 61,Blue Line,Elevated,28.597470,77.37227,041 
+Noida Sector 52,Blue Line,Elevated,28.586762,77.37290,042 
+Noida Sector 34,Blue Line,Elevated,28.580120,77.36340,043 
+Noida City Centre,Blue Line,Elevated,28.5747,77.356,044 
+Golf Course,Blue Line,Elevated,28.566940,77.34546,045 
+Botanical Garden,Blue Line,Elevated,28.564208,77.33478,046 
+Botanical Garden,Magnet Line,Elevated,28.564208,77.33478,046 
+Noida Sector 18,Blue Line,Elevated,28.570813,77.32611,047 
+Noida Sector 16,Blue Line,Elevated,28.578549,77.31745,048 
+Noida Sector 15,Blue Line,Elevated,28.584936,77.31175,049 
+New Ashok Nagar,Blue Line,Elevated,28.589119,77.30151,050 
+Mayur Vihar Extension,Blue Line,Elevated,28.594197,77.29449,051 
+Mayur Vihar-I,Blue Line,Elevated,28.604743,77.28932,052 
+Akshardham,Blue Line,Elevated,28.618216,77.27924,053 
+Yamuna Bank,Blue Line Branch,At-Grad,28.620999,77.26011,054 
+Indraprastha,Blue Line,Elevated,28.620504,77.24999,055 
+Supreme Court,Blue Line,Elevated,28.623490,77.24252,056 
+Mandi House,Blue Line,Underground,28.625816,77.23472,057 
+Mandi House,Violet Line,Underground,28.625816,77.23472,057 
+Barakhamba Road,Blue Line,Underground,28.630689,77.22358,058
+RK Ashram Marg,Ashram Marg,Blue Line,Elevated,28.639268,77.20850,059 
+Jhandewalan,Blue Line,Elevated,28.644399,77.19981,060 
+Karol Bagh,Blue Line,Elevated,28.643877,77.18854,061 
+Rajendra Place,Blue Line,Elevated,28.642241,77.17826,062 
+Patel Nagar,Blue Line,Elevated,28.645049,77.16925,063 
+Shadipur,Blue Line,Elevated,28.651955,77.15762,064 
+Kirti Nagar,Blue Line,Elevated,28.655100,77.15147,065 
+Kirti Nagar,Green Line Branch,Elevated,28.655100,77.15147,065 
+Moti Nagar,Blue Line,Elevated,28.658131,77.14256,066 
+Ramesh Nagar,Blue Line,Elevated,28.652972,77.13150,067 
+Rajouri Garden,Blue Line,Elevated,28.649004,77.12263,068 
+Rajouri Garden,Pink Line,Elevated,28.649004,77.12263,068 
+Tagore Garden,Blue Line,Elevated,28.643688,77.11291,069 
+Subhash Nagar,Blue Line,Elevated,28.640431,77.10490,070 
+Tilak Nagar,Blue Line,Elevated,28.636645,77.09636,071 
+Janakpuri East,Blue Line,Elevated,28.632869,77.08624,072 
+Janakpuri West,Blue Line,Elevated,28.629540,77.07824,073 
+Janakpuri West,Magenta Line,Elevated,28.629540,77.07824,073 
+Uttam Nagar East,Blue Line,Elevated,28.624424,77.06505,074 
+Uttam Nagar West,Blue Line,Elevated,28.621856,77.05626,075 
+Nawada,Blue Line,Elevated,28.620222,77.04508,076 
+Dwarka Mor,Blue Line,Elevated,28.619299,77.03344,077 
+Dwarka,Blue Line,Elevated,28.614966,77.02280,078 
+Dwarka,Grey Line,Elevated,28.614966,77.02280,078 
+Dwarka Sector 14,Blue Line,Elevated,28.602260,77.02595,079 
+Dwarka Sector 13,Blue Line,Elevated,28.597861,77.03248,080 
+Dwarka Sector 12,Blue Line,Elevated,28.592303,77.04068,081 
+Dwarka Sector 11,Blue Line,Elevated,28.586500,77.04942,082 
+Dwarka Sector 10,Blue Line,Elevated,28.581413,77.05700,083 
+Dwarka Sector 9,Blue Line,Elevated,28.574311,77.06524,084 
+Dwarka Sector 8,Blue Line,Elevated,28.565622,77.06701,085 
+Dwarka Sector 21,Blue Line,Underground,28.552125,77.05801,086 
+Dwarka Sector 21,Orange Line,Underground,28.552125,77.05801,086 
+Laxmi Nagar,Blue Line Branch,Elevated,28.629248,77.27527,087 
+Nirman Vihar,Blue Line Branch,Elevated,28.637700,77.28894,088 
+Preet Vihar,Blue Line Branch,Elevated,28.641466,77.29514,089 
+Karkarduma,Blue Line Branch,Elevated,28.6483685,77.30458,090 
+Anand Vihar,Blue Line Branch,Elevated,28.647328,77.31609,091 
+Anand Vihar,Pink Line Branch,Elevated,28.647328,77.31609,091 
+Kaushambi,Blue Line Branch,Elevated,28.645448,77.32437,092 
+Vaishali,Blue Line Branch,Elevated,28.6496868,77.338424,093 
+Majlis Park,Pink Line,Elevated,28.7237083,77.177561,094 
+Shalimar Bagh,Pink Line,Underground,28.7019762,77.164095,095 
+Netaji Subhash Place,Red Line,Elevated,28.695886,77.15245,096 
+Netaji Subhash Place,Pink Line,Elevated,28.695886,77.15245,096 
+Shakurpur,Pink Line,Elevated,28.6859557,77.148769,097 
+Punjabi Bagh West,Pink Line,Elevated,28.6730178,77.137363,098 
+Delhi Cantonment,Pink Line,Elevated,28.6092434,77.139913,102 
+Sir Vishweshwaraiah Moti Bagh,Pink Line,Elevated,28.578352,77.17493,104 
+Bhikaji Cama Place,Pink Line,Underground,28.5702753,77.18677,105 
+Sarojini Nagar,Pink Line,Underground,28.5759184,77.197650,106 
+South Extension,Pink Line,Underground,28.5686954,77.219611,107 
+Lajpat Nagar,Violet Line,Elevated,28.570607,77.23647,108 
+Lajpat Nagar,Pink Line,Elevated,28.570607,77.23647,108 
+Vinobapuri,Pink Line,Underground,28.5659703,77.248454,109 
+Ashram,Pink Line,Underground,28.5723975,77.258436,110 
+Mayur Vihar Pocket 1,Pink Line,Elevated,28.605822,77.29876,112 
+Mayur Vihar Pocket 1,Blue Line,Elevated,28.605822,77.29876,112 
+Trilok Puri Sanjay Lake,Pink Line,Elevated,28.6136059,77.308279,113
+Vinod Nagar East,Pink Line,Elevated,28.620057,77.3052,114
+Mandawali,Pink Line,Elevated,28.624906,77.30441,115
+IP Extension,Pink Line,Elevated,28.6318781,77.309945,116 
+Karkarduma Court,Pink Line,Elevated,28.6536829,77.295738,117 
+Krishna Nagar,Pink Line,Elevated,26.794386,80.89172,118 
+East Azad Nagar,Pink Line,Elevated,28.6646649,77.284907,119 
+Welcome,Red Line,At Grade,28.672050,77.27793,120 
+Welcome,Pink Line,At Grade,28.672050,77.27793,120 
+Jaffrabad,Pink Line,Elevated,28.6827381,77.274752,121 
+Maujpur,Pink Line,Elevated,28.6921147,77.279685,122
+Gokul Puri,Pink Line,Elevated,28.7024268,77.285985,123
+Johri Enclave,Pink Line,Elevated,28.7129849,77.290148,124 
+Shiv Vihar,Pink Line,Elevated,28.7214626,77.289397,125 
+Shaheed Sthal,Red Line,Elevated,28.6706,77.415,126
+Hindon River,Red Line,Elevated,28.673344,77.40640,127 
+Arthala,Red Line,Elevated,28.6729,77.391,128 
+Mohan Nagar,Red Line,Elevated,28.67848,77.38393,129 
+Shyam park,Red Line,Elevated,28.678232,77.37090,130
+Rajendra Nagar,Red Line,Elevated,28.677631,77.35826,131
+Raj Bagh,Red Line,Elevated,28.677031,77.34657,132 
+Shaheed Nagar,Red Line,Elevated,28.676632,77.33375,133 
+Dilshad Garden,Red Line,Elevated,28.675556,77.32027,134 
+Jhilmil,Red Line,Elevated,28.675663,77.31248,135 
+Mansarovar Park,Red Line,Elevated,28.675406,77.30155,136 
+Shahdara,Red Line,At Grade,28.673476,77.28992,137 
+Seelampur,Red Line,At Grade,28.669824,77.26673,138 
+Shastri Park,Red Line,At Grade,28.668204,77.25009,139 
+Tis Hazari,Red Line,Elevated,28.667216,77.21651,140 
+Pul Bangash,Red Line,Elevated,28.666251,77.20698,141 
+Pratap Nagar,Red Line,Elevated,28.666698,77.19884,142 
+Shastri Nagar,Red Line,Elevated,28.670134,77.18178,143 
+Inderlok,Red Line,Elevated,28.673445,77.17033,144 
+Inderlok,Green Line,Elevated,28.673445,77.17033,144 
+Kanhiya Nagar,Red Line,Elevated,28.682437,77.16476,145
+Keshav Puram,Red Line,Elevated,28.688903,77.16178,146 
+Kohat Enclave,Red Line,Elevated,28.698004,77.14083,147 
+Pitam Pura,Red Line,Elevated,28.703151,77.13239,148 
+Rohini East,Red Line,Elevated,28.707659,77.12590,149 
+Rohini West,Red Line,Elevated,28.714980,77.11538,150 
+Rithala,Red Line,Elevated,28.720879,77.10702,151 
+Dabri Mor,Magenta Line,Underground,28.6156417,77.084644,152
+Dashrath Puri,Magenta Line,Underground,28.601559,77.082003,153 
+Palam,Magenta Line,Underground,28.5915,77.081,154 
+Sadar Bazaar Cantonment,Magenta Line,Elevated,28.577082,77.110119,155 
+Terminal 1-IGI Airport,Magenta Line,Underground,28.5653,77.12238,156 
+Shankar Vihar,Magenta Line,Elevated,28.560649,77.13979,157 
+Vasant Vihar,Magenta Line,Underground,28.557829,77.161152,158 
+Munirka,Magenta Line,Underground,28.5578421,77.173513,159 
+RK Puram,Magenta Line,Underground,28.5502447,77.183453,160 
+IIT Delhi,Magenta Line,Underground,28.5470166,77.192325,161 
+Panchsheel Park,Magenta Line,Underground,28.5423663,77.220115,162 
+Chirag Delhi,Magenta Line,Underground,28.541183,77.23122,163 
+Greater Kailash,Magenta Line,Underground,28.5416669,77.237680,164 
+Nehru Enclave,Magenta Line,Underground,28.5457201,77.250352,165 
+Kalkaji Mandir,Violet Line,Elevated,28.54921,77.25904,166
+Kalkaji Mandir,Magenta Line,Underground,28.54921,77.25904,166
+Okhla NSIC,Magenta Line,Elevated,28.554931,77.26319,167 
+Sukhdev Vihar,Magenta Line,Elevated,28.559758,77.27470,168 
+Jamia Millia Islamia,Magenta Line,Elevated,28.561031,77.28445,169 
+Okhla Vihar,Magenta Line,Elevated,28.561183,77.29189,170 
+Jasola Vihar Shaheen Bagh,Magenta Line,Elevated,28.5460715,77.29663,171 
+Kalindi Kunj,Magenta Line,Elevated,28.543089,77.32156,172 
+Okhla Bird Sanctuary,Magenta Line,Elevated,28.552824,77.32156,173 
+Lal Qila,Violet Line,Underground,28.656682,77.23661,174 
+Jama Masjid,Violet Line,Underground,28.650157,77.23757,175 
+Delhi Gate,Violet Line,Underground,28.639731,77.24013,176 
+ITO,Violet Line,Underground,28.628395,77.24114,177 
+Janpath,Violet Line,Underground,28.6232809,77.214477,178 
+Khan Market,Violet Line,Underground,28.602460,77.22788,179 
+JLN Stadium,Violet Line,Underground,28.590381,77.23304,180
+Jangpura,Violet Line,Underground,28.583287,77.23960,181 
+Moolchand,Violet Line,Elevated,28.564000,77.23409,182 
+Kailash Colony,Violet Line,Elevated,28.555312,77.24199,183 
+Nehru Place,Violet Line,Elevated,28.551411,77.25176,184 
+Govind Puri,Violet Line,Elevated,28.544606,77.26428,185
+Harkesh Nagar,Violet Line,Elevated,28.5428944,77.274738,186
+Jasola Apollo,Violet Line,Elevated,28.538284,77.283255,187 
+Sarita Vihar,Violet Line,Elevated,28.5291048,77.287643,188 
+Mohan Estate,Violet Line,Elevated,28.5196268,77.293645,189 
+Tughlakabad,Violet Line,Elevated,28.5025526,77.298933,190
+Badarpur,Violet Line,Elevated,28.493241,77.30249,191
+Sarai,Violet Line,Elevated,28.478064,77.30485,192 
+NHPC Chowk,Violet Line,Elevated,28.457660000,77.30742200,193 
+Mewla Maharajpur,Violet Line,Elevated,28.448495000,77.30813000,194 
+Sector 28,Violet Line,Elevated,28.438325000,77.30909600,195 
+Badkhal Mor,Violet Line,Elevated,28.422753,77.31035,196 
+Old Faridabad,Violet Line,Elevated,28.41083,77.3113,197
+Neelam Chowk Ajronda,Violet Line,Elevated,28.3978,77.312,198 
+Bata Chowk,Violet Line,Elevated,28.386052028,77.31344100,199 
+Escorts Mujesar,Violet Line,Elevated,28.370081000,77.31495400,200 
+Sant Surdas,Violet Line,Elevated,28.3546852,77.316162,201
+Raja Nahar Singh,Violet Line,Elevated,28.3394733,77.316052,202 
+Ashok Park Main,Green Line,Elevated,28.671603,77.15501,203 
+Punjabi Bagh,Green Line,Elevated,28.672936,77.14597,204 
+Shivaji Park,Green Line,Elevated,28.674944,77.13034,205 
+Madipur,Green Line,Elevated,28.676361,77.11956,206 
+Paschim Vihar East,Green Line,Elevated,28.677294,77.11227,207 
+Paschim Vihar West,Green Line,Elevated,28.678589,77.10210,208 
+Peera Garhi,Green Line,Elevated,28.679703,77.0925,209 
+Udyog Nagar,Green Line,Elevated,28.680994,77.08077,210 
+Maharaja Surajmal Stadium,Green Line,Elevated,28.681792,77.07395,211 
+Nangloi,Green Line,Elevated,28.682356,77.06467,212 
+Nangloi Railway Station,Green Line,Elevated,28.682106,77.05608,213 
+Rajdhani Park,Green Line,Elevated,28.6822,77.04384,214 
+Mundka,Green Line,Elevated,28.682442,77.03021,215 
+Mundka Industrial Area,Green Line,Elevated,28.683525,77.01715,216 
+Ghevra,Green Line,Elevated,28.685245,76.99616,217 
+Tikri Kalan,Green Line,Elevated,28.686902,76.97739,218 
+Tikri Border,Green Line,Elevated,28.687978,76.96416,219 
+Pandit Shree Ram Sharma,Green Line,Elevated,28.689279,76.95102,220 
+Bahadurgarh City,Green Line,Elevated,28.690777,76.93527,221 
+Brigadier Hoshiyar Singh,Green Line,Elevated,28.697357,76.91938,222
+Satguru Ram Singh Marg,Green Line Branch,Elevated,28.661920,77.15745,223
+Shivaji Stadium,Orange Line,Underground,28.628788,77.21140,224 
+Dhaula Kuan,Orange Line,Elevated,28.591853,77.16169,225
+Delhi Aerocity,Orange Line,Underground,28.5491,77.1208,226
+Nangli,Grey Line,Elevated,28.617264,77.01051,228 
+Najafgarh,Grey Line,Underground,28.612555,76.98629,229
