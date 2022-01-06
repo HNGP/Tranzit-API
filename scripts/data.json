@@ -2024,6 +2024,15 @@
 		"id": "226",
 		"weight": "[225:9] [227:7] "
 	},
+    "227": {
+		"title": "IGI Airport",
+		"line": "Orange Line",
+		"structure": "Underground",
+		"longitude": "28.55719448369591",
+		"latitude": "77.08684086727189",
+		"id": "227",
+		"weight": "[226:7] [86:5] "
+	},
 	"228": {
 		"title": "Nangli",
 		"line": "Grey Line",
