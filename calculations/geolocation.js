@@ -2,7 +2,7 @@ const { getDistance } = require("../utils/util");
 const data = require("../scripts/data.json");
 
 for (let i = 0; i < Object.keys(data).length; i++) {
-  console.log(data[i + 1].latitude);
+  console.log(data[i + 1].longitude);
 }
 
 let findNearestStation = (user_latitude, user_longitude) => {
