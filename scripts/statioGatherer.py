@@ -96,14 +96,18 @@ def final_complie():
     with open("stations.txt") as f:
         for i in f:
             with open("./stationInfoCoords.txt") as f2:
+                bruh1 = i[4:]
+                flag = 0
+                bruh1 = bruh1.replace("\n", "").lower()
                 for j in f2:
-                    bruh1 = i[4:]
-                    bruh1 = bruh1.replace("\n", "")
-                    bruh2 = j.split(",")[0]
-                    if bruh1 == bruh2:
+                    bruh2 = j.split(",")[0].lower()
+                    if bruh1 in bruh2 or bruh2 in bruh1:
                         j = j.replace("\n", "")
-                        fileFinal.write(j + "," + i[:4] + "\n")
+                        fileFinal.write(j + "," + i[:3] + "\n")
+                        flag = 1
                         break
+                if flag == 0:
+                    print("station.txt: {}".format(bruh1))
 
 
 def notSame():
@@ -130,7 +134,7 @@ def notSame():
 def get_weights():
     stationRows = []
     stationFields = []
-    with open("./scripts/final.csv") as f:
+    with open("final.csv") as f:
         csvreader = csv.reader(f)
         stationFields = next(csvreader)
         for row in csvreader:
@@ -138,24 +142,27 @@ def get_weights():
 
     timeRows = []
     timeFields = []
-    with open("./scripts/times.csv") as f:
+    with open("times.csv") as f:
         csvreader = csv.reader(f)
         timeFields = next(csvreader)
         for row in csvreader:
             timeRows.append(row)
 
-    file1 = open("weights.txt", "w")
     for row in stationRows:
         fromStation = int(row[5])
-        final = ""
+        final = []
         for row2 in timeRows:
             one = int(row2[0])
             two = int(row2[1])
             if fromStation == one:
-                final += "[" + row2[1] + ":" + row2[2] + "] "
+                final.append(row2[1] + ":" + row2[2])
             if fromStation == two:
-                final += "[" + row2[0] + ":" + row2[2] + "] "
-        file1.write(final + "\n")
+                final.append(row2[0] + ":" + row2[2])
+
+        with open("weights.txt", "a") as f:
+            for item in final:
+                f.write("%s " % item)
+            f.write("\n")
         print(final)
 
 
@@ -174,9 +181,10 @@ def toJSON():
     with open("./scripts/result.csv") as f:
         csvreader = csv.DictReader(f)
         for row in csvreader:
+            print(row)
             key = int(row["id"])
             data[key] = row
-    with open("./scripts/data.json", "w", encoding="utf-8") as jsonf:
+    with open("./scripts/data_test.json", "w", encoding="utf-8") as jsonf:
         jsonf.write(json.dumps(data, indent=4))
 
 

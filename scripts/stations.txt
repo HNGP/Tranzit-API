@@ -1,6 +1,6 @@
 000 None
 001 Samaypur Badli
-002 Rohini Sector 18, 19
+002 Rohini Sector 18 19
 003 Haiderpur Badli Mor
 004 Jahangirpuri
 005 Adarsh Nagar
