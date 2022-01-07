@@ -4,6 +4,7 @@ from html_table_parser.parser import HTMLTableParser
 import mechanicalsoup
 import csv
 import json
+import os
 
 
 def get_station_list():
@@ -188,4 +189,22 @@ def toJSON():
         jsonf.write(json.dumps(data, indent=4))
 
 
-toJSON()
+def line_check():
+    count = 0
+    sNo = 1
+    # "E:\Projects\tranzit-api\scripts"
+    with open(".\scripts\delhi-stations.json") as data_file:
+        data = json.load(data_file)
+        prev_id = 0
+        for obj in data:
+            current_id = obj["id"]
+            print("{} : {}".format(sNo, current_id))
+            sNo += 1
+            count += 1
+            if current_id == prev_id:
+                print(obj["title"])
+            prev_id = current_id
+    print(count)
+
+
+line_check()
