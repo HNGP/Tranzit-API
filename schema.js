@@ -11,7 +11,7 @@ const {
 const { findNearestStation } = require("./calculations/geolocation");
 const { findShortestPath } = require("./calculations/algo");
 const delhi = require("./stations/delhi-data.json");
-const delhiComplete = require("./scripts/data.json");
+const delhiComplete = require("./scripts/delhi-stations.json");
 
 //Station Type
 const detailType = new GraphQLObjectType({
@@ -84,7 +84,7 @@ const RootQuery = new GraphQLObjectType({
     stations: {
       type: new GraphQLList(stationType),
       resolve(parentValue, args) {
-        return Object.values(delhiComplete);
+        return delhiComplete;
       },
     },
     route: {
