@@ -1,13 +1,13 @@
 const { getDistance } = require("../utils/util");
-const data = require("../scripts/data.json");
+const data = require("../scripts/delhi-stations.json");
 
 let findNearestStation = (user_latitude, user_longitude) => {
   let lat2, lon2, dist;
   let distanceList = [];
 
-  for (let i = 0; i < Object.keys(data).length; i++) {
-    lat2 = data[i + 1].latitude;
-    lon2 = data[i + 1].longitude;
+  for (let i = 0; i < data.length; i++) {
+    lat2 = data[i].details.latitude;
+    lon2 = data[i].details.longitude;
     dist = getDistance(user_latitude, user_longitude, lat2, lon2);
     distanceList.push(dist);
   }
@@ -16,7 +16,7 @@ let findNearestStation = (user_latitude, user_longitude) => {
   i = distanceList.indexOf(leastDistance);
 
   const geoResult = {
-    nearestStation: data[i + 1].title,
+    nearestStation: data[i].title,
     distance: leastDistance,
   };
 
