@@ -49,9 +49,8 @@ const stationListType = new GraphQLObjectType({
 const routeType = new GraphQLObjectType({
   name: "Route",
   fields: () => ({
-    distance: { type: GraphQLFloat },
-    stationsList: { type: new GraphQLList(stationListType) },
     time: { type: GraphQLFloat },
+    stationsList: { type: new GraphQLList(stationListType) },
     fare: { type: GraphQLInt },
   }),
 });
