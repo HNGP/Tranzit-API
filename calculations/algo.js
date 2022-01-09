@@ -4,7 +4,7 @@ const {
   calcFare,
   convertToObj,
 } = require("../utils/util");
-const problem = require("../stations/delhi-data.json").stations;
+const problem = require("../scripts/delhi-stations.json");
 
 let shortestDistanceNode = (distances, visited) => {
   let shortest = null;
@@ -22,25 +22,12 @@ let shortestDistanceNode = (distances, visited) => {
 let findShortestPath = (startNode, endNode) => {
   let distances = {};
   distances[endNode] = "Infinity";
-  let a = {};
+  distances = Object.assign(distances, problem[startNode - 1]["connected"]);
+  let parents = { [endNode]: null };
 
-  problem[parseInt(startNode) - 1]["connected"].forEach((element) => {
-    a[element] = getDistance(
-      problem[parseInt(startNode) - 1]["details"]["latitude"],
-      problem[parseInt(startNode) - 1]["details"]["longitude"],
-      problem[parseInt(element) - 1]["details"]["latitude"],
-      problem[parseInt(element) - 1]["details"]["longitude"]
-    );
-  });
-
-  distances = Object.assign(distances, a);
-
-  let parents = {};
-  parents[endNode] = null;
-
-  problem[parseInt(startNode) - 1]["connected"].forEach((child) => {
+  for (let child in problem[startNode - 1]["connected"]) {
     parents[child] = startNode;
-  });
+  }
 
   let visited = [];
 
@@ -48,20 +35,8 @@ let findShortestPath = (startNode, endNode) => {
 
   while (node) {
     let distance = distances[node];
-    b = {};
+    let children = problem[node - 1]["connected"];
 
-    problem[parseInt(node) - 1]["connected"].forEach((i) => {
-      b[i] = getDistance(
-        problem[parseInt(node) - 1]["details"]["latitude"],
-        problem[parseInt(node) - 1]["details"]["longitude"],
-        problem[parseInt(i) - 1]["details"]["latitude"],
-        problem[parseInt(i) - 1]["details"]["longitude"]
-      );
-    });
-
-    let children = b;
-
-    // for each of those child nodes:
     for (let child in children) {
       if (String(child) === String(startNode)) {
         continue;
@@ -73,6 +48,7 @@ let findShortestPath = (startNode, endNode) => {
         }
       }
     }
+
     visited.push(node);
     node = shortestDistanceNode(distances, visited);
   }
@@ -95,15 +71,20 @@ let findShortestPath = (startNode, endNode) => {
     shortestPath[i] = problem[parseInt(element) - 1]["title"];
   });
 
-  let time = calcTime(distances[endNode]);
-  let fare = calcFare(distances[endNode]);
+  const distanceToDestination = getDistance(
+    problem[parseInt(startNode) - 1]["details"]["latitude"],
+    problem[parseInt(startNode) - 1]["details"]["longitude"],
+    problem[parseInt(endNode) - 1]["details"]["latitude"],
+    problem[parseInt(endNode) - 1]["details"]["longitude"]
+  );
+
+  let fare = calcFare(distanceToDestination);
 
   let stationsList = convertToObj(shortestPath, line);
 
   let results = {
-    distance: distances[endNode],
+    time: distances[endNode],
     stationsList,
-    time,
     fare,
   };
 

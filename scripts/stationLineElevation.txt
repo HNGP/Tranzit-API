@@ -1,0 +1,225 @@
+Adarsh Nagar,Yellow Line,Elevated
+AIIMS,Yellow Line,Underground
+Akshardham,Blue Line,Elevated
+Anand Vihar,Blue Line Branch,Elevated
+Arjan Garh,Yellow Line,Elevated
+Arthala,Red Line,Elevated
+Ashok Park Main,Green Line,Elevated
+Ashram,Pink Line,Underground
+Azadpur,Yellow Line,Elevated
+Badarpur Border,Violet Line,Elevated
+Badkhal Mor,Violet Line,Elevated
+Bahadurgarh City,Green Line,Elevated
+Barakhamba Road,Blue Line,Underground
+Bata Chowk,Violet Line,Elevated
+Bhikaji Cama Place,Pink Line,Underground
+Botanical Garden,Blue Line,Elevated
+Brigadier Hoshiyar Singh,Green Line,Elevated
+Central Secretariat,Yellow Line,Underground
+Chandni Chowk,Yellow Line,Underground
+Chawri Bazar,Yellow Line,Underground
+Chhatarpur,Yellow Line,Elevated
+Chirag Delhi,Magenta Line,Underground
+Civil Lines,Yellow Line,Underground
+South Janakpuri,Magenta Line,Underground
+Dashrath Puri,Magenta Line,Underground
+Delhi Cantonment,Pink Line,Elevated
+Delhi Gate,Violet Line,Underground
+Dhaula Kuan,Orange Line,Elevated
+Dilshad Garden,Red Line,Elevated
+Delhi University South Campus,Pink Line,Elevated
+Dwarka,Blue Line,Elevated
+Dwarka Mor,Blue Line,Elevated
+Dwarka Sector 8,Blue Line,Elevated
+Dwarka Sector 9,Blue Line,Elevated
+Dwarka Sector 10,Blue Line,Elevated
+Dwarka Sector 11,Blue Line,Elevated
+Dwarka Sector 12,Blue Line,Elevated
+Dwarka Sector 13,Blue Line,Elevated
+Dwarka Sector 14,Blue Line,Elevated
+Dwarka Sector 21,Blue Line,Underground
+East Azad Nagar,Pink Line,Elevated
+East Vinod Nagar Mayur Vihar-II,Pink Line,Elevated
+Escorts Mujesar,Violet Line,Elevated
+ESI Basaidarpur,Pink Line,Elevated
+Ghevra,Green Line,Elevated
+Ghitorni,Yellow Line,Elevated
+Gokulpuri,Pink Line,Elevated
+Golf Course,Blue Line,Elevated
+Govind Puri (Kalkaji East),Violet Line,Elevated
+Greater Kailash,Magenta Line,Underground
+Green Park,Yellow Line,Underground
+GTB Nagar,Yellow Line,Underground
+Guru Dronacharya,Yellow Line,Elevated
+Haiderpur Badli Mor,Yellow Line,Elevated
+Harkesh Nagar Okhla,Violet Line,Elevated
+Hazrat Nizamuddin,Pink Line,Underground
+Hindon River,Red Line,Elevated
+HUDA City Centre,Yellow Line,Elevated
+IFFCO Chowk,Yellow Line,Elevated
+IIT Delhi,Magenta Line,Underground
+INA,Yellow Line,Underground
+Inderlok,Red Line,Elevated
+Indraprastha,Blue Line,Elevated
+IP Extension,Pink Line,Elevated
+ITO,Violet Line,Underground
+Jaffrabad,Pink Line,Elevated
+Jahangirpuri,Yellow Line,Elevated
+Jama Masjid,Violet Line,Underground
+Jamia Millia Islamia,Magenta Line,Elevated
+Janakpuri East,Blue Line,Elevated
+Janakpuri West,Blue Line,Elevated
+Jangpura,Violet Line,Underground
+Janpath,Violet Line,Underground
+Jasola Apollo,Violet Line,Elevated
+Jasola Vihar Shaheen Bagh,Magenta Line,Elevated
+Jawaharlal Nehru Stadium,Violet Line,Underground
+Jhandewalan,Blue Line,Elevated
+Jhilmil,Red Line,Elevated
+Johri Enclave,Pink Line,Elevated
+Jor Bagh,Yellow Line,Underground
+Kailash Colony,Violet Line,Elevated
+Kalindi Kunj,Magenta Line,Elevated
+Kanhaiya Nagar,Red Line,Elevated
+Karkarduma,Blue Line Branch,Elevated
+Karkarduma Court,Pink Line,Elevated
+Karol Bagh,Blue Line,Elevated
+Kashmere Gate,Red Line,Elevated
+Kaushambi,Blue Line Branch,Elevated
+Keshav Puram,Red Line,Elevated
+Khan Market,Violet Line,Underground
+Kirti Nagar,Blue Line,Elevated
+Krishna Nagar,Pink Line,Elevated
+Kohat Enclave,Red Line,Elevated
+Lajpat Nagar,Violet Line,Elevated
+Lal Qila,Violet Line,Underground
+Laxmi Nagar,Blue Line Branch,Elevated
+Lok Kalyan Marg,Yellow Line,Underground
+Madipur,Green Line,Elevated
+Maharaja Surajmal Stadium,Green Line,Elevated
+Majlis Park,Pink Line,Elevated
+Major Mohit Sharma Rajendra Nagar,Red Line,Elevated
+Malviya Nagar,Yellow Line,Underground
+Mandawali West Vinod Nagar,Pink Line,Elevated
+Mandi House,Blue Line,Underground
+Mansarovar Park,Red Line,Elevated
+Maujpur Babarpur,Pink Line,Elevated
+Maya puri,Pink Line,Elevated
+Mayur Vihar-I,Blue Line,Elevated
+Mayur Vihar Extension,Blue Line,Elevated
+Mayur Vihar Pocket 1,Pink Line,Elevated
+Mewla Maharajpur,Violet Line,Elevated
+MG Road,Yellow Line,Elevated
+Model Town,Yellow Line,Elevated
+Mohan Estate,Violet Line,Elevated
+Mohan Nagar,Red Line,Elevated
+Moolchand,Violet Line,Elevated
+Moti Nagar,Blue Line,Elevated
+Mundka,Green Line,Elevated
+Mundka Industrial Area,Green Line,Elevated
+Munirka,Magenta Line,Underground
+Najafgarh,Grey Line,Underground
+Nangli,Grey Line,Elevated
+Nangloi,Green Line,Elevated
+Nangloi Railway Station,Green Line,Elevated
+Naraina Vihar,Pink Line,Underground
+Nawada,Blue Line,Elevated
+Neelam Chowk Ajronda,Violet Line,Elevated
+Nehru Enclave,Magenta Line,Underground
+Nehru Place,Violet Line,Elevated
+Netaji Subhash Place,Red Line,Elevated
+New Ashok Nagar,Blue Line,Elevated
+New Delhi,Yellow Line,Underground
+NHPC Chowk,Violet Line,Elevated
+Nirman Vihar,Blue Line Branch,Elevated
+Noida City Centre,Blue Line,Elevated
+Noida Electronic City,Blue Line,Elevated
+Noida Sector 15,Blue Line,Elevated
+Noida Sector 16,Blue Line,Elevated
+Noida Sector 18,Blue Line,Elevated
+Noida Sector 34,Blue Line,Elevated
+Noida Sector 52,Blue Line,Elevated
+Noida Sector 59,Blue Line,Elevated
+Noida Sector 61,Blue Line,Elevated
+Noida Sector 62,Blue Line,Elevated
+Okhla Bird Sanctuary,Magenta Line,Elevated
+Okhla NSIC,Magenta Line,Elevated
+Okhla Vihar,Magenta Line,Elevated
+Old Faridabad,Violet Line,Elevated
+Palam,Magenta Line,Underground
+Panchsheel Park,Magenta Line,Underground
+Pandit Shree Ram Sharma,Green Line,Elevated
+Paschim Vihar East,Green Line,Elevated
+Paschim Vihar West,Green Line,Elevated
+Patel Chowk,Yellow Line,Underground
+Patel Nagar,Blue Line,Elevated
+Peera Garhi,Green Line,Elevated
+Pitam Pura,Red Line,Elevated
+Pratap Nagar,Red Line,Elevated
+Preet Vihar,Blue Line Branch,Elevated
+Pul Bangash,Red Line,Elevated
+Punjabi Bagh,Green Line,Elevated
+Punjabi Bagh West,Pink Line,Elevated
+Qutab Minar,Yellow Line,Elevated
+RK Puram,Magenta Line,Underground
+Raja Nahar Singh,Violet Line,Elevated
+Raj Bagh,Red Line,Elevated
+Rajdhani Park,Green Line,Elevated
+Rajendra Place,Blue Line,Elevated
+Rajiv Chowk,Yellow Line,Underground
+Rajouri Garden,Blue Line,Elevated
+Ramakrishna Ashram Marg,Blue Line,Elevated
+Ramesh Nagar,Blue Line,Elevated
+Rithala,Red Line,Elevated
+Rohini East,Red Line,Elevated
+Rohini Sector 18 19,Yellow Line,Elevated
+Rohini West,Red Line,Elevated
+Sadar Bazaar Cantonment,Magenta Line,Elevated
+Saket,Yellow Line,Underground
+Samaypur Badli,Yellow Line,Elevated
+Sant Surdas (Sihi),Violet Line,Elevated
+Sarai,Violet Line,Elevated
+Sarita Vihar,Violet Line,Elevated
+Sarojini Nagar,Pink Line,Underground
+Satguru Ramsingh Marg,Green Line Branch,Elevated
+Sector 28,Violet Line,Elevated
+Seelampur,Red Line,At Grade
+Shadipur,Blue Line,Elevated
+Shahdara,Red Line,At Grade
+Shaheed Nagar,Red Line,Elevated
+Shaheed Sthal,Red Line,Elevated
+Shakurpur,Pink Line,Elevated
+Shalimar Bagh,Pink Line,Underground
+Shankar Vihar,Magenta Line,Elevated
+Shastri Nagar,Red Line,Elevated
+Shastri Park,Red Line,At Grade
+Shiv Vihar,Pink Line,Elevated
+Shivaji Park,Green Line,Elevated
+Shivaji Stadium,Orange Line,Underground
+Shyam Park,Red Line,Elevated
+Sikandarpur,Yellow Line,Elevated
+Sir Vishweshwaraiah Moti Bagh,Pink Line,Elevated
+South Extension,Pink Line,Underground
+Subhash Nagar,Blue Line,Elevated
+Sukhdev Vihar,Magenta Line,Elevated
+Sultanpur,Yellow Line,Elevated
+Supreme Court,Blue Line,Elevated
+Tagore Garden,Blue Line,Elevated
+Terminal 1-IGI Airport,Magenta Line,Underground
+Tikri Border,Green Line,Elevated
+Tikri Kalan,Green Line,Elevated
+Tilak Nagar,Blue Line,Elevated
+Tis Hazari,Red Line,Elevated
+Trilokpuri Sanjay Lake,Pink Line,Elevated
+Tughlakabad Station,Violet Line,Elevated
+Udyog Bhawan,Yellow Line,Underground
+Udyog Nagar,Green Line,Elevated
+Uttam Nagar East,Blue Line,Elevated
+Uttam Nagar West,Blue Line,Elevated
+Vaishali,Blue Line Branch,Elevated
+Vasant Vihar,Magenta Line,Underground
+Vidhan Sabha,Yellow Line,Underground
+Vinobapuri,Pink Line,Underground
+Vishwavidyalaya,Yellow Line,Underground
+Welcome,Red Line,At Grade
+Yamuna Bank,Blue Line,At-Grade
