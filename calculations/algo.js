@@ -5,7 +5,6 @@ const {
   convertToObj,
 } = require("../utils/util");
 const problem = require("../scripts/delhi-stations.json");
-const { removeAllListeners } = require("nodemon");
 
 let shortestDistanceNode = (distances, visited) => {
   let shortest = null;
