@@ -5,6 +5,7 @@ const {
   convertToObj,
 } = require("../utils/util");
 const problem = require("../scripts/delhi-stations.json");
+const { removeAllListeners } = require("nodemon");
 
 let shortestDistanceNode = (distances, visited) => {
   let shortest = null;
@@ -66,6 +67,32 @@ let findShortestPath = (startNode, endNode) => {
   shortestPath.forEach((i) => {
     line.push(problem[parseInt(i) - 1]["details"]["line"]);
   });
+
+  console.log(line);
+
+  line.forEach((element, index) => {
+    if (element.length > 1) {
+      if (index === 0) {
+        line[index] = line[index + 1];
+        return;
+      }
+      if (index === line.length - 1) {
+        line[index] = line[index - 1];
+        return;
+      }
+      if (line[index - 1][0] === line[index + 1][0]) {
+        line[index] = line[index - 1];
+        return;
+      }
+      if (JSON.stringify(line[index]) === JSON.stringify(line[index + 1])) {
+        line[index] = line[index - 1];
+        return;
+      }
+      line[index] = [...new Set(line[index - 1].concat(line[index + 1]))];
+    }
+  });
+
+  console.log(line);
 
   shortestPath.forEach((element, i) => {
     shortestPath[i] = problem[parseInt(element) - 1]["title"];
