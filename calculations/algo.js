@@ -5,6 +5,7 @@ const {
   convertToObj,
 } = require("../utils/util");
 const problem = require("../scripts/delhi-stations.json");
+const { removeAllListeners } = require("nodemon");
 
 let shortestDistanceNode = (distances, visited) => {
   let shortest = null;
@@ -66,6 +67,63 @@ let findShortestPath = (startNode, endNode) => {
   shortestPath.forEach((i) => {
     line.push(problem[parseInt(i) - 1]["details"]["line"]);
   });
+
+  console.log("Old", line);
+
+  //Handling Interchanges
+  line.forEach((element, index) => {
+    if (element.length > 1) {
+      if (index === 0) {
+        if (
+          line[index].includes("Blue Line Branch") &&
+          line[index].includes("Pink Line Branch")
+        ) {
+          line[index] = ["Blue Line Branch"];
+          return;
+        } else {
+          let bruh = line[index];
+          line[index] = bruh.filter((value) => line[index + 1].includes(value));
+          return;
+        }
+      }
+      if (index === line.length - 1) {
+        if (
+          line[index].includes("Blue Line Branch") &&
+          line[index].includes("Pink Line Branch")
+        ) {
+          line[index] = ["Blue Line Branch"];
+          return;
+        } else {
+          let bruh = line[index];
+          line[index] = bruh.filter((value) => line[index - 1].includes(value));
+          return;
+        }
+      }
+
+      if (line[index - 1][0] === line[index + 1][0]) {
+        line[index] = line[index - 1];
+        return;
+      }
+      if (JSON.stringify(line[index]) === JSON.stringify(line[index + 1])) {
+        line[index] = line[index - 1];
+        return;
+      }
+      if (line[index + 1].length > 1 && line[index + 2]) {
+        let bruh = [...new Set(line[index - 1].concat(line[index + 1]))];
+        line[index] = bruh.filter((value) => !line[index + 2].includes(value));
+      } else if (line[index - 1].length > 1 && line[index - 2]) {
+        let bruh = [...new Set(line[index - 1].concat(line[index + 1]))];
+        line[index] = bruh.filter((value) => !line[index - 2].includes(value));
+      } else if (!line[index + 1].length > 1) {
+        line[index] = [...new Set(line[index - 1].concat(line[index + 1]))];
+      } else if (line[index].length == 3) {
+        let bruh = [...new Set(line[index - 1].concat(line[index + 1]))];
+        line[index] = bruh.filter((value) => line[index].includes(value));
+      }
+    }
+  });
+
+  console.log("New", line);
 
   shortestPath.forEach((element, i) => {
     shortestPath[i] = problem[parseInt(element) - 1]["title"];

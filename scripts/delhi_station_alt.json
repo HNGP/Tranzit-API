@@ -78,8 +78,24 @@
 			"95": 5
 		},
 		"details": {
-			"line": ["Yellow Line", "Pink Line"],
-			"layout": ["Elevated", "Underground"],
+			"line": ["Yellow Line"],
+			"layout": ["Elevated"],
+			"latitude": 28.707273,
+			"longitude": 77.17997
+		}
+	},
+	{
+		"id": 6,
+		"title": "Azadpur",
+		"connected": {
+			"5": 4,
+			"7": 2,
+			"94": 2,
+			"95": 5
+		},
+		"details": {
+			"line": ["Pink Line"],
+			"layout": ["Underground"],
 			"latitude": 28.707273,
 			"longitude": 77.17997
 		}
@@ -165,8 +181,42 @@
 			"174": 3
 		},
 		"details": {
-			"line": ["Red Line", "Yellow Line", "Violet Line"],
-			"layout": ["Elevated", "Underground", "Underground"],
+			"line": ["Red Line"],
+			"layout": ["Elevated"],
+			"latitude": 28.667489,
+			"longitude": 77.22804
+		}
+	},
+	{
+		"id": 12,
+		"title": "Kashmere Gate",
+		"connected": {
+			"11": 2,
+			"13": 4,
+			"139": 4,
+			"140": 1,
+			"174": 3
+		},
+		"details": {
+			"line": ["Yellow Line"],
+			"layout": ["Underground"],
+			"latitude": 28.667489,
+			"longitude": 77.22804
+		}
+	},
+	{
+		"id": 12,
+		"title": "Kashmere Gate",
+		"connected": {
+			"11": 2,
+			"13": 4,
+			"139": 4,
+			"140": 1,
+			"174": 3
+		},
+		"details": {
+			"line": ["Violet Line"],
+			"layout": ["Underground"],
 			"latitude": 28.667489,
 			"longitude": 77.22804
 		}
@@ -208,8 +258,23 @@
 			"224": 2
 		},
 		"details": {
-			"line": ["Yellow Line", "Orange Line"],
-			"layout": ["Underground", "Underground"],
+			"line": ["Yellow Line"],
+			"layout": ["Underground"],
+			"latitude": 28.642229,
+			"longitude": 77.22153
+		}
+	},
+	{
+		"id": 15,
+		"title": "New Delhi",
+		"connected": {
+			"14": 2,
+			"16": 3,
+			"224": 2
+		},
+		"details": {
+			"line": ["Orange Line"],
+			"layout": ["Underground"],
 			"latitude": 28.642229,
 			"longitude": 77.22153
 		}
@@ -224,8 +289,24 @@
 			"59": 2
 		},
 		"details": {
-			"line": ["Yellow Line", "Blue Line"],
-			"layout": ["Underground", "Underground"],
+			"line": ["Yellow Line"],
+			"layout": ["Underground"],
+			"latitude": 28.632846,
+			"longitude": 77.21963
+		}
+	},
+	{
+		"id": 16,
+		"title": "Rajiv Chowk",
+		"connected": {
+			"15": 3,
+			"17": 3,
+			"58": 2,
+			"59": 2
+		},
+		"details": {
+			"line": ["Blue Line"],
+			"layout": ["Underground"],
 			"latitude": 28.632846,
 			"longitude": 77.21963
 		}
@@ -254,8 +335,24 @@
 			"179": 3
 		},
 		"details": {
-			"line": ["Yellow Line", "Violet Line"],
-			"layout": ["Underground", "Underground"],
+			"line": ["Yellow Line"],
+			"layout": ["Underground"],
+			"latitude": 28.615042,
+			"longitude": 77.21178
+		}
+	},
+	{
+		"id": 18,
+		"title": "Central Secretariat",
+		"connected": {
+			"17": 2,
+			"19": 2,
+			"178": 1,
+			"179": 3
+		},
+		"details": {
+			"line": ["Violet Line"],
+			"layout": ["Underground"],
 			"latitude": 28.615042,
 			"longitude": 77.21178
 		}
@@ -312,8 +409,24 @@
 			"107": 2
 		},
 		"details": {
-			"line": ["Yellow Line", "Pink Line"],
-			"layout": ["Underground", "Underground"],
+			"line": ["Yellow Line"],
+			"layout": ["Underground"],
+			"latitude": 28.5752244,
+			"longitude": 77.207311
+		}
+	},
+	{
+		"id": 22,
+		"title": "INA",
+		"connected": {
+			"21": 2,
+			"23": 3,
+			"106": 2,
+			"107": 2
+		},
+		"details": {
+			"line": ["Pink Line"],
+			"layout": ["Underground"],
 			"latitude": 28.5752244,
 			"longitude": 77.207311
 		}
@@ -356,8 +469,24 @@
 			"162": 2
 		},
 		"details": {
-			"line": ["Yellow Line", "Magenta Line"],
-			"layout": ["Underground", "Underground"],
+			"line": ["Yellow Line"],
+			"layout": ["Underground"],
+			"latitude": 28.543596,
+			"longitude": 77.2041863
+		}
+	},
+	{
+		"id": 25,
+		"title": "Hauz Khas",
+		"connected": {
+			"24": 2,
+			"26": 3,
+			"161": 3,
+			"162": 2
+		},
+		"details": {
+			"line": ["Magenta Line"],
+			"layout": ["Underground"],
 			"latitude": 28.543596,
 			"longitude": 77.2041863
 		}
@@ -649,8 +778,23 @@
 			"173": 2
 		},
 		"details": {
-			"line": ["Blue Line", "Magenta Line"],
-			"layout": ["Elevated", "Elevated"],
+			"line": ["Blue Line"],
+			"layout": ["Elevated"],
+			"latitude": 28.564208,
+			"longitude": 77.33478
+		}
+	},
+	{
+		"id": 46,
+		"title": "Botanical Garden",
+		"connected": {
+			"45": 2,
+			"47": 2,
+			"173": 2
+		},
+		"details": {
+			"line": ["Magenta Line"],
+			"layout": ["Elevated"],
 			"latitude": 28.564208,
 			"longitude": 77.33478
 		}
@@ -808,8 +952,24 @@
 			"178": 3
 		},
 		"details": {
-			"line": ["Blue Line", "Violet Line"],
-			"layout": ["Underground", "Underground"],
+			"line": ["Blue Line"],
+			"layout": ["Underground"],
+			"latitude": 28.625816,
+			"longitude": 77.23472
+		}
+	},
+	{
+		"id": 57,
+		"title": "Mandi House",
+		"connected": {
+			"56": 2,
+			"58": 3,
+			"177": 1,
+			"178": 3
+		},
+		"details": {
+			"line": ["Violet Line"],
+			"layout": ["Underground"],
 			"latitude": 28.625816,
 			"longitude": 77.23472
 		}
@@ -921,8 +1081,23 @@
 			"223": 2
 		},
 		"details": {
-			"line": ["Blue Line", "Green Line Branch"],
-			"layout": ["Elevated", "At-Grade"],
+			"line": ["Blue Line"],
+			"layout": ["Elevated"],
+			"latitude": 28.6551,
+			"longitude": 77.15147
+		}
+	},
+	{
+		"id": 65,
+		"title": "Kirti Nagar",
+		"connected": {
+			"64": 2,
+			"66": 2,
+			"223": 2
+		},
+		"details": {
+			"line": ["Green Line Branch"],
+			"layout": ["At-Grade"],
 			"latitude": 28.6551,
 			"longitude": 77.15147
 		}
@@ -965,8 +1140,24 @@
 			"100": 2
 		},
 		"details": {
-			"line": ["Blue Line", "Pink Line"],
-			"layout": ["Elevated", "Elevated"],
+			"line": ["Blue Line"],
+			"layout": ["Elevated"],
+			"latitude": 28.649004,
+			"longitude": 77.12263
+		}
+	},
+	{
+		"id": 68,
+		"title": "Rajouri Garden",
+		"connected": {
+			"67": 2,
+			"69": 2,
+			"99": 2,
+			"100": 2
+		},
+		"details": {
+			"line": ["Pink Line"],
+			"layout": ["Elevated"],
 			"latitude": 28.649004,
 			"longitude": 77.12263
 		}
@@ -1036,8 +1227,23 @@
 			"152": 2
 		},
 		"details": {
-			"line": ["Blue Line", "Magenta Line"],
-			"layout": ["Elevated", "Underground"],
+			"line": ["Blue Line"],
+			"layout": ["Elevated"],
+			"latitude": 28.62954,
+			"longitude": 77.07824
+		}
+	},
+	{
+		"id": 73,
+		"title": "Janakpuri West",
+		"connected": {
+			"72": 2,
+			"74": 2,
+			"152": 2
+		},
+		"details": {
+			"line": ["Magenta Line"],
+			"layout": ["Underground"],
 			"latitude": 28.62954,
 			"longitude": 77.07824
 		}
@@ -1107,8 +1313,23 @@
 			"228": 2
 		},
 		"details": {
-			"line": ["Blue Line", "Grey Line"],
-			"layout": ["Elevated", "Elevated"],
+			"line": ["Grey Line"],
+			"layout": ["Elevated"],
+			"latitude": 28.614966,
+			"longitude": 77.0228
+		}
+	},
+	{
+		"id": 78,
+		"title": "Dwarka",
+		"connected": {
+			"77": 3,
+			"79": 3,
+			"228": 2
+		},
+		"details": {
+			"line": ["Blue Line"],
+			"layout": ["Elevated"],
 			"latitude": 28.614966,
 			"longitude": 77.0228
 		}
@@ -1219,8 +1440,22 @@
 			"227": 5
 		},
 		"details": {
-			"line": ["Blue Line", "Orange Line"],
-			"layout": ["Underground", "Underground"],
+			"line": ["Blue Line"],
+			"layout": ["Underground"],
+			"latitude": 28.552125,
+			"longitude": 77.05801
+		}
+	},
+	{
+		"id": 86,
+		"title": "Dwarka Sector 21",
+		"connected": {
+			"85": 2,
+			"227": 5
+		},
+		"details": {
+			"line": ["Orange Line"],
+			"layout": ["Underground"],
 			"latitude": 28.552125,
 			"longitude": 77.05801
 		}
@@ -1276,7 +1511,22 @@
 			"117": 4
 		},
 		"details": {
-			"line": ["Blue Line Branch", "Pink Line Branch"],
+			"line": ["Blue Line Branch"],
+			"layout": ["Elevated"],
+			"latitude": 28.6483685,
+			"longitude": 77.30458
+		}
+	},
+	{
+		"id": 90,
+		"title": "Karkarduma",
+		"connected": {
+			"89": 3,
+			"91": 2,
+			"117": 4
+		},
+		"details": {
+			"line": ["Pink Line Branch"],
 			"layout": ["Elevated"],
 			"latitude": 28.6483685,
 			"longitude": 77.30458
@@ -1291,8 +1541,23 @@
 			"116": 2
 		},
 		"details": {
-			"line": ["Blue Line Branch", "Pink Line Branch"],
-			"layout": ["Elevated", "Elevated"],
+			"line": ["Blue Line Branch"],
+			"layout": ["Elevated"],
+			"latitude": 28.647328,
+			"longitude": 77.31609
+		}
+	},
+	{
+		"id": 91,
+		"title": "Anand Vihar",
+		"connected": {
+			"90": 2,
+			"92": 4,
+			"116": 2
+		},
+		"details": {
+			"line": ["Pink Line Branch"],
+			"layout": ["Elevated"],
 			"latitude": 28.647328,
 			"longitude": 77.31609
 		}
@@ -1361,8 +1626,24 @@
 			"147": 2
 		},
 		"details": {
-			"line": ["Red Line", "Pink Line"],
-			"layout": ["Elevated", "Underground"],
+			"line": ["Pink Line"],
+			"layout": ["Underground"],
+			"latitude": 28.695886,
+			"longitude": 77.15245
+		}
+	},
+	{
+		"id": 96,
+		"title": "Netaji Subhash Place",
+		"connected": {
+			"95": 2,
+			"97": 1,
+			"146": 3,
+			"147": 2
+		},
+		"details": {
+			"line": ["Red Line"],
+			"layout": ["Elevated"],
 			"latitude": 28.695886,
 			"longitude": 77.15245
 		}
@@ -1531,8 +1812,24 @@
 			"182": 2
 		},
 		"details": {
-			"line": ["Violet Line", "Pink Line"],
-			"layout": ["Elevated", "Underground"],
+			"line": ["Violet Line"],
+			"layout": ["Elevated"],
+			"latitude": 28.570607,
+			"longitude": 77.23647
+		}
+	},
+	{
+		"id": 108,
+		"title": "Lajpat Nagar",
+		"connected": {
+			"107": 2,
+			"109": 2,
+			"181": 3,
+			"182": 2
+		},
+		"details": {
+			"line": ["Pink Line"],
+			"layout": ["Underground"],
 			"latitude": 28.570607,
 			"longitude": 77.23647
 		}
@@ -1587,8 +1884,22 @@
 			"113": 1
 		},
 		"details": {
-			"line": ["Pink Line", "Blue Line"],
-			"layout": ["Elevated", "Elevated"],
+			"line": ["Pink Line"],
+			"layout": ["Elevated"],
+			"latitude": 28.605822,
+			"longitude": 77.29876
+		}
+	},
+	{
+		"id": 112,
+		"title": "Mayur Vihar Pocket 1",
+		"connected": {
+			"52": 1,
+			"113": 1
+		},
+		"details": {
+			"line": ["Blue Line"],
+			"layout": ["Elevated"],
 			"latitude": 28.605822,
 			"longitude": 77.29876
 		}
@@ -1701,8 +2012,24 @@
 			"138": 3
 		},
 		"details": {
-			"line": ["Red Line", "Pink Line"],
-			"layout": ["At Grade", "Elevated"],
+			"line": ["Red Line"],
+			"layout": ["At Grade"],
+			"latitude": 28.67205,
+			"longitude": 77.27793
+		}
+	},
+	{
+		"id": 120,
+		"title": "Welcome",
+		"connected": {
+			"119": 2,
+			"121": 3,
+			"137": 2,
+			"138": 3
+		},
+		"details": {
+			"line": ["Pink Line"],
+			"layout": ["Elevated"],
 			"latitude": 28.67205,
 			"longitude": 77.27793
 		}
@@ -2034,8 +2361,22 @@
 			"203": 4
 		},
 		"details": {
-			"line": ["Red Line", "Green Line"],
-			"layout": ["Elevated", "Elevated"],
+			"line": ["Red Line"],
+			"layout": ["Elevated"],
+			"latitude": 28.673445,
+			"longitude": 77.17033
+		}
+	},
+	{
+		"id": 144,
+		"title": "Inderlok",
+		"connected": {
+			"145": 3,
+			"203": 4
+		},
+		"details": {
+			"line": ["Green Line"],
+			"layout": ["Elevated"],
 			"latitude": 28.673445,
 			"longitude": 77.17033
 		}
@@ -2343,8 +2684,24 @@
 			"185": 3
 		},
 		"details": {
-			"line": ["Violet Line", "Magenta Line"],
-			"layout": ["Elevated", "Underground"],
+			"line": ["Magenta Line"],
+			"layout": ["Underground"],
+			"latitude": 28.54921,
+			"longitude": 77.25904
+		}
+	},
+	{
+		"id": 166,
+		"title": "Kalkaji Mandir",
+		"connected": {
+			"165": 1,
+			"167": 2,
+			"184": 1,
+			"185": 3
+		},
+		"details": {
+			"line": ["Violet Line"],
+			"layout": ["Elevated"],
 			"latitude": 28.54921,
 			"longitude": 77.25904
 		}
