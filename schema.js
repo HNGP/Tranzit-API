@@ -93,7 +93,10 @@ const RootQuery = new GraphQLObjectType({
         destination: { type: GraphQLInt },
       },
       resolve(parentValue, args) {
-        return findShortestPath(args.source, args.destination);
+        return findShortestPath(
+          parseInt(args.source, 10),
+          parseInt(args.destination, 10)
+        );
       },
     },
     // stationByName: {
