@@ -1,9 +1,4 @@
-const {
-  getDistance,
-  calcTime,
-  calcFare,
-  convertToObj,
-} = require("../utils/util");
+const { getDistance, calcFare, convertToObj } = require("../utils/util");
 const problem = require("../scripts/delhi-stations.json");
 
 let shortestDistanceNode = (distances, visited) => {
@@ -67,26 +62,9 @@ let findShortestPath = (startNode, endNode) => {
     line.push(problem[parseInt(i) - 1]["details"]["line"]);
   });
 
-  console.log("Old", line);
+  let interchange = 0;
 
-  //Handling Interchanges
   line.forEach((element, index) => {
-    // if (
-    //   line[index].includes("Orange Line") &&
-    //   line[index - 1] &&
-    //   line[index + 1].includes("Pink Line")
-    // ) {
-    //   line[index] = ["Orange Line to Pink Line (WALKOVER BRIDGE)"];
-    // }
-
-    // if (
-    //   line[index].includes("Pink Line") &&
-    //   line[index + 1] &&
-    //   line[index + 1].includes("Orange Line")
-    // ) {
-    //   line[index] = ["Pink Line to Orange Line (WALKOVER BRIDGE)"];
-    // }
-
     if (element.length > 1) {
       if (index === 0) {
         if (
@@ -138,7 +116,7 @@ let findShortestPath = (startNode, endNode) => {
     }
   });
 
-  console.log("New", line);
+  line.forEach((line) => line.length > 1 && interchange++);
 
   shortestPath.forEach((element, i) => {
     shortestPath[i] = problem[parseInt(element) - 1]["title"];
@@ -159,6 +137,7 @@ let findShortestPath = (startNode, endNode) => {
     time: distances[endNode],
     stationsList,
     fare,
+    interchange,
   };
 
   return results;

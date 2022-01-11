@@ -1,11 +1,9 @@
-const axios = require("axios");
 const {
   GraphQLObjectType,
   GraphQLString,
   GraphQLInt,
   GraphQLSchema,
   GraphQLList,
-  GraphQLNotNull,
   GraphQLFloat,
 } = require("graphql");
 const { findNearestStation } = require("./calculations/geolocation");
@@ -52,6 +50,7 @@ const routeType = new GraphQLObjectType({
     time: { type: GraphQLFloat },
     stationsList: { type: new GraphQLList(stationListType) },
     fare: { type: GraphQLInt },
+    interchange: { type: GraphQLInt },
   }),
 });
 
@@ -59,17 +58,6 @@ const routeType = new GraphQLObjectType({
 const RootQuery = new GraphQLObjectType({
   name: "RootQueryType",
   fields: {
-    // stationById: {
-    //   type: stationType,
-    //   args: {
-    //     id: { type: GraphQLString },
-    //   },
-    //   resolve(parentValue, args) {
-    //     return axios
-    //       .get("http://localhost:3000/stations/" + args.id)
-    //       .then((res) => res.data);
-    //   },
-    // },
     nearestStation: {
       type: nearestStationType,
       args: {
@@ -99,17 +87,6 @@ const RootQuery = new GraphQLObjectType({
         );
       },
     },
-    // stationByName: {
-    //   type: stationType,
-    //   args: {
-    //     name: { type: GraphQLString },
-    //   },
-    //   resolve(parentValue, args) {
-    //     return axios
-    //       .get("http://localhost:3000/stations?title=" + args.name)
-    //       .then((res) => res.data);
-    //   },
-    // },
   },
 });
 
