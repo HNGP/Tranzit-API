@@ -71,21 +71,21 @@ let findShortestPath = (startNode, endNode) => {
 
   //Handling Interchanges
   line.forEach((element, index) => {
-    if (
-      line[index].includes("Orange Line") &&
-      line[index - 1] &&
-      line[index + 1].includes("Pink Line")
-    ) {
-      line[index] = ["Orange Line to Pink Line (WALKOVER BRIDGE)"];
-    }
+    // if (
+    //   line[index].includes("Orange Line") &&
+    //   line[index - 1] &&
+    //   line[index + 1].includes("Pink Line")
+    // ) {
+    //   line[index] = ["Orange Line to Pink Line (WALKOVER BRIDGE)"];
+    // }
 
-    if (
-      line[index].includes("Pink Line") &&
-      line[index + 1] &&
-      line[index + 1].includes("Orange Line")
-    ) {
-      line[index] = ["Pink Line to Orange Line (WALKOVER BRIDGE)"];
-    }
+    // if (
+    //   line[index].includes("Pink Line") &&
+    //   line[index + 1] &&
+    //   line[index + 1].includes("Orange Line")
+    // ) {
+    //   line[index] = ["Pink Line to Orange Line (WALKOVER BRIDGE)"];
+    // }
 
     if (element.length > 1) {
       if (index === 0) {
