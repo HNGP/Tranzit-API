@@ -735,8 +735,8 @@
       "112": 1
     },
     "details": {
-      "line": ["Blue Line"],
-      "layout": ["Elevated"],
+      "line": ["Blue Line", "Pink Line"],
+      "layout": ["Elevated", "Elevated"],
       "latitude": 28.604743,
       "longitude": 77.28932
     }
@@ -1588,8 +1588,8 @@
       "113": 1
     },
     "details": {
-      "line": ["Pink Line", "Blue Line"],
-      "layout": ["Elevated", "Elevated"],
+      "line": ["Pink Line"],
+      "layout": ["Elevated"],
       "latitude": 28.605822,
       "longitude": 77.29876
     }
