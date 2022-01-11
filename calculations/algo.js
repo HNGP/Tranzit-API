@@ -76,7 +76,7 @@ let findShortestPath = (startNode, endNode) => {
       line[index - 1] &&
       line[index + 1].includes("Pink Line")
     ) {
-      line[index] = ["Orange Line to Pink Line (WALKOVER BRIDGE)", ""];
+      line[index] = ["Orange Line to Pink Line (WALKOVER BRIDGE)"];
     }
 
     if (
@@ -84,7 +84,7 @@ let findShortestPath = (startNode, endNode) => {
       line[index + 1] &&
       line[index + 1].includes("Orange Line")
     ) {
-      line[index] = ["Pink Line to Orange Line (WALKOVER BRIDGE)", ""];
+      line[index] = ["Pink Line to Orange Line (WALKOVER BRIDGE)"];
     }
 
     if (element.length > 1) {
